@@ -1,0 +1,1396 @@
+user_id,image_path,item_label,response,response_time_sec,timestamp
+user_1001,sample_testing_file/WOMEN-Jackets_Coats-id_00055724-02_7_additional.jpg,Jackets / Coats,yes,1.379,2026-04-05 14:33:25
+user_1001,sample_testing_file/WOMEN-Jackets_Vests-id_00020380-04_3_back.jpg,Jackets / Vests,yes,5.606,2026-04-05 14:35:05
+user_1001,sample_testing_file/MEN-Shirts_Polos-id_00058879-10_3_back.jpg,Shirts / Polos,no,4.129,2026-04-05 14:37:50
+user_1001,sample_testing_file/WOMEN-Cardigans-id_00034180-04_3_back.jpg,Cardigans,yes,4.023,2026-04-05 14:39:16
+user_1001,sample_testing_file/WOMEN-Dresses-id_00053546-08_7_additional.jpg,Dresses,yes,2.201,2026-04-05 14:40:45
+user_1001,sample_testing_file/WOMEN-Jackets_Coats-id_00015015-11_7_additional.jpg,Jackets / Coats,no,2.387,2026-04-07 11:31:08
+user_1001,sample_testing_file/MEN-Tees_Tanks-id_00029390-11_1_front.jpg,Tees / Tanks,no,3.505,2026-04-07 11:34:23
+user_1001,sample_testing_file/WOMEN-Jackets_Coats-id_00005230-06_2_side.jpg,Jackets / Coats,yes,2.536,2026-04-07 11:36:37
+user_1001,sample_testing_file/WOMEN-Denim-id_00027660-05_1_front.jpg,Denim,yes,3.207,2026-04-07 11:38:38
+user_1001,sample_testing_file/WOMEN-Dresses-id_00023820-01_3_back.jpg,Dresses,yes,1.522,2026-04-08 18:29:49
+user_1001,sample_testing_file/WOMEN-Denim-id_00006631-11_7_additional.jpg,Denim,no,0.705,2026-04-08 18:32:00
+user_1001,sample_testing_file/WOMEN-Dresses-id_00073773-05_1_front.jpg,Dresses,yes,2.542,2026-04-08 18:33:31
+user_1001,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00041360-02_7_additional.jpg,Hoodies / Sweatshirts,no,1.524,2026-04-08 18:36:24
+user_1001,sample_testing_file/WOMEN-Dresses-id_00077993-02_2_side.jpg,Dresses,no,4.487,2026-04-08 18:39:03
+user_1001,sample_testing_file/MEN-Denim-id_00044609-05_7_additional.jpg,Denim,yes,2.745,2026-04-08 18:41:19
+user_1002,sample_testing_file/MEN-Shorts-id_00015861-04_2_side.jpg,Shorts,no,1.991,2026-04-03 13:39:39
+user_1002,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00041360-02_7_additional.jpg,Hoodies / Sweatshirts,yes,0.456,2026-04-03 13:41:43
+user_1002,sample_testing_file/WOMEN-Jackets_Coats-id_00055724-02_7_additional.jpg,Jackets / Coats,yes,1.869,2026-04-03 13:45:06
+user_1002,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00072849-01_7_additional.jpg,Hoodies / Sweatshirts,yes,1.637,2026-04-03 13:46:02
+user_1002,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00014323-04_2_side.jpg,Hoodies / Sweatshirts,no,2.06,2026-04-07 18:25:48
+user_1002,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00048352-03_7_additional.jpg,Hoodies / Sweatshirts,yes,2.051,2026-04-07 18:27:44
+user_1002,sample_testing_file/WOMEN-Cardigans-id_00060947-08_4_full.jpg,Cardigans,no,1.744,2026-04-07 18:31:02
+user_1002,sample_testing_file/WOMEN-Cardigans-id_00040889-10_4_full.jpg,Cardigans,yes,1.666,2026-04-07 18:34:06
+user_1002,sample_testing_file/WOMEN-Skirts-id_00066543-02_3_back.jpg,Skirts,no,2.785,2026-04-07 18:36:55
+user_1002,sample_testing_file/WOMEN-Skirts-id_00027761-09_2_side.jpg,Skirts,yes,2.13,2026-04-09 18:30:06
+user_1002,sample_testing_file/WOMEN-Skirts-id_00063994-04_3_back.jpg,Skirts,yes,2.281,2026-04-09 18:31:31
+user_1002,sample_testing_file/WOMEN-Cardigans-id_00060947-08_4_full.jpg,Cardigans,yes,3.118,2026-04-09 18:34:41
+user_1002,sample_testing_file/MEN-Sweaters-id_00009546-08_4_full.jpg,Sweaters,yes,1.049,2026-04-09 18:38:13
+user_1002,sample_testing_file/MEN-Graphic_Tees-id_00020290-04_3_back.jpg,Graphic Tees,no,4.509,2026-04-09 18:41:12
+user_1002,sample_testing_file/MEN-Shorts-id_00004279-04_3_back.jpg,Shorts,no,2.152,2026-04-09 18:43:21
+user_1003,sample_testing_file/WOMEN-Sweaters-id_00031636-12_4_full.jpg,Sweaters,yes,1.593,2026-04-06 12:16:19
+user_1003,sample_testing_file/MEN-Tees_Tanks-id_00039140-07_4_full.jpg,Tees / Tanks,no,1.42,2026-04-06 12:19:13
+user_1003,sample_testing_file/WOMEN-Dresses-id_00073773-05_1_front.jpg,Dresses,yes,1.438,2026-04-06 12:22:00
+user_1003,sample_testing_file/WOMEN-Dresses-id_00022783-09_1_front.jpg,Dresses,no,3.639,2026-04-06 12:25:08
+user_1003,sample_testing_file/WOMEN-Dresses-id_00023820-01_3_back.jpg,Dresses,yes,1.362,2026-04-07 12:05:48
+user_1003,sample_testing_file/WOMEN-Cardigans-id_00010746-07_7_additional.jpg,Cardigans,yes,2.662,2026-04-07 12:07:10
+user_1003,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00041360-02_7_additional.jpg,Hoodies / Sweatshirts,yes,1.686,2026-04-07 12:09:31
+user_1003,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00035955-01_1_front.jpg,Hoodies / Sweatshirts,yes,1.667,2026-04-07 12:12:48
+user_1003,sample_testing_file/WOMEN-Denim-id_00020927-12_4_full.jpg,Denim,yes,3.461,2026-04-07 12:16:01
+user_1003,sample_testing_file/WOMEN-Skirts-id_00069330-01_7_additional.jpg,Skirts,yes,1.67,2026-04-11 14:50:25
+user_1003,sample_testing_file/WOMEN-Cardigans-id_00040889-10_4_full.jpg,Cardigans,no,4.172,2026-04-11 14:51:47
+user_1003,sample_testing_file/WOMEN-Sweaters-id_00034817-03_1_front.jpg,Sweaters,no,0.901,2026-04-11 14:52:40
+user_1003,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00072849-01_7_additional.jpg,Hoodies / Sweatshirts,yes,0.644,2026-04-11 14:56:19
+user_1003,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00035955-01_1_front.jpg,Hoodies / Sweatshirts,yes,0.734,2026-04-11 14:57:52
+user_1003,sample_testing_file/MEN-Denim-id_00032528-05_2_side.jpg,Denim,no,2.231,2026-04-11 15:00:28
+user_1004,sample_testing_file/WOMEN-Jackets_Vests-id_00072545-09_3_back.jpg,Jackets / Vests,yes,2.361,2026-04-02 13:44:49
+user_1004,sample_testing_file/WOMEN-Shorts-id_00007456-09_1_front.jpg,Shorts,yes,1.428,2026-04-02 13:48:29
+user_1004,sample_testing_file/MEN-Jackets_Vests-id_00034336-03_4_full.jpg,Jackets / Vests,no,2.054,2026-04-02 13:51:39
+user_1004,sample_testing_file/MEN-Shorts-id_00028017-07_1_front.jpg,Shorts,yes,1.782,2026-04-02 13:53:32
+user_1004,sample_testing_file/WOMEN-Shorts-id_00075632-11_1_front.jpg,Shorts,yes,0.586,2026-04-02 13:56:13
+user_1004,sample_testing_file/MEN-Shirts_Polos-id_00023510-12_3_back.jpg,Shirts / Polos,no,0.678,2026-04-02 13:58:29
+user_1004,sample_testing_file/MEN-Shirts_Polos-id_00036518-02_3_back.jpg,Shirts / Polos,yes,1.637,2026-04-02 13:58:58
+user_1004,sample_testing_file/MEN-Shirts_Polos-id_00028747-03_7_additional.jpg,Shirts / Polos,no,1.173,2026-04-02 14:00:16
+user_1004,sample_testing_file/MEN-Graphic_Tees-id_00041146-11_1_front.jpg,Graphic Tees,yes,4.486,2026-04-02 14:03:44
+user_1004,sample_testing_file/MEN-Shirts_Polos-id_00003805-07_3_back.jpg,Shirts / Polos,no,2.305,2026-04-03 12:27:07
+user_1004,sample_testing_file/WOMEN-Blouses_Shirts-id_00002758-10_7_additional.jpg,Blouses / Shirts,yes,5.548,2026-04-03 12:27:33
+user_1004,sample_testing_file/WOMEN-Shorts-id_00075632-11_1_front.jpg,Shorts,yes,2.389,2026-04-03 12:29:23
+user_1004,sample_testing_file/WOMEN-Jackets_Coats-id_00027550-07_7_additional.jpg,Jackets / Coats,yes,2.532,2026-04-03 12:32:26
+user_1004,sample_testing_file/WOMEN-Jackets_Coats-id_00032743-02_4_full.jpg,Jackets / Coats,yes,1.734,2026-04-03 12:34:40
+user_1004,sample_testing_file/WOMEN-Jackets_Coats-id_00005230-06_2_side.jpg,Jackets / Coats,yes,0.721,2026-04-03 12:35:03
+user_1005,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00009072-09_2_side.jpg,Hoodies / Sweatshirts,no,2.007,2026-04-03 19:01:31
+user_1005,sample_testing_file/WOMEN-Denim-id_00020927-12_4_full.jpg,Denim,yes,2.527,2026-04-03 19:02:17
+user_1005,sample_testing_file/WOMEN-Skirts-id_00017362-06_1_front.jpg,Skirts,yes,1.021,2026-04-03 19:05:56
+user_1005,sample_testing_file/WOMEN-Jackets_Coats-id_00031964-08_7_additional.jpg,Jackets / Coats,no,0.574,2026-04-03 19:06:46
+user_1005,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00072849-01_7_additional.jpg,Hoodies / Sweatshirts,no,1.331,2026-04-03 19:08:58
+user_1005,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00079841-11_2_side.jpg,Hoodies / Sweatshirts,no,2.222,2026-04-03 19:10:12
+user_1005,sample_testing_file/MEN-Shorts-id_00044658-03_1_front.jpg,Shorts,no,0.859,2026-04-03 19:13:18
+user_1005,sample_testing_file/WOMEN-Skirts-id_00016552-11_4_full.jpg,Skirts,no,1.465,2026-04-06 17:26:30
+user_1005,sample_testing_file/WOMEN-Skirts-id_00066543-02_3_back.jpg,Skirts,yes,1.041,2026-04-06 17:27:08
+user_1005,sample_testing_file/MEN-Jackets_Vests-id_00018137-03_2_side.jpg,Jackets / Vests,yes,3.747,2026-04-06 17:30:08
+user_1005,sample_testing_file/WOMEN-Shorts-id_00062403-11_4_full.jpg,Shorts,yes,4.279,2026-04-06 17:31:41
+user_1005,sample_testing_file/MEN-Shirts_Polos-id_00023510-12_3_back.jpg,Shirts / Polos,yes,5.229,2026-04-06 17:34:46
+user_1005,sample_testing_file/WOMEN-Blouses_Shirts-id_00071512-01_3_back.jpg,Blouses / Shirts,yes,2.019,2026-04-06 17:36:49
+user_1005,sample_testing_file/WOMEN-Blouses_Shirts-id_00046439-07_4_full.jpg,Blouses / Shirts,yes,0.778,2026-04-06 17:38:27
+user_1005,sample_testing_file/WOMEN-Blouses_Shirts-id_00036435-08_3_back.jpg,Blouses / Shirts,yes,0.658,2026-04-06 17:40:46
+user_1006,sample_testing_file/WOMEN-Skirts-id_00078505-06_4_full.jpg,Skirts,yes,0.907,2026-04-06 21:04:16
+user_1006,sample_testing_file/MEN-Shorts-id_00077140-07_3_back.jpg,Shorts,yes,5.011,2026-04-06 21:07:22
+user_1006,sample_testing_file/MEN-Denim-id_00032528-05_2_side.jpg,Denim,yes,2.186,2026-04-06 21:09:14
+user_1006,sample_testing_file/MEN-Tees_Tanks-id_00029390-11_1_front.jpg,Tees / Tanks,no,1.766,2026-04-06 21:11:55
+user_1006,sample_testing_file/WOMEN-Denim-id_00050141-01_4_full.jpg,Denim,yes,1.038,2026-04-06 21:14:35
+user_1006,sample_testing_file/WOMEN-Skirts-id_00063994-04_3_back.jpg,Skirts,yes,0.84,2026-04-06 21:18:08
+user_1006,sample_testing_file/WOMEN-Skirts-id_00049616-02_7_additional.jpg,Skirts,yes,1.591,2026-04-07 12:37:27
+user_1006,sample_testing_file/MEN-Denim-id_00069617-09_7_additional.jpg,Denim,yes,1.12,2026-04-07 12:39:21
+user_1006,sample_testing_file/WOMEN-Graphic_Tees-id_00067001-08_2_side.jpg,Graphic Tees,no,2.173,2026-04-07 12:41:02
+user_1006,sample_testing_file/MEN-Denim-id_00044588-02_3_back.jpg,Denim,yes,1.035,2026-04-07 12:41:59
+user_1006,sample_testing_file/WOMEN-Skirts-id_00073520-01_1_front.jpg,Skirts,yes,1.552,2026-04-11 20:28:29
+user_1006,sample_testing_file/WOMEN-Denim-id_00050141-01_4_full.jpg,Denim,yes,1.725,2026-04-11 20:30:15
+user_1006,sample_testing_file/WOMEN-Jackets_Vests-id_00005696-12_4_full.jpg,Jackets / Vests,yes,5.721,2026-04-11 20:32:47
+user_1006,sample_testing_file/WOMEN-Skirts-id_00015907-08_2_side.jpg,Skirts,no,3.962,2026-04-11 20:33:19
+user_1006,sample_testing_file/WOMEN-Denim-id_00036348-09_4_full.jpg,Denim,yes,1.519,2026-04-11 20:36:52
+user_1007,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00030736-05_3_back.jpg,Hoodies / Sweatshirts,yes,3.965,2026-04-01 17:05:35
+user_1007,sample_testing_file/WOMEN-Denim-id_00020927-12_4_full.jpg,Denim,no,1.819,2026-04-01 17:07:07
+user_1007,sample_testing_file/WOMEN-Jackets_Vests-id_00020053-07_2_side.jpg,Jackets / Vests,no,1.149,2026-04-01 17:10:03
+user_1007,sample_testing_file/WOMEN-Dresses-id_00053546-08_7_additional.jpg,Dresses,yes,0.619,2026-04-01 17:10:48
+user_1007,sample_testing_file/WOMEN-Dresses-id_00000283-07_3_back.jpg,Dresses,yes,1.811,2026-04-07 14:47:55
+user_1007,sample_testing_file/MEN-Sweaters-id_00023520-05_1_front.jpg,Sweaters,yes,4.41,2026-04-07 14:50:28
+user_1007,sample_testing_file/WOMEN-Jackets_Coats-id_00032743-02_4_full.jpg,Jackets / Coats,no,0.949,2026-04-07 14:53:31
+user_1007,sample_testing_file/WOMEN-Jackets_Vests-id_00072545-09_3_back.jpg,Jackets / Vests,no,1.084,2026-04-07 14:54:33
+user_1007,sample_testing_file/MEN-Tees_Tanks-id_00000222-09_7_additional.jpg,Tees / Tanks,no,4.575,2026-04-07 14:58:08
+user_1007,sample_testing_file/WOMEN-Blouses_Shirts-id_00002541-12_7_additional.jpg,Blouses / Shirts,no,2.348,2026-04-11 17:45:15
+user_1007,sample_testing_file/MEN-Shirts_Polos-id_00009962-10_2_side.jpg,Shirts / Polos,yes,1.401,2026-04-11 17:48:13
+user_1007,sample_testing_file/WOMEN-Graphic_Tees-id_00050329-08_4_full.jpg,Graphic Tees,no,1.439,2026-04-11 17:49:48
+user_1007,sample_testing_file/WOMEN-Blouses_Shirts-id_00049798-02_3_back.jpg,Blouses / Shirts,yes,4.942,2026-04-11 17:51:25
+user_1007,sample_testing_file/WOMEN-Sweaters-id_00034817-03_1_front.jpg,Sweaters,yes,3.73,2026-04-11 17:52:02
+user_1007,sample_testing_file/WOMEN-Jackets_Vests-id_00066163-07_7_additional.jpg,Jackets / Vests,no,4.468,2026-04-11 17:53:58
+user_1008,sample_testing_file/WOMEN-Sweaters-id_00000943-02_1_front.jpg,Sweaters,no,0.786,2026-04-01 17:08:08
+user_1008,sample_testing_file/MEN-Denim-id_00044609-05_7_additional.jpg,Denim,no,1.639,2026-04-01 17:09:29
+user_1008,sample_testing_file/WOMEN-Cardigans-id_00009603-09_2_side.jpg,Cardigans,yes,2.115,2026-04-01 17:11:20
+user_1008,sample_testing_file/MEN-Jackets_Vests-id_00063905-04_3_back.jpg,Jackets / Vests,no,2.407,2026-04-01 17:14:31
+user_1008,sample_testing_file/WOMEN-Cardigans-id_00068495-07_4_full.jpg,Cardigans,yes,0.992,2026-04-01 17:16:13
+user_1008,sample_testing_file/WOMEN-Denim-id_00006631-11_7_additional.jpg,Denim,no,1.586,2026-04-01 17:19:19
+user_1008,sample_testing_file/WOMEN-Blouses_Shirts-id_00071512-01_3_back.jpg,Blouses / Shirts,yes,4.315,2026-04-03 12:23:20
+user_1008,sample_testing_file/WOMEN-Cardigans-id_00060947-08_4_full.jpg,Cardigans,yes,1.156,2026-04-03 12:23:59
+user_1008,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00041360-02_7_additional.jpg,Hoodies / Sweatshirts,no,5.786,2026-04-03 12:24:49
+user_1008,sample_testing_file/WOMEN-Cardigans-id_00068495-07_4_full.jpg,Cardigans,yes,1.228,2026-04-03 12:27:21
+user_1008,sample_testing_file/WOMEN-Cardigans-id_00010746-07_7_additional.jpg,Cardigans,yes,2.097,2026-04-03 12:29:11
+user_1008,sample_testing_file/MEN-Shorts-id_00004279-04_3_back.jpg,Shorts,yes,2.107,2026-04-09 13:14:37
+user_1008,sample_testing_file/MEN-Sweaters-id_00027870-11_4_full.jpg,Sweaters,no,2.159,2026-04-09 13:18:04
+user_1008,sample_testing_file/WOMEN-Cardigans-id_00060947-08_4_full.jpg,Cardigans,yes,0.839,2026-04-09 13:21:00
+user_1008,sample_testing_file/MEN-Denim-id_00037389-07_7_additional.jpg,Denim,no,0.535,2026-04-09 13:24:15
+user_1009,sample_testing_file/WOMEN-Cardigans-id_00060947-08_4_full.jpg,Cardigans,yes,2.137,2026-04-04 13:25:03
+user_1009,sample_testing_file/MEN-Tees_Tanks-id_00000222-09_7_additional.jpg,Tees / Tanks,no,4.866,2026-04-04 13:26:58
+user_1009,sample_testing_file/MEN-Graphic_Tees-id_00020290-04_3_back.jpg,Graphic Tees,yes,1.483,2026-04-04 13:29:50
+user_1009,sample_testing_file/WOMEN-Shorts-id_00006176-02_2_side.jpg,Shorts,no,3.331,2026-04-04 13:31:43
+user_1009,sample_testing_file/MEN-Sweaters-id_00049696-11_2_side.jpg,Sweaters,no,1.73,2026-04-05 11:19:13
+user_1009,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00014323-04_2_side.jpg,Hoodies / Sweatshirts,no,4.385,2026-04-05 11:21:22
+user_1009,sample_testing_file/MEN-Graphic_Tees-id_00041146-11_1_front.jpg,Graphic Tees,yes,0.957,2026-04-05 11:21:46
+user_1009,sample_testing_file/WOMEN-Sweaters-id_00018290-12_1_front.jpg,Sweaters,yes,0.663,2026-04-05 11:22:24
+user_1009,sample_testing_file/WOMEN-Jackets_Coats-id_00055724-02_7_additional.jpg,Jackets / Coats,yes,0.895,2026-04-05 11:25:44
+user_1009,sample_testing_file/MEN-Shirts_Polos-id_00059471-01_3_back.jpg,Shirts / Polos,no,3.092,2026-04-05 11:28:02
+user_1009,sample_testing_file/MEN-Sweaters-id_00053355-04_1_front.jpg,Sweaters,no,3.176,2026-04-08 19:01:22
+user_1009,sample_testing_file/WOMEN-Cardigans-id_00053226-09_1_front.jpg,Cardigans,yes,2.169,2026-04-08 19:04:46
+user_1009,sample_testing_file/MEN-Graphic_Tees-id_00020290-04_3_back.jpg,Graphic Tees,yes,2.157,2026-04-08 19:06:21
+user_1009,sample_testing_file/WOMEN-Graphic_Tees-id_00050329-08_4_full.jpg,Graphic Tees,yes,0.485,2026-04-08 19:08:36
+user_1009,sample_testing_file/WOMEN-Shorts-id_00075632-11_1_front.jpg,Shorts,yes,2.889,2026-04-08 19:11:05
+user_1010,sample_testing_file/WOMEN-Graphic_Tees-id_00073921-04_4_full.jpg,Graphic Tees,yes,2.604,2026-04-09 18:02:39
+user_1010,sample_testing_file/WOMEN-Cardigans-id_00079906-12_1_front.jpg,Cardigans,yes,0.968,2026-04-09 18:06:08
+user_1010,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00035955-01_1_front.jpg,Hoodies / Sweatshirts,no,4.559,2026-04-09 18:09:14
+user_1010,sample_testing_file/MEN-Shirts_Polos-id_00028044-02_4_full.jpg,Shirts / Polos,yes,1.832,2026-04-09 18:10:06
+user_1010,sample_testing_file/WOMEN-Shorts-id_00075632-11_1_front.jpg,Shorts,yes,4.352,2026-04-10 20:30:34
+user_1010,sample_testing_file/MEN-Sweaters-id_00053355-04_1_front.jpg,Sweaters,yes,0.879,2026-04-10 20:32:49
+user_1010,sample_testing_file/MEN-Sweaters-id_00037354-03_4_full.jpg,Sweaters,yes,2.577,2026-04-10 20:33:17
+user_1010,sample_testing_file/WOMEN-Jackets_Vests-id_00020380-04_3_back.jpg,Jackets / Vests,no,1.675,2026-04-10 20:35:54
+user_1010,sample_testing_file/WOMEN-Blouses_Shirts-id_00036435-08_3_back.jpg,Blouses / Shirts,yes,2.263,2026-04-10 20:37:43
+user_1010,sample_testing_file/WOMEN-Blouses_Shirts-id_00078698-02_7_additional.jpg,Blouses / Shirts,yes,3.456,2026-04-10 20:38:32
+user_1010,sample_testing_file/MEN-Denim-id_00032528-05_2_side.jpg,Denim,no,3.348,2026-04-11 16:22:02
+user_1010,sample_testing_file/WOMEN-Dresses-id_00046567-04_3_back.jpg,Dresses,no,2.39,2026-04-11 16:22:41
+user_1010,sample_testing_file/WOMEN-Skirts-id_00032915-01_1_front.jpg,Skirts,yes,2.372,2026-04-11 16:23:45
+user_1010,sample_testing_file/MEN-Shirts_Polos-id_00027743-08_3_back.jpg,Shirts / Polos,yes,0.808,2026-04-11 16:25:18
+user_1010,sample_testing_file/MEN-Shirts_Polos-id_00058879-10_3_back.jpg,Shirts / Polos,yes,2.41,2026-04-11 16:27:29
+user_1011,sample_testing_file/WOMEN-Jackets_Coats-id_00015015-11_7_additional.jpg,Jackets / Coats,yes,2.124,2026-04-01 12:39:53
+user_1011,sample_testing_file/MEN-Tees_Tanks-id_00064252-02_4_full.jpg,Tees / Tanks,yes,0.78,2026-04-01 12:41:44
+user_1011,sample_testing_file/WOMEN-Skirts-id_00069330-01_7_additional.jpg,Skirts,no,0.6,2026-04-01 12:43:57
+user_1011,sample_testing_file/WOMEN-Sweaters-id_00060333-06_3_back.jpg,Sweaters,yes,2.121,2026-04-01 12:44:50
+user_1011,sample_testing_file/WOMEN-Jackets_Coats-id_00032743-02_4_full.jpg,Jackets / Coats,yes,1.282,2026-04-01 12:45:37
+user_1011,sample_testing_file/WOMEN-Jackets_Coats-id_00005230-06_2_side.jpg,Jackets / Coats,yes,0.911,2026-04-01 12:48:18
+user_1011,sample_testing_file/WOMEN-Skirts-id_00027761-09_2_side.jpg,Skirts,no,2.113,2026-04-03 19:20:02
+user_1011,sample_testing_file/WOMEN-Graphic_Tees-id_00035993-08_1_front.jpg,Graphic Tees,no,4.118,2026-04-03 19:22:15
+user_1011,sample_testing_file/MEN-Shirts_Polos-id_00042246-04_1_front.jpg,Shirts / Polos,yes,3.465,2026-04-03 19:23:54
+user_1011,sample_testing_file/WOMEN-Dresses-id_00072064-03_3_back.jpg,Dresses,yes,2.775,2026-04-03 19:25:28
+user_1011,sample_testing_file/WOMEN-Skirts-id_00078505-06_4_full.jpg,Skirts,no,1.413,2026-04-03 19:26:17
+user_1011,sample_testing_file/MEN-Shirts_Polos-id_00023510-12_3_back.jpg,Shirts / Polos,yes,5.713,2026-04-03 19:28:07
+user_1011,sample_testing_file/WOMEN-Graphic_Tees-id_00067001-08_2_side.jpg,Graphic Tees,no,3.788,2026-04-11 12:40:21
+user_1011,sample_testing_file/WOMEN-Graphic_Tees-id_00050329-08_4_full.jpg,Graphic Tees,no,1.466,2026-04-11 12:42:53
+user_1011,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00066470-05_4_full.jpg,Hoodies / Sweatshirts,yes,3.339,2026-04-11 12:44:32
+user_1012,sample_testing_file/WOMEN-Skirts-id_00078505-06_4_full.jpg,Skirts,yes,1.975,2026-04-07 10:08:02
+user_1012,sample_testing_file/WOMEN-Graphic_Tees-id_00037197-09_7_additional.jpg,Graphic Tees,yes,3.753,2026-04-07 10:09:48
+user_1012,sample_testing_file/MEN-Denim-id_00069617-09_7_additional.jpg,Denim,yes,1.794,2026-04-07 10:11:10
+user_1012,sample_testing_file/WOMEN-Jackets_Vests-id_00038753-09_2_side.jpg,Jackets / Vests,no,3.718,2026-04-07 10:14:05
+user_1012,sample_testing_file/MEN-Denim-id_00044609-05_7_additional.jpg,Denim,yes,2.389,2026-04-07 10:16:51
+user_1012,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00030736-05_3_back.jpg,Hoodies / Sweatshirts,no,2.134,2026-04-07 10:18:35
+user_1012,sample_testing_file/WOMEN-Denim-id_00045509-09_4_full.jpg,Denim,yes,1.019,2026-04-07 10:19:13
+user_1012,sample_testing_file/MEN-Shirts_Polos-id_00058879-10_3_back.jpg,Shirts / Polos,no,3.899,2026-04-09 13:50:22
+user_1012,sample_testing_file/WOMEN-Shorts-id_00007456-09_1_front.jpg,Shorts,no,4.804,2026-04-09 13:51:54
+user_1012,sample_testing_file/MEN-Denim-id_00032528-05_2_side.jpg,Denim,yes,0.579,2026-04-09 13:55:07
+user_1012,sample_testing_file/WOMEN-Denim-id_00050141-01_4_full.jpg,Denim,yes,1.754,2026-04-09 13:57:17
+user_1012,sample_testing_file/WOMEN-Graphic_Tees-id_00013474-06_7_additional.jpg,Graphic Tees,no,2.129,2026-04-09 13:58:55
+user_1012,sample_testing_file/WOMEN-Skirts-id_00069330-01_7_additional.jpg,Skirts,yes,0.678,2026-04-09 14:00:55
+user_1012,sample_testing_file/MEN-Shorts-id_00028017-07_1_front.jpg,Shorts,yes,1.418,2026-04-09 14:02:14
+user_1012,sample_testing_file/WOMEN-Skirts-id_00073520-01_1_front.jpg,Skirts,no,2.705,2026-04-09 14:02:44
+user_1013,sample_testing_file/MEN-Jackets_Vests-id_00030785-11_3_back.jpg,Jackets / Vests,yes,2.528,2026-04-08 17:19:52
+user_1013,sample_testing_file/WOMEN-Jackets_Coats-id_00075675-04_1_front.jpg,Jackets / Coats,yes,3.224,2026-04-08 17:21:05
+user_1013,sample_testing_file/WOMEN-Dresses-id_00000283-07_3_back.jpg,Dresses,no,5.021,2026-04-08 17:24:10
+user_1013,sample_testing_file/WOMEN-Jackets_Vests-id_00070283-06_1_front.jpg,Jackets / Vests,yes,2.092,2026-04-08 17:26:18
+user_1013,sample_testing_file/WOMEN-Jackets_Vests-id_00020380-04_3_back.jpg,Jackets / Vests,yes,0.869,2026-04-08 17:28:09
+user_1013,sample_testing_file/WOMEN-Cardigans-id_00051646-10_7_additional.jpg,Cardigans,yes,2.093,2026-04-08 17:30:48
+user_1013,sample_testing_file/MEN-Shirts_Polos-id_00059471-01_3_back.jpg,Shirts / Polos,no,0.639,2026-04-08 17:32:17
+user_1013,sample_testing_file/MEN-Sweaters-id_00049696-11_2_side.jpg,Sweaters,no,1.163,2026-04-08 17:34:10
+user_1013,sample_testing_file/WOMEN-Cardigans-id_00044093-01_4_full.jpg,Cardigans,yes,0.537,2026-04-08 17:35:04
+user_1013,sample_testing_file/WOMEN-Sweaters-id_00031636-12_4_full.jpg,Sweaters,no,1.632,2026-04-09 10:09:26
+user_1013,sample_testing_file/WOMEN-Jackets_Vests-id_00020053-07_2_side.jpg,Jackets / Vests,yes,1.295,2026-04-09 10:11:55
+user_1013,sample_testing_file/MEN-Shirts_Polos-id_00023510-12_3_back.jpg,Shirts / Polos,no,1.439,2026-04-09 10:14:50
+user_1013,sample_testing_file/MEN-Graphic_Tees-id_00009039-09_3_back.jpg,Graphic Tees,no,3.122,2026-04-09 10:17:18
+user_1013,sample_testing_file/WOMEN-Jackets_Vests-id_00072545-09_3_back.jpg,Jackets / Vests,yes,1.346,2026-04-09 10:17:40
+user_1013,sample_testing_file/MEN-Shirts_Polos-id_00058879-10_3_back.jpg,Shirts / Polos,no,0.968,2026-04-09 10:19:16
+user_1014,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00066470-05_4_full.jpg,Hoodies / Sweatshirts,yes,0.776,2026-04-03 10:37:11
+user_1014,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00075457-07_4_full.jpg,Hoodies / Sweatshirts,yes,2.429,2026-04-03 10:40:25
+user_1014,sample_testing_file/WOMEN-Skirts-id_00015907-08_2_side.jpg,Skirts,no,0.854,2026-04-03 10:43:51
+user_1014,sample_testing_file/WOMEN-Skirts-id_00073520-01_1_front.jpg,Skirts,no,1.062,2026-04-03 10:45:32
+user_1014,sample_testing_file/WOMEN-Sweaters-id_00019314-01_1_front.jpg,Sweaters,yes,2.507,2026-04-03 10:46:34
+user_1014,sample_testing_file/WOMEN-Graphic_Tees-id_00035993-08_1_front.jpg,Graphic Tees,no,1.802,2026-04-03 10:50:09
+user_1014,sample_testing_file/WOMEN-Denim-id_00006631-11_7_additional.jpg,Denim,yes,2.222,2026-04-03 10:53:03
+user_1014,sample_testing_file/MEN-Graphic_Tees-id_00021633-08_2_side.jpg,Graphic Tees,no,1.825,2026-04-03 10:54:37
+user_1014,sample_testing_file/WOMEN-Jackets_Vests-id_00066163-07_7_additional.jpg,Jackets / Vests,no,4.757,2026-04-03 10:56:16
+user_1014,sample_testing_file/MEN-Jackets_Vests-id_00034336-03_4_full.jpg,Jackets / Vests,no,2.712,2026-04-04 14:19:03
+user_1014,sample_testing_file/MEN-Graphic_Tees-id_00021633-08_2_side.jpg,Graphic Tees,no,0.532,2026-04-04 14:20:49
+user_1014,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00066470-05_4_full.jpg,Hoodies / Sweatshirts,yes,2.057,2026-04-04 14:24:09
+user_1014,sample_testing_file/MEN-Tees_Tanks-id_00039140-07_4_full.jpg,Tees / Tanks,yes,1.658,2026-04-04 14:25:21
+user_1014,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00048352-03_7_additional.jpg,Hoodies / Sweatshirts,yes,0.964,2026-04-04 14:26:48
+user_1014,sample_testing_file/WOMEN-Sweaters-id_00019314-01_1_front.jpg,Sweaters,yes,1.887,2026-04-04 14:27:18
+user_1015,sample_testing_file/WOMEN-Cardigans-id_00051646-10_7_additional.jpg,Cardigans,no,1.924,2026-04-03 16:43:15
+user_1015,sample_testing_file/MEN-Shirts_Polos-id_00027743-08_3_back.jpg,Shirts / Polos,yes,2.103,2026-04-03 16:44:46
+user_1015,sample_testing_file/MEN-Graphic_Tees-id_00041146-11_1_front.jpg,Graphic Tees,no,5.037,2026-04-03 16:47:50
+user_1015,sample_testing_file/WOMEN-Cardigans-id_00010746-07_7_additional.jpg,Cardigans,no,2.083,2026-04-03 16:48:17
+user_1015,sample_testing_file/WOMEN-Cardigans-id_00053226-09_1_front.jpg,Cardigans,yes,1.84,2026-04-03 16:48:44
+user_1015,sample_testing_file/WOMEN-Cardigans-id_00056334-03_1_front.jpg,Cardigans,yes,1.327,2026-04-03 16:52:13
+user_1015,sample_testing_file/WOMEN-Blouses_Shirts-id_00071512-01_3_back.jpg,Blouses / Shirts,no,1.701,2026-04-09 19:39:25
+user_1015,sample_testing_file/WOMEN-Denim-id_00027660-05_1_front.jpg,Denim,yes,3.271,2026-04-09 19:41:57
+user_1015,sample_testing_file/MEN-Shirts_Polos-id_00018727-05_2_side.jpg,Shirts / Polos,yes,2.022,2026-04-09 19:43:24
+user_1015,sample_testing_file/MEN-Shirts_Polos-id_00059471-01_3_back.jpg,Shirts / Polos,yes,1.175,2026-04-09 19:46:27
+user_1015,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00048352-03_7_additional.jpg,Hoodies / Sweatshirts,yes,3.816,2026-04-09 19:48:00
+user_1015,sample_testing_file/WOMEN-Cardigans-id_00060947-08_4_full.jpg,Cardigans,no,0.619,2026-04-09 19:51:01
+user_1015,sample_testing_file/MEN-Shirts_Polos-id_00078105-08_7_additional.jpg,Shirts / Polos,yes,2.462,2026-04-09 19:54:10
+user_1015,sample_testing_file/MEN-Shirts_Polos-id_00023510-12_3_back.jpg,Shirts / Polos,yes,1.024,2026-04-09 19:54:29
+user_1015,sample_testing_file/WOMEN-Jackets_Vests-id_00072545-09_3_back.jpg,Jackets / Vests,yes,1.012,2026-04-09 19:56:11
+user_1016,sample_testing_file/WOMEN-Cardigans-id_00051646-10_7_additional.jpg,Cardigans,no,0.877,2026-04-05 21:08:58
+user_1016,sample_testing_file/MEN-Graphic_Tees-id_00041146-11_1_front.jpg,Graphic Tees,no,3.789,2026-04-05 21:09:50
+user_1016,sample_testing_file/WOMEN-Dresses-id_00073773-05_1_front.jpg,Dresses,no,2.014,2026-04-05 21:11:54
+user_1016,sample_testing_file/WOMEN-Dresses-id_00072064-03_3_back.jpg,Dresses,no,1.48,2026-04-05 21:13:07
+user_1016,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00075457-07_4_full.jpg,Hoodies / Sweatshirts,no,1.928,2026-04-09 15:05:54
+user_1016,sample_testing_file/MEN-Sweaters-id_00051877-03_3_back.jpg,Sweaters,no,2.791,2026-04-09 15:08:29
+user_1016,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00048352-03_7_additional.jpg,Hoodies / Sweatshirts,yes,2.383,2026-04-09 15:11:41
+user_1016,sample_testing_file/WOMEN-Cardigans-id_00040889-10_4_full.jpg,Cardigans,no,1.26,2026-04-09 15:13:53
+user_1016,sample_testing_file/MEN-Sweaters-id_00009546-08_4_full.jpg,Sweaters,yes,1.113,2026-04-09 15:16:35
+user_1016,sample_testing_file/WOMEN-Sweaters-id_00074848-10_4_full.jpg,Sweaters,yes,0.547,2026-04-11 10:26:28
+user_1016,sample_testing_file/WOMEN-Cardigans-id_00068495-07_4_full.jpg,Cardigans,yes,4.01,2026-04-11 10:28:14
+user_1016,sample_testing_file/WOMEN-Cardigans-id_00044093-01_4_full.jpg,Cardigans,no,1.247,2026-04-11 10:28:49
+user_1016,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00072849-01_7_additional.jpg,Hoodies / Sweatshirts,no,3.525,2026-04-11 10:32:23
+user_1016,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00057200-10_7_additional.jpg,Hoodies / Sweatshirts,yes,2.422,2026-04-11 10:34:28
+user_1016,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00035955-01_1_front.jpg,Hoodies / Sweatshirts,no,4.348,2026-04-11 10:36:22
+user_1017,sample_testing_file/WOMEN-Cardigans-id_00021466-05_1_front.jpg,Cardigans,no,1.962,2026-04-01 14:30:49
+user_1017,sample_testing_file/MEN-Graphic_Tees-id_00020290-04_3_back.jpg,Graphic Tees,no,3.81,2026-04-01 14:32:35
+user_1017,sample_testing_file/WOMEN-Graphic_Tees-id_00011004-11_4_full.jpg,Graphic Tees,yes,2.097,2026-04-01 14:33:21
+user_1017,sample_testing_file/WOMEN-Jackets_Vests-id_00020380-04_3_back.jpg,Jackets / Vests,yes,0.522,2026-04-01 14:33:43
+user_1017,sample_testing_file/MEN-Sweaters-id_00027870-11_4_full.jpg,Sweaters,yes,0.926,2026-04-01 14:36:34
+user_1017,sample_testing_file/MEN-Jackets_Vests-id_00034336-03_4_full.jpg,Jackets / Vests,yes,2.119,2026-04-01 14:38:44
+user_1017,sample_testing_file/WOMEN-Dresses-id_00053546-08_7_additional.jpg,Dresses,no,1.616,2026-04-04 12:32:52
+user_1017,sample_testing_file/WOMEN-Dresses-id_00077993-02_2_side.jpg,Dresses,no,0.729,2026-04-04 12:36:02
+user_1017,sample_testing_file/WOMEN-Cardigans-id_00044093-01_4_full.jpg,Cardigans,yes,1.011,2026-04-04 12:39:09
+user_1017,sample_testing_file/WOMEN-Blouses_Shirts-id_00046439-07_4_full.jpg,Blouses / Shirts,no,1.283,2026-04-04 12:41:58
+user_1017,sample_testing_file/WOMEN-Cardigans-id_00021466-05_1_front.jpg,Cardigans,no,2.326,2026-04-10 17:04:42
+user_1017,sample_testing_file/WOMEN-Graphic_Tees-id_00013474-06_7_additional.jpg,Graphic Tees,yes,2.072,2026-04-10 17:06:46
+user_1017,sample_testing_file/MEN-Graphic_Tees-id_00036266-01_1_front.jpg,Graphic Tees,yes,1.971,2026-04-10 17:09:05
+user_1017,sample_testing_file/WOMEN-Dresses-id_00022783-09_1_front.jpg,Dresses,no,1.262,2026-04-10 17:11:21
+user_1017,sample_testing_file/MEN-Jackets_Vests-id_00034336-03_4_full.jpg,Jackets / Vests,yes,1.16,2026-04-10 17:13:54
+user_1018,sample_testing_file/WOMEN-Blouses_Shirts-id_00002758-10_7_additional.jpg,Blouses / Shirts,yes,3.004,2026-04-05 20:39:00
+user_1018,sample_testing_file/WOMEN-Denim-id_00050141-01_4_full.jpg,Denim,yes,5.326,2026-04-05 20:42:09
+user_1018,sample_testing_file/WOMEN-Graphic_Tees-id_00003279-12_3_back.jpg,Graphic Tees,no,0.821,2026-04-05 20:43:44
+user_1018,sample_testing_file/MEN-Shorts-id_00004279-04_3_back.jpg,Shorts,yes,0.972,2026-04-05 20:47:11
+user_1018,sample_testing_file/WOMEN-Blouses_Shirts-id_00075575-04_3_back.jpg,Blouses / Shirts,yes,2.901,2026-04-05 20:50:03
+user_1018,sample_testing_file/MEN-Jackets_Vests-id_00018137-03_2_side.jpg,Jackets / Vests,yes,1.222,2026-04-05 20:53:39
+user_1018,sample_testing_file/MEN-Tees_Tanks-id_00052582-05_1_front.jpg,Tees / Tanks,no,4.384,2026-04-07 14:24:48
+user_1018,sample_testing_file/WOMEN-Blouses_Shirts-id_00002758-10_7_additional.jpg,Blouses / Shirts,no,1.257,2026-04-07 14:28:20
+user_1018,sample_testing_file/WOMEN-Graphic_Tees-id_00073921-04_4_full.jpg,Graphic Tees,no,0.959,2026-04-07 14:31:02
+user_1018,sample_testing_file/WOMEN-Skirts-id_00032915-01_1_front.jpg,Skirts,yes,1.701,2026-04-07 14:33:49
+user_1018,sample_testing_file/MEN-Shorts-id_00009509-01_4_full.jpg,Shorts,yes,1.857,2026-04-07 14:35:05
+user_1018,sample_testing_file/WOMEN-Jackets_Vests-id_00020053-07_2_side.jpg,Jackets / Vests,no,3.51,2026-04-07 14:38:18
+user_1018,sample_testing_file/WOMEN-Cardigans-id_00021466-05_1_front.jpg,Cardigans,no,1.563,2026-04-07 14:40:41
+user_1018,sample_testing_file/WOMEN-Tees_Tanks-id_00074365-02_1_front.jpg,Tees / Tanks,no,3.465,2026-04-07 14:44:03
+user_1018,sample_testing_file/WOMEN-Graphic_Tees-id_00067001-08_2_side.jpg,Graphic Tees,no,2.101,2026-04-07 14:47:05
+user_1019,sample_testing_file/MEN-Tees_Tanks-id_00029390-11_1_front.jpg,Tees / Tanks,yes,1.776,2026-04-01 13:33:12
+user_1019,sample_testing_file/WOMEN-Cardigans-id_00073564-04_7_additional.jpg,Cardigans,yes,3.513,2026-04-01 13:35:33
+user_1019,sample_testing_file/MEN-Tees_Tanks-id_00064252-02_4_full.jpg,Tees / Tanks,yes,2.552,2026-04-01 13:35:54
+user_1019,sample_testing_file/MEN-Shirts_Polos-id_00009962-10_2_side.jpg,Shirts / Polos,no,4.811,2026-04-01 13:36:16
+user_1019,sample_testing_file/MEN-Tees_Tanks-id_00052582-05_1_front.jpg,Tees / Tanks,yes,0.968,2026-04-01 13:37:19
+user_1019,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00035955-01_1_front.jpg,Hoodies / Sweatshirts,yes,4.754,2026-04-01 13:40:15
+user_1019,sample_testing_file/WOMEN-Cardigans-id_00040889-10_4_full.jpg,Cardigans,yes,4.189,2026-04-03 11:24:14
+user_1019,sample_testing_file/WOMEN-Dresses-id_00073773-05_1_front.jpg,Dresses,no,0.862,2026-04-03 11:24:52
+user_1019,sample_testing_file/WOMEN-Denim-id_00036348-09_4_full.jpg,Denim,yes,1.819,2026-04-03 11:26:53
+user_1019,sample_testing_file/MEN-Tees_Tanks-id_00000222-09_7_additional.jpg,Tees / Tanks,no,3.522,2026-04-03 11:30:10
+user_1019,sample_testing_file/WOMEN-Cardigans-id_00068495-07_4_full.jpg,Cardigans,no,5.263,2026-04-03 11:31:52
+user_1019,sample_testing_file/MEN-Tees_Tanks-id_00064252-02_4_full.jpg,Tees / Tanks,no,2.912,2026-04-03 11:32:20
+user_1019,sample_testing_file/MEN-Sweaters-id_00026686-11_3_back.jpg,Sweaters,yes,2.934,2026-04-03 11:32:49
+user_1019,sample_testing_file/MEN-Tees_Tanks-id_00007493-01_7_additional.jpg,Tees / Tanks,yes,0.895,2026-04-03 11:33:15
+user_1019,sample_testing_file/WOMEN-Shorts-id_00062403-11_4_full.jpg,Shorts,yes,2.168,2026-04-03 11:34:09
+user_1020,sample_testing_file/MEN-Shirts_Polos-id_00040136-11_7_additional.jpg,Shirts / Polos,yes,1.751,2026-04-02 21:22:29
+user_1020,sample_testing_file/WOMEN-Denim-id_00050141-01_4_full.jpg,Denim,yes,2.246,2026-04-02 21:25:24
+user_1020,sample_testing_file/WOMEN-Cardigans-id_00053226-09_1_front.jpg,Cardigans,yes,1.215,2026-04-02 21:28:24
+user_1020,sample_testing_file/WOMEN-Cardigans-id_00040889-10_4_full.jpg,Cardigans,yes,1.267,2026-04-02 21:30:18
+user_1020,sample_testing_file/WOMEN-Jackets_Coats-id_00013177-04_3_back.jpg,Jackets / Coats,yes,1.075,2026-04-02 21:33:53
+user_1020,sample_testing_file/MEN-Denim-id_00044588-02_3_back.jpg,Denim,no,1.068,2026-04-03 14:10:29
+user_1020,sample_testing_file/WOMEN-Cardigans-id_00009603-09_2_side.jpg,Cardigans,yes,2.087,2026-04-03 14:11:14
+user_1020,sample_testing_file/MEN-Shirts_Polos-id_00059471-01_3_back.jpg,Shirts / Polos,yes,1.648,2026-04-03 14:11:58
+user_1020,sample_testing_file/WOMEN-Cardigans-id_00073564-04_7_additional.jpg,Cardigans,yes,1.642,2026-04-03 14:14:27
+user_1020,sample_testing_file/WOMEN-Sweaters-id_00075915-12_7_additional.jpg,Sweaters,no,0.763,2026-04-03 14:17:17
+user_1020,sample_testing_file/MEN-Shirts_Polos-id_00028747-03_7_additional.jpg,Shirts / Polos,yes,1.653,2026-04-03 14:19:20
+user_1020,sample_testing_file/WOMEN-Tees_Tanks-id_00074365-02_1_front.jpg,Tees / Tanks,yes,2.236,2026-04-09 13:37:03
+user_1020,sample_testing_file/MEN-Shirts_Polos-id_00059471-01_3_back.jpg,Shirts / Polos,yes,1.355,2026-04-09 13:39:27
+user_1020,sample_testing_file/MEN-Denim-id_00032528-05_2_side.jpg,Denim,no,0.931,2026-04-09 13:41:48
+user_1020,sample_testing_file/WOMEN-Tees_Tanks-id_00055070-07_7_additional.jpg,Tees / Tanks,yes,1.246,2026-04-09 13:44:46
+user_1021,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00066470-05_4_full.jpg,Hoodies / Sweatshirts,yes,5.619,2026-04-03 14:21:58
+user_1021,sample_testing_file/MEN-Shirts_Polos-id_00040136-11_7_additional.jpg,Shirts / Polos,yes,1.688,2026-04-03 14:23:37
+user_1021,sample_testing_file/MEN-Shirts_Polos-id_00023510-12_3_back.jpg,Shirts / Polos,no,2.615,2026-04-03 14:24:57
+user_1021,sample_testing_file/WOMEN-Cardigans-id_00034180-04_3_back.jpg,Cardigans,no,1.514,2026-04-03 14:25:44
+user_1021,sample_testing_file/WOMEN-Cardigans-id_00073564-04_7_additional.jpg,Cardigans,yes,2.639,2026-04-03 14:28:56
+user_1021,sample_testing_file/WOMEN-Tees_Tanks-id_00037931-02_2_side.jpg,Tees / Tanks,no,4.064,2026-04-07 21:14:39
+user_1021,sample_testing_file/WOMEN-Graphic_Tees-id_00020033-06_2_side.jpg,Graphic Tees,no,1.934,2026-04-07 21:16:41
+user_1021,sample_testing_file/WOMEN-Tees_Tanks-id_00055070-07_7_additional.jpg,Tees / Tanks,no,1.466,2026-04-07 21:19:47
+user_1021,sample_testing_file/WOMEN-Blouses_Shirts-id_00071512-01_3_back.jpg,Blouses / Shirts,no,5.41,2026-04-07 21:22:38
+user_1021,sample_testing_file/WOMEN-Jackets_Vests-id_00020380-04_3_back.jpg,Jackets / Vests,no,2.494,2026-04-07 21:25:53
+user_1021,sample_testing_file/MEN-Jackets_Vests-id_00034336-03_4_full.jpg,Jackets / Vests,yes,1.213,2026-04-10 18:39:58
+user_1021,sample_testing_file/WOMEN-Shorts-id_00062217-08_3_back.jpg,Shorts,no,4.155,2026-04-10 18:43:01
+user_1021,sample_testing_file/WOMEN-Denim-id_00050141-01_4_full.jpg,Denim,yes,2.548,2026-04-10 18:45:01
+user_1021,sample_testing_file/MEN-Shirts_Polos-id_00074669-04_7_additional.jpg,Shirts / Polos,yes,1.565,2026-04-10 18:45:21
+user_1021,sample_testing_file/WOMEN-Sweaters-id_00074848-10_4_full.jpg,Sweaters,yes,2.695,2026-04-10 18:48:07
+user_1022,sample_testing_file/WOMEN-Jackets_Vests-id_00066163-07_7_additional.jpg,Jackets / Vests,yes,0.66,2026-04-02 14:22:39
+user_1022,sample_testing_file/WOMEN-Sweaters-id_00000727-02_4_full.jpg,Sweaters,yes,0.928,2026-04-02 14:26:01
+user_1022,sample_testing_file/WOMEN-Jackets_Vests-id_00070283-06_1_front.jpg,Jackets / Vests,yes,1.906,2026-04-02 14:29:20
+user_1022,sample_testing_file/WOMEN-Cardigans-id_00009603-09_2_side.jpg,Cardigans,no,1.526,2026-04-02 14:30:20
+user_1022,sample_testing_file/MEN-Sweaters-id_00023520-05_1_front.jpg,Sweaters,yes,2.766,2026-04-02 14:32:02
+user_1022,sample_testing_file/WOMEN-Tees_Tanks-id_00028658-04_7_additional.jpg,Tees / Tanks,yes,2.349,2026-04-03 12:12:42
+user_1022,sample_testing_file/WOMEN-Graphic_Tees-id_00073921-04_4_full.jpg,Graphic Tees,yes,1.795,2026-04-03 12:14:55
+user_1022,sample_testing_file/WOMEN-Dresses-id_00072064-03_3_back.jpg,Dresses,no,2.009,2026-04-03 12:16:24
+user_1022,sample_testing_file/WOMEN-Tees_Tanks-id_00078194-07_3_back.jpg,Tees / Tanks,yes,0.695,2026-04-03 12:18:59
+user_1022,sample_testing_file/MEN-Tees_Tanks-id_00000222-09_7_additional.jpg,Tees / Tanks,yes,1.712,2026-04-06 20:32:33
+user_1022,sample_testing_file/WOMEN-Jackets_Vests-id_00066163-07_7_additional.jpg,Jackets / Vests,yes,2.2,2026-04-06 20:34:20
+user_1022,sample_testing_file/WOMEN-Dresses-id_00022783-09_1_front.jpg,Dresses,no,1.761,2026-04-06 20:37:38
+user_1022,sample_testing_file/MEN-Jackets_Vests-id_00034336-03_4_full.jpg,Jackets / Vests,yes,1.253,2026-04-06 20:39:16
+user_1022,sample_testing_file/WOMEN-Jackets_Coats-id_00031964-08_7_additional.jpg,Jackets / Coats,no,3.632,2026-04-06 20:40:10
+user_1022,sample_testing_file/WOMEN-Jackets_Vests-id_00020053-07_2_side.jpg,Jackets / Vests,yes,2.426,2026-04-06 20:42:16
+user_1023,sample_testing_file/WOMEN-Cardigans-id_00051646-10_7_additional.jpg,Cardigans,no,2.04,2026-04-06 19:04:37
+user_1023,sample_testing_file/WOMEN-Shorts-id_00075632-11_1_front.jpg,Shorts,yes,3.208,2026-04-06 19:07:18
+user_1023,sample_testing_file/WOMEN-Jackets_Vests-id_00036472-07_3_back.jpg,Jackets / Vests,no,1.553,2026-04-06 19:10:37
+user_1023,sample_testing_file/WOMEN-Dresses-id_00046567-04_3_back.jpg,Dresses,yes,1.606,2026-04-06 19:14:09
+user_1023,sample_testing_file/WOMEN-Cardigans-id_00044093-01_4_full.jpg,Cardigans,no,1.944,2026-04-06 19:15:10
+user_1023,sample_testing_file/WOMEN-Blouses_Shirts-id_00002758-10_7_additional.jpg,Blouses / Shirts,yes,3.47,2026-04-06 19:17:48
+user_1023,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00079841-11_2_side.jpg,Hoodies / Sweatshirts,no,2.951,2026-04-06 19:19:39
+user_1023,sample_testing_file/WOMEN-Cardigans-id_00079906-12_1_front.jpg,Cardigans,no,2.156,2026-04-08 13:28:13
+user_1023,sample_testing_file/WOMEN-Skirts-id_00069330-01_7_additional.jpg,Skirts,no,1.513,2026-04-08 13:28:39
+user_1023,sample_testing_file/WOMEN-Cardigans-id_00056334-03_1_front.jpg,Cardigans,no,1.888,2026-04-08 13:29:27
+user_1023,sample_testing_file/WOMEN-Dresses-id_00053546-08_7_additional.jpg,Dresses,yes,0.807,2026-04-08 13:32:41
+user_1023,sample_testing_file/MEN-Jackets_Vests-id_00034336-03_4_full.jpg,Jackets / Vests,yes,2.953,2026-04-08 13:33:34
+user_1023,sample_testing_file/WOMEN-Dresses-id_00073773-05_1_front.jpg,Dresses,yes,2.555,2026-04-08 13:36:08
+user_1023,sample_testing_file/WOMEN-Dresses-id_00000283-07_3_back.jpg,Dresses,no,3.052,2026-04-08 13:37:40
+user_1023,sample_testing_file/WOMEN-Cardigans-id_00034180-04_3_back.jpg,Cardigans,yes,3.579,2026-04-08 13:40:51
+user_1024,sample_testing_file/MEN-Tees_Tanks-id_00000222-09_7_additional.jpg,Tees / Tanks,no,2.613,2026-04-04 20:26:00
+user_1024,sample_testing_file/WOMEN-Tees_Tanks-id_00074365-02_1_front.jpg,Tees / Tanks,yes,4.524,2026-04-04 20:26:37
+user_1024,sample_testing_file/MEN-Denim-id_00069617-09_7_additional.jpg,Denim,no,1.402,2026-04-04 20:29:52
+user_1024,sample_testing_file/WOMEN-Jackets_Coats-id_00031964-08_7_additional.jpg,Jackets / Coats,no,1.535,2026-04-04 20:32:38
+user_1024,sample_testing_file/WOMEN-Cardigans-id_00051646-10_7_additional.jpg,Cardigans,yes,1.023,2026-04-04 20:34:53
+user_1024,sample_testing_file/WOMEN-Graphic_Tees-id_00047740-07_1_front.jpg,Graphic Tees,no,2.981,2026-04-04 20:37:27
+user_1024,sample_testing_file/WOMEN-Denim-id_00029220-01_2_side.jpg,Denim,no,0.705,2026-04-04 20:39:07
+user_1024,sample_testing_file/MEN-Tees_Tanks-id_00052582-05_1_front.jpg,Tees / Tanks,yes,3.894,2026-04-06 17:51:38
+user_1024,sample_testing_file/WOMEN-Jackets_Coats-id_00014954-02_4_full.jpg,Jackets / Coats,yes,1.432,2026-04-06 17:53:53
+user_1024,sample_testing_file/WOMEN-Graphic_Tees-id_00073921-04_4_full.jpg,Graphic Tees,no,4.376,2026-04-06 17:56:00
+user_1024,sample_testing_file/MEN-Graphic_Tees-id_00020290-04_3_back.jpg,Graphic Tees,yes,1.225,2026-04-06 17:57:35
+user_1024,sample_testing_file/WOMEN-Graphic_Tees-id_00011004-11_4_full.jpg,Graphic Tees,yes,1.302,2026-04-06 17:58:14
+user_1024,sample_testing_file/WOMEN-Dresses-id_00077993-02_2_side.jpg,Dresses,no,0.628,2026-04-06 17:59:50
+user_1024,sample_testing_file/WOMEN-Graphic_Tees-id_00067001-08_2_side.jpg,Graphic Tees,yes,1.726,2026-04-06 18:00:32
+user_1024,sample_testing_file/WOMEN-Cardigans-id_00073564-04_7_additional.jpg,Cardigans,yes,2.452,2026-04-06 18:03:02
+user_1025,sample_testing_file/MEN-Shirts_Polos-id_00074669-04_7_additional.jpg,Shirts / Polos,yes,2.113,2026-04-02 21:06:46
+user_1025,sample_testing_file/WOMEN-Dresses-id_00053546-08_7_additional.jpg,Dresses,yes,1.714,2026-04-02 21:10:16
+user_1025,sample_testing_file/WOMEN-Cardigans-id_00034180-04_3_back.jpg,Cardigans,yes,4.384,2026-04-02 21:12:49
+user_1025,sample_testing_file/WOMEN-Skirts-id_00073520-01_1_front.jpg,Skirts,no,1.313,2026-04-02 21:15:47
+user_1025,sample_testing_file/MEN-Shirts_Polos-id_00028747-03_7_additional.jpg,Shirts / Polos,yes,0.715,2026-04-02 21:17:00
+user_1025,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00030736-05_3_back.jpg,Hoodies / Sweatshirts,yes,0.751,2026-04-02 21:20:24
+user_1025,sample_testing_file/MEN-Sweaters-id_00018374-07_2_side.jpg,Sweaters,no,3.76,2026-04-02 21:21:52
+user_1025,sample_testing_file/WOMEN-Graphic_Tees-id_00050329-08_4_full.jpg,Graphic Tees,yes,3.795,2026-04-07 19:20:09
+user_1025,sample_testing_file/WOMEN-Dresses-id_00077993-02_2_side.jpg,Dresses,no,1.978,2026-04-07 19:21:15
+user_1025,sample_testing_file/MEN-Sweaters-id_00027870-11_4_full.jpg,Sweaters,yes,3.954,2026-04-07 19:22:34
+user_1025,sample_testing_file/WOMEN-Sweaters-id_00034817-03_1_front.jpg,Sweaters,yes,2.542,2026-04-07 19:23:10
+user_1025,sample_testing_file/MEN-Shirts_Polos-id_00046113-12_4_full.jpg,Shirts / Polos,no,2.715,2026-04-07 19:24:49
+user_1025,sample_testing_file/WOMEN-Blouses_Shirts-id_00078698-02_7_additional.jpg,Blouses / Shirts,yes,5.736,2026-04-07 19:27:26
+user_1025,sample_testing_file/MEN-Shirts_Polos-id_00018727-05_2_side.jpg,Shirts / Polos,yes,0.914,2026-04-07 19:28:02
+user_1025,sample_testing_file/WOMEN-Skirts-id_00073520-01_1_front.jpg,Skirts,no,1.676,2026-04-07 19:28:35
+user_1026,sample_testing_file/WOMEN-Blouses_Shirts-id_00046439-07_4_full.jpg,Blouses / Shirts,no,1.212,2026-04-02 11:33:31
+user_1026,sample_testing_file/WOMEN-Blouses_Shirts-id_00075244-05_4_full.jpg,Blouses / Shirts,no,0.579,2026-04-02 11:36:31
+user_1026,sample_testing_file/MEN-Shirts_Polos-id_00023510-12_3_back.jpg,Shirts / Polos,yes,0.635,2026-04-02 11:39:47
+user_1026,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00041360-02_7_additional.jpg,Hoodies / Sweatshirts,yes,1.115,2026-04-02 11:41:56
+user_1026,sample_testing_file/WOMEN-Tees_Tanks-id_00074365-02_1_front.jpg,Tees / Tanks,yes,4.31,2026-04-02 11:45:23
+user_1026,sample_testing_file/MEN-Shirts_Polos-id_00009962-10_2_side.jpg,Shirts / Polos,no,3.083,2026-04-02 11:48:40
+user_1026,sample_testing_file/WOMEN-Blouses_Shirts-id_00071512-01_3_back.jpg,Blouses / Shirts,no,0.698,2026-04-02 11:52:18
+user_1026,sample_testing_file/WOMEN-Blouses_Shirts-id_00002758-10_7_additional.jpg,Blouses / Shirts,yes,1.385,2026-04-02 11:55:55
+user_1026,sample_testing_file/MEN-Denim-id_00044609-05_7_additional.jpg,Denim,yes,1.517,2026-04-05 16:17:57
+user_1026,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00048352-03_7_additional.jpg,Hoodies / Sweatshirts,no,1.801,2026-04-05 16:20:25
+user_1026,sample_testing_file/MEN-Denim-id_00044588-02_3_back.jpg,Denim,no,3.627,2026-04-05 16:21:23
+user_1026,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00070540-08_4_full.jpg,Hoodies / Sweatshirts,yes,2.296,2026-04-05 16:22:10
+user_1026,sample_testing_file/MEN-Shirts_Polos-id_00009962-10_2_side.jpg,Shirts / Polos,yes,2.428,2026-04-05 16:22:31
+user_1026,sample_testing_file/WOMEN-Blouses_Shirts-id_00049798-02_3_back.jpg,Blouses / Shirts,no,2.232,2026-04-05 16:23:34
+user_1026,sample_testing_file/WOMEN-Skirts-id_00036501-11_4_full.jpg,Skirts,yes,2.823,2026-04-05 16:27:01
+user_1027,sample_testing_file/WOMEN-Denim-id_00006631-11_7_additional.jpg,Denim,no,2.285,2026-04-04 10:26:20
+user_1027,sample_testing_file/WOMEN-Sweaters-id_00018290-12_1_front.jpg,Sweaters,yes,2.187,2026-04-04 10:27:00
+user_1027,sample_testing_file/WOMEN-Cardigans-id_00056334-03_1_front.jpg,Cardigans,yes,1.722,2026-04-04 10:30:38
+user_1027,sample_testing_file/WOMEN-Dresses-id_00000283-07_3_back.jpg,Dresses,no,1.516,2026-04-04 10:33:02
+user_1027,sample_testing_file/WOMEN-Jackets_Coats-id_00031964-08_7_additional.jpg,Jackets / Coats,yes,1.614,2026-04-04 10:34:22
+user_1027,sample_testing_file/WOMEN-Dresses-id_00046567-04_3_back.jpg,Dresses,yes,1.304,2026-04-04 10:37:22
+user_1027,sample_testing_file/WOMEN-Jackets_Coats-id_00027550-07_7_additional.jpg,Jackets / Coats,yes,1.589,2026-04-04 10:40:28
+user_1027,sample_testing_file/WOMEN-Shorts-id_00012900-01_4_full.jpg,Shorts,no,0.631,2026-04-09 13:26:54
+user_1027,sample_testing_file/MEN-Shorts-id_00077140-07_3_back.jpg,Shorts,no,2.196,2026-04-09 13:28:11
+user_1027,sample_testing_file/WOMEN-Dresses-id_00072064-03_3_back.jpg,Dresses,no,1.436,2026-04-09 13:30:26
+user_1027,sample_testing_file/MEN-Shorts-id_00015861-04_2_side.jpg,Shorts,no,0.571,2026-04-09 13:33:27
+user_1027,sample_testing_file/WOMEN-Shorts-id_00062217-08_3_back.jpg,Shorts,no,2.109,2026-04-09 13:36:34
+user_1027,sample_testing_file/MEN-Shorts-id_00044658-03_1_front.jpg,Shorts,no,0.98,2026-04-09 13:38:32
+user_1027,sample_testing_file/MEN-Shorts-id_00028017-07_1_front.jpg,Shorts,yes,2.996,2026-04-09 13:39:09
+user_1027,sample_testing_file/WOMEN-Cardigans-id_00044093-01_4_full.jpg,Cardigans,yes,1.324,2026-04-09 13:40:06
+user_1028,sample_testing_file/WOMEN-Cardigans-id_00060947-08_4_full.jpg,Cardigans,no,0.545,2026-04-01 13:20:34
+user_1028,sample_testing_file/WOMEN-Shorts-id_00012900-01_4_full.jpg,Shorts,yes,1.319,2026-04-01 13:22:08
+user_1028,sample_testing_file/WOMEN-Tees_Tanks-id_00055070-07_7_additional.jpg,Tees / Tanks,yes,3.056,2026-04-01 13:24:21
+user_1028,sample_testing_file/MEN-Sweaters-id_00076623-07_7_additional.jpg,Sweaters,no,4.737,2026-04-01 13:25:14
+user_1028,sample_testing_file/WOMEN-Denim-id_00025106-04_4_full.jpg,Denim,no,1.503,2026-04-03 12:13:37
+user_1028,sample_testing_file/WOMEN-Shorts-id_00006176-02_2_side.jpg,Shorts,yes,0.589,2026-04-03 12:16:25
+user_1028,sample_testing_file/WOMEN-Sweaters-id_00074848-10_4_full.jpg,Sweaters,yes,2.272,2026-04-03 12:19:28
+user_1028,sample_testing_file/MEN-Denim-id_00069617-09_7_additional.jpg,Denim,yes,2.437,2026-04-03 12:21:10
+user_1028,sample_testing_file/WOMEN-Shorts-id_00075632-11_1_front.jpg,Shorts,yes,1.211,2026-04-05 16:47:16
+user_1028,sample_testing_file/MEN-Sweaters-id_00009546-08_4_full.jpg,Sweaters,no,1.325,2026-04-05 16:48:21
+user_1028,sample_testing_file/WOMEN-Graphic_Tees-id_00073921-04_4_full.jpg,Graphic Tees,yes,2.801,2026-04-05 16:51:17
+user_1028,sample_testing_file/WOMEN-Skirts-id_00021418-08_4_full.jpg,Skirts,yes,1.4,2026-04-05 16:53:55
+user_1028,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00059511-02_2_side.jpg,Hoodies / Sweatshirts,no,3.917,2026-04-05 16:55:04
+user_1028,sample_testing_file/MEN-Jackets_Vests-id_00030785-11_3_back.jpg,Jackets / Vests,yes,2.341,2026-04-05 16:57:41
+user_1028,sample_testing_file/WOMEN-Cardigans-id_00060947-08_4_full.jpg,Cardigans,yes,2.757,2026-04-05 17:00:18
+user_1029,sample_testing_file/MEN-Shirts_Polos-id_00078105-08_7_additional.jpg,Shirts / Polos,no,1.731,2026-04-01 18:23:46
+user_1029,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00041360-02_7_additional.jpg,Hoodies / Sweatshirts,no,0.985,2026-04-01 18:25:12
+user_1029,sample_testing_file/MEN-Sweaters-id_00023520-05_1_front.jpg,Sweaters,yes,5.47,2026-04-01 18:26:26
+user_1029,sample_testing_file/WOMEN-Tees_Tanks-id_00055070-07_7_additional.jpg,Tees / Tanks,no,3.711,2026-04-01 18:27:28
+user_1029,sample_testing_file/MEN-Tees_Tanks-id_00029390-11_1_front.jpg,Tees / Tanks,no,3.229,2026-04-01 18:30:17
+user_1029,sample_testing_file/MEN-Shirts_Polos-id_00040136-11_7_additional.jpg,Shirts / Polos,yes,3.857,2026-04-01 18:32:59
+user_1029,sample_testing_file/WOMEN-Sweaters-id_00074848-10_4_full.jpg,Sweaters,no,1.16,2026-04-01 18:35:23
+user_1029,sample_testing_file/WOMEN-Graphic_Tees-id_00077398-07_1_front.jpg,Graphic Tees,no,0.703,2026-04-01 18:36:40
+user_1029,sample_testing_file/WOMEN-Tees_Tanks-id_00030983-03_4_full.jpg,Tees / Tanks,no,4.239,2026-04-08 19:13:19
+user_1029,sample_testing_file/WOMEN-Dresses-id_00072064-03_3_back.jpg,Dresses,yes,2.422,2026-04-08 19:14:59
+user_1029,sample_testing_file/MEN-Tees_Tanks-id_00064252-02_4_full.jpg,Tees / Tanks,no,2.545,2026-04-08 19:18:35
+user_1029,sample_testing_file/WOMEN-Dresses-id_00046567-04_3_back.jpg,Dresses,yes,1.144,2026-04-08 19:21:42
+user_1029,sample_testing_file/WOMEN-Skirts-id_00069330-01_7_additional.jpg,Skirts,yes,4.086,2026-04-08 19:22:40
+user_1029,sample_testing_file/WOMEN-Jackets_Coats-id_00031964-08_7_additional.jpg,Jackets / Coats,no,3.697,2026-04-08 19:25:44
+user_1029,sample_testing_file/WOMEN-Skirts-id_00066543-02_3_back.jpg,Skirts,no,2.038,2026-04-08 19:28:39
+user_1030,sample_testing_file/WOMEN-Dresses-id_00023820-01_3_back.jpg,Dresses,no,1.553,2026-04-01 12:39:38
+user_1030,sample_testing_file/WOMEN-Jackets_Coats-id_00015015-11_7_additional.jpg,Jackets / Coats,yes,2.562,2026-04-01 12:42:03
+user_1030,sample_testing_file/MEN-Tees_Tanks-id_00052582-05_1_front.jpg,Tees / Tanks,no,4.117,2026-04-01 12:43:03
+user_1030,sample_testing_file/WOMEN-Graphic_Tees-id_00037197-09_7_additional.jpg,Graphic Tees,no,0.859,2026-04-01 12:46:27
+user_1030,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00057200-10_7_additional.jpg,Hoodies / Sweatshirts,no,3.793,2026-04-01 12:49:42
+user_1030,sample_testing_file/WOMEN-Jackets_Coats-id_00031964-08_7_additional.jpg,Jackets / Coats,no,4.384,2026-04-01 12:50:12
+user_1030,sample_testing_file/WOMEN-Graphic_Tees-id_00047740-07_1_front.jpg,Graphic Tees,no,0.648,2026-04-01 12:52:36
+user_1030,sample_testing_file/MEN-Graphic_Tees-id_00009039-09_3_back.jpg,Graphic Tees,no,1.79,2026-04-01 12:54:56
+user_1030,sample_testing_file/MEN-Shirts_Polos-id_00046113-12_4_full.jpg,Shirts / Polos,no,2.204,2026-04-01 12:55:55
+user_1030,sample_testing_file/WOMEN-Denim-id_00004068-04_2_side.jpg,Denim,yes,0.611,2026-04-10 15:16:30
+user_1030,sample_testing_file/WOMEN-Jackets_Coats-id_00032952-04_1_front.jpg,Jackets / Coats,yes,1.377,2026-04-10 15:17:11
+user_1030,sample_testing_file/WOMEN-Jackets_Coats-id_00031964-08_7_additional.jpg,Jackets / Coats,yes,0.668,2026-04-10 15:20:16
+user_1030,sample_testing_file/WOMEN-Graphic_Tees-id_00067001-08_2_side.jpg,Graphic Tees,no,1.858,2026-04-10 15:21:26
+user_1030,sample_testing_file/MEN-Shirts_Polos-id_00027743-08_3_back.jpg,Shirts / Polos,yes,1.911,2026-04-10 15:24:50
+user_1030,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00059511-02_2_side.jpg,Hoodies / Sweatshirts,no,1.753,2026-04-10 15:25:20
+user_1031,sample_testing_file/MEN-Denim-id_00044588-02_3_back.jpg,Denim,yes,2.727,2026-04-01 12:40:43
+user_1031,sample_testing_file/MEN-Graphic_Tees-id_00020290-04_3_back.jpg,Graphic Tees,no,1.511,2026-04-01 12:43:06
+user_1031,sample_testing_file/WOMEN-Blouses_Shirts-id_00075575-04_3_back.jpg,Blouses / Shirts,yes,1.408,2026-04-01 12:44:11
+user_1031,sample_testing_file/MEN-Shirts_Polos-id_00074669-04_7_additional.jpg,Shirts / Polos,yes,1.027,2026-04-01 12:45:36
+user_1031,sample_testing_file/MEN-Shirts_Polos-id_00018727-05_2_side.jpg,Shirts / Polos,yes,1.189,2026-04-01 12:46:09
+user_1031,sample_testing_file/MEN-Shirts_Polos-id_00046113-12_4_full.jpg,Shirts / Polos,yes,0.581,2026-04-01 12:48:45
+user_1031,sample_testing_file/MEN-Jackets_Vests-id_00030785-11_3_back.jpg,Jackets / Vests,no,1.902,2026-04-04 16:34:20
+user_1031,sample_testing_file/WOMEN-Blouses_Shirts-id_00049798-02_3_back.jpg,Blouses / Shirts,yes,2.386,2026-04-04 16:35:54
+user_1031,sample_testing_file/WOMEN-Denim-id_00045509-09_4_full.jpg,Denim,yes,5.541,2026-04-04 16:38:38
+user_1031,sample_testing_file/WOMEN-Tees_Tanks-id_00074365-02_1_front.jpg,Tees / Tanks,no,4.11,2026-04-04 16:40:50
+user_1031,sample_testing_file/MEN-Shirts_Polos-id_00018727-05_2_side.jpg,Shirts / Polos,no,2.767,2026-04-04 16:41:40
+user_1031,sample_testing_file/WOMEN-Blouses_Shirts-id_00075244-05_4_full.jpg,Blouses / Shirts,yes,2.408,2026-04-04 16:44:38
+user_1031,sample_testing_file/MEN-Shirts_Polos-id_00042246-04_1_front.jpg,Shirts / Polos,yes,1.151,2026-04-04 16:45:13
+user_1031,sample_testing_file/WOMEN-Cardigans-id_00073564-04_7_additional.jpg,Cardigans,no,3.878,2026-04-04 16:46:41
+user_1031,sample_testing_file/WOMEN-Graphic_Tees-id_00055334-10_1_front.jpg,Graphic Tees,no,0.739,2026-04-04 16:49:12
+user_1032,sample_testing_file/WOMEN-Blouses_Shirts-id_00078698-02_7_additional.jpg,Blouses / Shirts,yes,1.314,2026-04-07 10:12:02
+user_1032,sample_testing_file/WOMEN-Jackets_Vests-id_00066163-07_7_additional.jpg,Jackets / Vests,no,0.546,2026-04-07 10:14:01
+user_1032,sample_testing_file/WOMEN-Dresses-id_00023820-01_3_back.jpg,Dresses,no,2.044,2026-04-07 10:16:20
+user_1032,sample_testing_file/WOMEN-Cardigans-id_00051646-10_7_additional.jpg,Cardigans,no,3.665,2026-04-07 10:17:55
+user_1032,sample_testing_file/WOMEN-Cardigans-id_00060947-08_4_full.jpg,Cardigans,yes,1.14,2026-04-07 10:19:11
+user_1032,sample_testing_file/WOMEN-Cardigans-id_00060947-08_4_full.jpg,Cardigans,yes,2.222,2026-04-08 21:27:39
+user_1032,sample_testing_file/MEN-Shorts-id_00004279-04_3_back.jpg,Shorts,no,4.887,2026-04-08 21:31:06
+user_1032,sample_testing_file/WOMEN-Dresses-id_00046567-04_3_back.jpg,Dresses,no,1.438,2026-04-08 21:33:35
+user_1032,sample_testing_file/WOMEN-Dresses-id_00073773-05_1_front.jpg,Dresses,yes,1.384,2026-04-08 21:34:27
+user_1032,sample_testing_file/WOMEN-Jackets_Vests-id_00070283-06_1_front.jpg,Jackets / Vests,yes,2.024,2026-04-08 21:35:34
+user_1032,sample_testing_file/WOMEN-Jackets_Vests-id_00038753-09_2_side.jpg,Jackets / Vests,no,1.355,2026-04-10 17:04:41
+user_1032,sample_testing_file/MEN-Shorts-id_00015861-04_2_side.jpg,Shorts,no,1.934,2026-04-10 17:06:40
+user_1032,sample_testing_file/WOMEN-Sweaters-id_00075915-12_7_additional.jpg,Sweaters,no,3.12,2026-04-10 17:09:03
+user_1032,sample_testing_file/WOMEN-Cardigans-id_00010746-07_7_additional.jpg,Cardigans,no,2.131,2026-04-10 17:11:42
+user_1032,sample_testing_file/WOMEN-Cardigans-id_00073564-04_7_additional.jpg,Cardigans,yes,0.8,2026-04-10 17:14:56
+user_1033,sample_testing_file/WOMEN-Cardigans-id_00073564-04_7_additional.jpg,Cardigans,yes,3.803,2026-04-01 17:09:12
+user_1033,sample_testing_file/WOMEN-Jackets_Coats-id_00013177-04_3_back.jpg,Jackets / Coats,no,1.276,2026-04-01 17:10:48
+user_1033,sample_testing_file/MEN-Denim-id_00069617-09_7_additional.jpg,Denim,no,1.36,2026-04-01 17:12:42
+user_1033,sample_testing_file/WOMEN-Jackets_Vests-id_00036472-07_3_back.jpg,Jackets / Vests,yes,1.222,2026-04-01 17:15:53
+user_1033,sample_testing_file/WOMEN-Denim-id_00050141-01_4_full.jpg,Denim,no,1.608,2026-04-01 17:18:21
+user_1033,sample_testing_file/WOMEN-Graphic_Tees-id_00020033-06_2_side.jpg,Graphic Tees,yes,1.173,2026-04-01 17:19:51
+user_1033,sample_testing_file/WOMEN-Sweaters-id_00060333-06_3_back.jpg,Sweaters,yes,1.562,2026-04-09 14:41:35
+user_1033,sample_testing_file/WOMEN-Jackets_Coats-id_00055724-02_7_additional.jpg,Jackets / Coats,yes,3.649,2026-04-09 14:42:54
+user_1033,sample_testing_file/MEN-Shirts_Polos-id_00009962-10_2_side.jpg,Shirts / Polos,yes,0.83,2026-04-09 14:44:55
+user_1033,sample_testing_file/WOMEN-Jackets_Coats-id_00017602-05_1_front.jpg,Jackets / Coats,yes,2.473,2026-04-09 14:47:20
+user_1033,sample_testing_file/WOMEN-Sweaters-id_00073148-07_7_additional.jpg,Sweaters,no,2.435,2026-04-09 14:50:46
+user_1033,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00066470-05_4_full.jpg,Hoodies / Sweatshirts,no,4.127,2026-04-10 21:15:37
+user_1033,sample_testing_file/MEN-Sweaters-id_00053355-04_1_front.jpg,Sweaters,no,4.355,2026-04-10 21:18:04
+user_1033,sample_testing_file/MEN-Graphic_Tees-id_00021633-08_2_side.jpg,Graphic Tees,yes,1.006,2026-04-10 21:19:08
+user_1033,sample_testing_file/WOMEN-Jackets_Coats-id_00032743-02_4_full.jpg,Jackets / Coats,yes,3.909,2026-04-10 21:21:49
+user_1034,sample_testing_file/MEN-Shirts_Polos-id_00003805-07_3_back.jpg,Shirts / Polos,no,1.66,2026-04-05 17:07:53
+user_1034,sample_testing_file/MEN-Shirts_Polos-id_00028044-02_4_full.jpg,Shirts / Polos,no,1.777,2026-04-05 17:10:11
+user_1034,sample_testing_file/MEN-Sweaters-id_00027870-11_4_full.jpg,Sweaters,no,1.743,2026-04-05 17:12:44
+user_1034,sample_testing_file/WOMEN-Jackets_Vests-id_00072545-09_3_back.jpg,Jackets / Vests,yes,2.304,2026-04-05 17:13:53
+user_1034,sample_testing_file/WOMEN-Jackets_Coats-id_00027550-07_7_additional.jpg,Jackets / Coats,no,2.374,2026-04-05 17:14:57
+user_1034,sample_testing_file/WOMEN-Blouses_Shirts-id_00002758-10_7_additional.jpg,Blouses / Shirts,no,1.56,2026-04-10 15:40:23
+user_1034,sample_testing_file/WOMEN-Sweaters-id_00000943-02_1_front.jpg,Sweaters,yes,1.382,2026-04-10 15:43:56
+user_1034,sample_testing_file/MEN-Sweaters-id_00023520-05_1_front.jpg,Sweaters,yes,0.531,2026-04-10 15:46:03
+user_1034,sample_testing_file/MEN-Shirts_Polos-id_00058879-10_3_back.jpg,Shirts / Polos,yes,3.495,2026-04-10 15:47:12
+user_1034,sample_testing_file/WOMEN-Sweaters-id_00018290-12_1_front.jpg,Sweaters,yes,0.985,2026-04-10 15:49:45
+user_1034,sample_testing_file/WOMEN-Sweaters-id_00073148-07_7_additional.jpg,Sweaters,yes,0.809,2026-04-11 21:22:47
+user_1034,sample_testing_file/MEN-Sweaters-id_00049696-11_2_side.jpg,Sweaters,yes,1.569,2026-04-11 21:23:16
+user_1034,sample_testing_file/MEN-Sweaters-id_00053355-04_1_front.jpg,Sweaters,yes,2.388,2026-04-11 21:25:48
+user_1034,sample_testing_file/MEN-Shirts_Polos-id_00078105-08_7_additional.jpg,Shirts / Polos,yes,3.963,2026-04-11 21:27:37
+user_1034,sample_testing_file/WOMEN-Sweaters-id_00074848-10_4_full.jpg,Sweaters,yes,0.732,2026-04-11 21:29:38
+user_1035,sample_testing_file/WOMEN-Dresses-id_00072064-03_3_back.jpg,Dresses,no,0.488,2026-04-01 18:40:01
+user_1035,sample_testing_file/WOMEN-Cardigans-id_00056334-03_1_front.jpg,Cardigans,yes,1.627,2026-04-01 18:43:15
+user_1035,sample_testing_file/WOMEN-Dresses-id_00077993-02_2_side.jpg,Dresses,no,1.679,2026-04-01 18:45:34
+user_1035,sample_testing_file/WOMEN-Skirts-id_00066543-02_3_back.jpg,Skirts,yes,1.03,2026-04-01 18:47:09
+user_1035,sample_testing_file/WOMEN-Blouses_Shirts-id_00075244-05_4_full.jpg,Blouses / Shirts,yes,1.604,2026-04-01 18:50:02
+user_1035,sample_testing_file/WOMEN-Graphic_Tees-id_00067001-08_2_side.jpg,Graphic Tees,yes,1.242,2026-04-01 18:53:24
+user_1035,sample_testing_file/WOMEN-Cardigans-id_00060947-08_4_full.jpg,Cardigans,no,2.489,2026-04-05 13:39:21
+user_1035,sample_testing_file/WOMEN-Skirts-id_00049616-02_7_additional.jpg,Skirts,yes,2.407,2026-04-05 13:41:23
+user_1035,sample_testing_file/WOMEN-Blouses_Shirts-id_00023406-10_3_back.jpg,Blouses / Shirts,no,0.475,2026-04-05 13:44:37
+user_1035,sample_testing_file/WOMEN-Dresses-id_00073773-05_1_front.jpg,Dresses,no,0.626,2026-04-05 13:45:17
+user_1035,sample_testing_file/WOMEN-Cardigans-id_00079906-12_1_front.jpg,Cardigans,yes,1.0,2026-04-05 13:47:45
+user_1035,sample_testing_file/WOMEN-Sweaters-id_00019314-01_1_front.jpg,Sweaters,yes,0.955,2026-04-05 13:49:02
+user_1035,sample_testing_file/WOMEN-Cardigans-id_00040889-10_4_full.jpg,Cardigans,yes,2.038,2026-04-07 12:03:32
+user_1035,sample_testing_file/WOMEN-Blouses_Shirts-id_00036435-08_3_back.jpg,Blouses / Shirts,no,0.72,2026-04-07 12:04:14
+user_1035,sample_testing_file/WOMEN-Skirts-id_00069330-01_7_additional.jpg,Skirts,no,4.638,2026-04-07 12:07:17
+user_1036,sample_testing_file/WOMEN-Denim-id_00029220-01_2_side.jpg,Denim,no,4.764,2026-04-07 14:25:58
+user_1036,sample_testing_file/WOMEN-Blouses_Shirts-id_00036435-08_3_back.jpg,Blouses / Shirts,no,4.24,2026-04-07 14:26:44
+user_1036,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00072849-01_7_additional.jpg,Hoodies / Sweatshirts,no,3.642,2026-04-07 14:27:28
+user_1036,sample_testing_file/WOMEN-Jackets_Coats-id_00014954-02_4_full.jpg,Jackets / Coats,yes,0.847,2026-04-07 14:28:32
+user_1036,sample_testing_file/MEN-Sweaters-id_00053355-04_1_front.jpg,Sweaters,no,1.402,2026-04-07 14:31:45
+user_1036,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00009072-09_2_side.jpg,Hoodies / Sweatshirts,yes,1.126,2026-04-07 14:33:48
+user_1036,sample_testing_file/WOMEN-Sweaters-id_00034817-03_1_front.jpg,Sweaters,yes,2.972,2026-04-07 14:37:06
+user_1036,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00075457-07_4_full.jpg,Hoodies / Sweatshirts,yes,1.93,2026-04-07 14:39:48
+user_1036,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00066470-05_4_full.jpg,Hoodies / Sweatshirts,yes,1.877,2026-04-07 14:42:44
+user_1036,sample_testing_file/WOMEN-Shorts-id_00006176-02_2_side.jpg,Shorts,no,2.272,2026-04-08 20:25:22
+user_1036,sample_testing_file/MEN-Shorts-id_00077140-07_3_back.jpg,Shorts,yes,1.517,2026-04-08 20:27:49
+user_1036,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00030736-05_3_back.jpg,Hoodies / Sweatshirts,no,1.381,2026-04-08 20:30:12
+user_1036,sample_testing_file/WOMEN-Graphic_Tees-id_00013474-06_7_additional.jpg,Graphic Tees,yes,1.898,2026-04-08 20:31:27
+user_1036,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00070540-08_4_full.jpg,Hoodies / Sweatshirts,yes,1.522,2026-04-08 20:33:42
+user_1036,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00041360-02_7_additional.jpg,Hoodies / Sweatshirts,yes,0.488,2026-04-08 20:35:20
+user_1037,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00057200-10_7_additional.jpg,Hoodies / Sweatshirts,yes,3.668,2026-04-09 13:42:31
+user_1037,sample_testing_file/MEN-Tees_Tanks-id_00064252-02_4_full.jpg,Tees / Tanks,yes,1.991,2026-04-09 13:44:45
+user_1037,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00009072-09_2_side.jpg,Hoodies / Sweatshirts,no,1.735,2026-04-09 13:46:36
+user_1037,sample_testing_file/MEN-Shirts_Polos-id_00040136-11_7_additional.jpg,Shirts / Polos,no,2.251,2026-04-09 13:46:54
+user_1037,sample_testing_file/MEN-Shirts_Polos-id_00018727-05_2_side.jpg,Shirts / Polos,yes,0.803,2026-04-09 13:49:25
+user_1037,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00075457-07_4_full.jpg,Hoodies / Sweatshirts,no,1.641,2026-04-09 13:50:18
+user_1037,sample_testing_file/WOMEN-Tees_Tanks-id_00078194-07_3_back.jpg,Tees / Tanks,yes,2.223,2026-04-09 13:51:24
+user_1037,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00052297-11_3_back.jpg,Hoodies / Sweatshirts,no,0.541,2026-04-09 13:52:30
+user_1037,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00030736-05_3_back.jpg,Hoodies / Sweatshirts,no,1.599,2026-04-11 20:44:04
+user_1037,sample_testing_file/WOMEN-Tees_Tanks-id_00055070-07_7_additional.jpg,Tees / Tanks,yes,2.033,2026-04-11 20:46:31
+user_1037,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00070540-08_4_full.jpg,Hoodies / Sweatshirts,no,1.441,2026-04-11 20:49:10
+user_1037,sample_testing_file/MEN-Sweaters-id_00053355-04_1_front.jpg,Sweaters,no,1.355,2026-04-11 20:50:13
+user_1037,sample_testing_file/WOMEN-Denim-id_00004068-04_2_side.jpg,Denim,no,3.271,2026-04-11 20:52:10
+user_1037,sample_testing_file/MEN-Tees_Tanks-id_00064252-02_4_full.jpg,Tees / Tanks,no,3.945,2026-04-11 20:54:06
+user_1037,sample_testing_file/WOMEN-Skirts-id_00032915-01_1_front.jpg,Skirts,no,2.83,2026-04-11 20:55:34
+user_1038,sample_testing_file/MEN-Shirts_Polos-id_00023510-12_3_back.jpg,Shirts / Polos,no,1.678,2026-04-04 13:14:44
+user_1038,sample_testing_file/WOMEN-Jackets_Coats-id_00055724-02_7_additional.jpg,Jackets / Coats,yes,3.467,2026-04-04 13:18:03
+user_1038,sample_testing_file/MEN-Shirts_Polos-id_00028747-03_7_additional.jpg,Shirts / Polos,yes,1.659,2026-04-04 13:21:04
+user_1038,sample_testing_file/MEN-Tees_Tanks-id_00039140-07_4_full.jpg,Tees / Tanks,no,4.139,2026-04-04 13:23:51
+user_1038,sample_testing_file/MEN-Shirts_Polos-id_00003805-07_3_back.jpg,Shirts / Polos,no,3.082,2026-04-04 13:26:25
+user_1038,sample_testing_file/WOMEN-Dresses-id_00046567-04_3_back.jpg,Dresses,yes,0.88,2026-04-04 13:26:49
+user_1038,sample_testing_file/WOMEN-Dresses-id_00046567-04_3_back.jpg,Dresses,yes,1.085,2026-04-06 12:19:19
+user_1038,sample_testing_file/MEN-Shorts-id_00009509-01_4_full.jpg,Shorts,no,1.223,2026-04-06 12:22:49
+user_1038,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00072849-01_7_additional.jpg,Hoodies / Sweatshirts,no,1.712,2026-04-06 12:25:59
+user_1038,sample_testing_file/WOMEN-Dresses-id_00022783-09_1_front.jpg,Dresses,yes,1.879,2026-04-06 12:27:56
+user_1038,sample_testing_file/WOMEN-Dresses-id_00073773-05_1_front.jpg,Dresses,yes,1.637,2026-04-06 12:29:51
+user_1038,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00052297-11_3_back.jpg,Hoodies / Sweatshirts,no,1.973,2026-04-06 12:30:12
+user_1038,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00075457-07_4_full.jpg,Hoodies / Sweatshirts,no,1.597,2026-04-09 17:15:58
+user_1038,sample_testing_file/WOMEN-Jackets_Coats-id_00031964-08_7_additional.jpg,Jackets / Coats,no,1.687,2026-04-09 17:19:25
+user_1038,sample_testing_file/MEN-Shirts_Polos-id_00046113-12_4_full.jpg,Shirts / Polos,yes,2.519,2026-04-09 17:21:37
+user_1039,sample_testing_file/MEN-Shirts_Polos-id_00018727-05_2_side.jpg,Shirts / Polos,no,3.349,2026-04-01 15:31:04
+user_1039,sample_testing_file/WOMEN-Skirts-id_00063994-04_3_back.jpg,Skirts,yes,2.173,2026-04-01 15:34:40
+user_1039,sample_testing_file/MEN-Sweaters-id_00037354-03_4_full.jpg,Sweaters,yes,4.309,2026-04-01 15:38:20
+user_1039,sample_testing_file/MEN-Shirts_Polos-id_00078105-08_7_additional.jpg,Shirts / Polos,yes,2.14,2026-04-01 15:40:52
+user_1039,sample_testing_file/MEN-Tees_Tanks-id_00007493-01_7_additional.jpg,Tees / Tanks,yes,0.909,2026-04-05 12:27:28
+user_1039,sample_testing_file/WOMEN-Tees_Tanks-id_00074365-02_1_front.jpg,Tees / Tanks,yes,2.068,2026-04-05 12:29:10
+user_1039,sample_testing_file/MEN-Sweaters-id_00009546-08_4_full.jpg,Sweaters,no,5.704,2026-04-05 12:31:43
+user_1039,sample_testing_file/MEN-Shirts_Polos-id_00031030-03_2_side.jpg,Shirts / Polos,yes,2.395,2026-04-05 12:32:03
+user_1039,sample_testing_file/WOMEN-Cardigans-id_00034180-04_3_back.jpg,Cardigans,yes,4.761,2026-04-10 19:39:37
+user_1039,sample_testing_file/MEN-Tees_Tanks-id_00000222-09_7_additional.jpg,Tees / Tanks,yes,0.503,2026-04-10 19:40:24
+user_1039,sample_testing_file/MEN-Jackets_Vests-id_00034336-03_4_full.jpg,Jackets / Vests,no,1.442,2026-04-10 19:42:54
+user_1039,sample_testing_file/MEN-Shirts_Polos-id_00040136-11_7_additional.jpg,Shirts / Polos,yes,1.139,2026-04-10 19:45:16
+user_1039,sample_testing_file/WOMEN-Skirts-id_00078505-06_4_full.jpg,Skirts,yes,3.543,2026-04-10 19:45:55
+user_1039,sample_testing_file/WOMEN-Tees_Tanks-id_00037931-02_2_side.jpg,Tees / Tanks,yes,1.803,2026-04-10 19:48:29
+user_1039,sample_testing_file/MEN-Jackets_Vests-id_00030785-11_3_back.jpg,Jackets / Vests,yes,1.896,2026-04-10 19:49:41
+user_1040,sample_testing_file/WOMEN-Jackets_Vests-id_00020053-07_2_side.jpg,Jackets / Vests,no,5.346,2026-04-01 10:12:26
+user_1040,sample_testing_file/WOMEN-Blouses_Shirts-id_00075244-05_4_full.jpg,Blouses / Shirts,yes,1.13,2026-04-01 10:14:28
+user_1040,sample_testing_file/WOMEN-Jackets_Vests-id_00036472-07_3_back.jpg,Jackets / Vests,yes,4.373,2026-04-01 10:16:25
+user_1040,sample_testing_file/WOMEN-Tees_Tanks-id_00037931-02_2_side.jpg,Tees / Tanks,no,0.592,2026-04-01 10:16:59
+user_1040,sample_testing_file/WOMEN-Denim-id_00029220-01_2_side.jpg,Denim,yes,1.055,2026-04-01 10:19:25
+user_1040,sample_testing_file/WOMEN-Graphic_Tees-id_00077398-07_1_front.jpg,Graphic Tees,yes,1.597,2026-04-01 10:21:35
+user_1040,sample_testing_file/WOMEN-Sweaters-id_00073148-07_7_additional.jpg,Sweaters,no,1.686,2026-04-02 12:48:35
+user_1040,sample_testing_file/WOMEN-Jackets_Coats-id_00055724-02_7_additional.jpg,Jackets / Coats,no,4.004,2026-04-02 12:50:09
+user_1040,sample_testing_file/WOMEN-Cardigans-id_00040889-10_4_full.jpg,Cardigans,yes,0.913,2026-04-02 12:50:29
+user_1040,sample_testing_file/WOMEN-Jackets_Vests-id_00036472-07_3_back.jpg,Jackets / Vests,no,1.134,2026-04-02 12:53:13
+user_1040,sample_testing_file/MEN-Sweaters-id_00049696-11_2_side.jpg,Sweaters,no,2.216,2026-04-02 12:54:24
+user_1040,sample_testing_file/WOMEN-Graphic_Tees-id_00013474-06_7_additional.jpg,Graphic Tees,yes,0.84,2026-04-10 18:09:41
+user_1040,sample_testing_file/WOMEN-Sweaters-id_00034817-03_1_front.jpg,Sweaters,no,1.522,2026-04-10 18:12:24
+user_1040,sample_testing_file/WOMEN-Cardigans-id_00010746-07_7_additional.jpg,Cardigans,yes,4.401,2026-04-10 18:13:56
+user_1040,sample_testing_file/MEN-Sweaters-id_00049696-11_2_side.jpg,Sweaters,no,1.728,2026-04-10 18:16:18
+user_1041,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00072849-01_7_additional.jpg,Hoodies / Sweatshirts,yes,2.884,2026-04-05 21:38:05
+user_1041,sample_testing_file/WOMEN-Cardigans-id_00009603-09_2_side.jpg,Cardigans,yes,1.828,2026-04-05 21:38:24
+user_1041,sample_testing_file/WOMEN-Sweaters-id_00074848-10_4_full.jpg,Sweaters,no,1.097,2026-04-05 21:39:52
+user_1041,sample_testing_file/WOMEN-Skirts-id_00069330-01_7_additional.jpg,Skirts,no,3.184,2026-04-05 21:42:12
+user_1041,sample_testing_file/WOMEN-Jackets_Coats-id_00013177-04_3_back.jpg,Jackets / Coats,yes,1.053,2026-04-05 21:42:57
+user_1041,sample_testing_file/MEN-Sweaters-id_00076623-07_7_additional.jpg,Sweaters,no,2.19,2026-04-06 12:34:48
+user_1041,sample_testing_file/WOMEN-Shorts-id_00062403-11_4_full.jpg,Shorts,no,2.766,2026-04-06 12:37:15
+user_1041,sample_testing_file/WOMEN-Jackets_Coats-id_00075675-04_1_front.jpg,Jackets / Coats,yes,1.618,2026-04-06 12:40:04
+user_1041,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00070540-08_4_full.jpg,Hoodies / Sweatshirts,yes,2.702,2026-04-06 12:42:40
+user_1041,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00035955-01_1_front.jpg,Hoodies / Sweatshirts,yes,3.07,2026-04-06 12:46:15
+user_1041,sample_testing_file/MEN-Graphic_Tees-id_00021633-08_2_side.jpg,Graphic Tees,yes,5.616,2026-04-10 18:06:08
+user_1041,sample_testing_file/MEN-Tees_Tanks-id_00064252-02_4_full.jpg,Tees / Tanks,no,2.976,2026-04-10 18:09:03
+user_1041,sample_testing_file/WOMEN-Shorts-id_00062217-08_3_back.jpg,Shorts,no,5.635,2026-04-10 18:10:06
+user_1041,sample_testing_file/WOMEN-Sweaters-id_00019314-01_1_front.jpg,Sweaters,no,1.935,2026-04-10 18:13:32
+user_1041,sample_testing_file/WOMEN-Cardigans-id_00053226-09_1_front.jpg,Cardigans,yes,1.887,2026-04-10 18:14:49
+user_1042,sample_testing_file/MEN-Shirts_Polos-id_00071122-08_4_full.jpg,Shirts / Polos,yes,1.855,2026-04-05 19:35:07
+user_1042,sample_testing_file/WOMEN-Skirts-id_00073520-01_1_front.jpg,Skirts,no,1.837,2026-04-05 19:35:44
+user_1042,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00030736-05_3_back.jpg,Hoodies / Sweatshirts,yes,1.487,2026-04-05 19:37:45
+user_1042,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00052297-11_3_back.jpg,Hoodies / Sweatshirts,yes,0.944,2026-04-05 19:40:37
+user_1042,sample_testing_file/WOMEN-Shorts-id_00012900-01_4_full.jpg,Shorts,yes,1.992,2026-04-09 18:41:50
+user_1042,sample_testing_file/WOMEN-Sweaters-id_00060333-06_3_back.jpg,Sweaters,no,4.373,2026-04-09 18:42:38
+user_1042,sample_testing_file/WOMEN-Jackets_Coats-id_00027550-07_7_additional.jpg,Jackets / Coats,yes,1.522,2026-04-09 18:44:59
+user_1042,sample_testing_file/MEN-Shirts_Polos-id_00018727-05_2_side.jpg,Shirts / Polos,yes,1.724,2026-04-09 18:47:02
+user_1042,sample_testing_file/WOMEN-Blouses_Shirts-id_00049798-02_3_back.jpg,Blouses / Shirts,no,1.449,2026-04-09 18:47:54
+user_1042,sample_testing_file/WOMEN-Shorts-id_00007456-09_1_front.jpg,Shorts,yes,1.322,2026-04-09 18:48:54
+user_1042,sample_testing_file/WOMEN-Denim-id_00004068-04_2_side.jpg,Denim,yes,4.047,2026-04-10 19:41:17
+user_1042,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00070540-08_4_full.jpg,Hoodies / Sweatshirts,no,1.814,2026-04-10 19:42:30
+user_1042,sample_testing_file/WOMEN-Sweaters-id_00073148-07_7_additional.jpg,Sweaters,no,4.614,2026-04-10 19:44:33
+user_1042,sample_testing_file/WOMEN-Sweaters-id_00075915-12_7_additional.jpg,Sweaters,yes,4.197,2026-04-10 19:47:30
+user_1042,sample_testing_file/WOMEN-Jackets_Coats-id_00075675-04_1_front.jpg,Jackets / Coats,yes,2.666,2026-04-10 19:49:44
+user_1043,sample_testing_file/WOMEN-Graphic_Tees-id_00067001-08_2_side.jpg,Graphic Tees,no,0.632,2026-04-02 19:39:18
+user_1043,sample_testing_file/WOMEN-Sweaters-id_00073148-07_7_additional.jpg,Sweaters,no,4.429,2026-04-02 19:42:24
+user_1043,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00057200-10_7_additional.jpg,Hoodies / Sweatshirts,no,2.589,2026-04-02 19:46:00
+user_1043,sample_testing_file/WOMEN-Blouses_Shirts-id_00023406-10_3_back.jpg,Blouses / Shirts,yes,4.792,2026-04-02 19:46:29
+user_1043,sample_testing_file/WOMEN-Denim-id_00004068-04_2_side.jpg,Denim,yes,2.971,2026-04-03 16:23:48
+user_1043,sample_testing_file/WOMEN-Tees_Tanks-id_00031267-03_4_full.jpg,Tees / Tanks,yes,2.407,2026-04-03 16:25:54
+user_1043,sample_testing_file/WOMEN-Sweaters-id_00034817-03_1_front.jpg,Sweaters,yes,0.856,2026-04-03 16:26:33
+user_1043,sample_testing_file/WOMEN-Graphic_Tees-id_00003279-12_3_back.jpg,Graphic Tees,no,0.68,2026-04-03 16:29:52
+user_1043,sample_testing_file/WOMEN-Tees_Tanks-id_00030983-03_4_full.jpg,Tees / Tanks,yes,1.129,2026-04-03 16:30:11
+user_1043,sample_testing_file/MEN-Tees_Tanks-id_00039140-07_4_full.jpg,Tees / Tanks,yes,0.995,2026-04-03 16:32:01
+user_1043,sample_testing_file/WOMEN-Cardigans-id_00044093-01_4_full.jpg,Cardigans,yes,1.739,2026-04-08 18:28:19
+user_1043,sample_testing_file/MEN-Graphic_Tees-id_00041146-11_1_front.jpg,Graphic Tees,no,1.54,2026-04-08 18:30:58
+user_1043,sample_testing_file/WOMEN-Sweaters-id_00060333-06_3_back.jpg,Sweaters,yes,2.115,2026-04-08 18:33:19
+user_1043,sample_testing_file/MEN-Denim-id_00044609-05_7_additional.jpg,Denim,yes,1.645,2026-04-08 18:35:18
+user_1043,sample_testing_file/WOMEN-Sweaters-id_00074848-10_4_full.jpg,Sweaters,yes,1.543,2026-04-08 18:36:34
+user_1044,sample_testing_file/WOMEN-Cardigans-id_00060947-08_4_full.jpg,Cardigans,yes,0.531,2026-04-02 19:27:29
+user_1044,sample_testing_file/MEN-Tees_Tanks-id_00000222-09_7_additional.jpg,Tees / Tanks,no,1.466,2026-04-02 19:29:25
+user_1044,sample_testing_file/WOMEN-Tees_Tanks-id_00037931-02_2_side.jpg,Tees / Tanks,yes,3.679,2026-04-02 19:32:45
+user_1044,sample_testing_file/WOMEN-Sweaters-id_00018290-12_1_front.jpg,Sweaters,yes,4.05,2026-04-02 19:35:46
+user_1044,sample_testing_file/WOMEN-Skirts-id_00049616-02_7_additional.jpg,Skirts,no,3.038,2026-04-02 19:38:16
+user_1044,sample_testing_file/WOMEN-Cardigans-id_00010746-07_7_additional.jpg,Cardigans,yes,1.223,2026-04-02 19:41:32
+user_1044,sample_testing_file/MEN-Tees_Tanks-id_00000222-09_7_additional.jpg,Tees / Tanks,no,1.221,2026-04-03 20:00:35
+user_1044,sample_testing_file/WOMEN-Cardigans-id_00073564-04_7_additional.jpg,Cardigans,yes,0.598,2026-04-03 20:03:23
+user_1044,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00070540-08_4_full.jpg,Hoodies / Sweatshirts,no,5.367,2026-04-03 20:04:04
+user_1044,sample_testing_file/WOMEN-Cardigans-id_00056334-03_1_front.jpg,Cardigans,yes,2.521,2026-04-03 20:05:51
+user_1044,sample_testing_file/WOMEN-Denim-id_00036348-09_4_full.jpg,Denim,yes,1.651,2026-04-08 17:25:56
+user_1044,sample_testing_file/WOMEN-Skirts-id_00027761-09_2_side.jpg,Skirts,no,4.644,2026-04-08 17:28:22
+user_1044,sample_testing_file/MEN-Tees_Tanks-id_00064252-02_4_full.jpg,Tees / Tanks,no,1.313,2026-04-08 17:30:57
+user_1044,sample_testing_file/WOMEN-Shorts-id_00062403-11_4_full.jpg,Shorts,yes,2.432,2026-04-08 17:32:51
+user_1044,sample_testing_file/WOMEN-Graphic_Tees-id_00047740-07_1_front.jpg,Graphic Tees,no,5.096,2026-04-08 17:36:27
+user_1045,sample_testing_file/WOMEN-Skirts-id_00036501-11_4_full.jpg,Skirts,no,1.228,2026-04-06 18:35:04
+user_1045,sample_testing_file/WOMEN-Skirts-id_00049616-02_7_additional.jpg,Skirts,no,0.798,2026-04-06 18:38:33
+user_1045,sample_testing_file/WOMEN-Jackets_Coats-id_00055724-02_7_additional.jpg,Jackets / Coats,yes,2.486,2026-04-06 18:40:11
+user_1045,sample_testing_file/WOMEN-Skirts-id_00017362-06_1_front.jpg,Skirts,no,0.839,2026-04-06 18:43:23
+user_1045,sample_testing_file/MEN-Denim-id_00032528-05_2_side.jpg,Denim,yes,0.886,2026-04-06 18:46:49
+user_1045,sample_testing_file/WOMEN-Jackets_Vests-id_00038753-09_2_side.jpg,Jackets / Vests,no,0.658,2026-04-06 18:48:10
+user_1045,sample_testing_file/MEN-Shirts_Polos-id_00027743-08_3_back.jpg,Shirts / Polos,no,0.734,2026-04-06 18:48:48
+user_1045,sample_testing_file/WOMEN-Skirts-id_00063994-04_3_back.jpg,Skirts,no,1.065,2026-04-06 18:51:24
+user_1045,sample_testing_file/WOMEN-Skirts-id_00015907-08_2_side.jpg,Skirts,no,0.883,2026-04-07 19:18:02
+user_1045,sample_testing_file/WOMEN-Blouses_Shirts-id_00075244-05_4_full.jpg,Blouses / Shirts,no,2.922,2026-04-07 19:20:47
+user_1045,sample_testing_file/MEN-Denim-id_00069617-09_7_additional.jpg,Denim,yes,1.926,2026-04-07 19:23:23
+user_1045,sample_testing_file/WOMEN-Graphic_Tees-id_00055334-10_1_front.jpg,Graphic Tees,no,3.046,2026-04-07 19:24:25
+user_1045,sample_testing_file/WOMEN-Blouses_Shirts-id_00035698-05_7_additional.jpg,Blouses / Shirts,yes,0.667,2026-04-07 19:27:39
+user_1045,sample_testing_file/WOMEN-Dresses-id_00000283-07_3_back.jpg,Dresses,yes,2.041,2026-04-07 19:29:29
+user_1045,sample_testing_file/MEN-Graphic_Tees-id_00021633-08_2_side.jpg,Graphic Tees,yes,1.638,2026-04-07 19:30:55
+user_1046,sample_testing_file/MEN-Sweaters-id_00049696-11_2_side.jpg,Sweaters,no,1.906,2026-04-03 11:47:28
+user_1046,sample_testing_file/WOMEN-Sweaters-id_00018290-12_1_front.jpg,Sweaters,yes,1.524,2026-04-03 11:50:55
+user_1046,sample_testing_file/MEN-Shorts-id_00044658-03_1_front.jpg,Shorts,yes,3.182,2026-04-03 11:53:54
+user_1046,sample_testing_file/WOMEN-Denim-id_00004068-04_2_side.jpg,Denim,yes,1.205,2026-04-03 11:55:16
+user_1046,sample_testing_file/MEN-Sweaters-id_00051877-03_3_back.jpg,Sweaters,yes,1.804,2026-04-03 11:56:15
+user_1046,sample_testing_file/MEN-Shirts_Polos-id_00028044-02_4_full.jpg,Shirts / Polos,yes,2.192,2026-04-04 17:47:57
+user_1046,sample_testing_file/MEN-Shirts_Polos-id_00028747-03_7_additional.jpg,Shirts / Polos,yes,1.911,2026-04-04 17:49:43
+user_1046,sample_testing_file/MEN-Shirts_Polos-id_00027743-08_3_back.jpg,Shirts / Polos,yes,1.608,2026-04-04 17:52:36
+user_1046,sample_testing_file/MEN-Shirts_Polos-id_00031030-03_2_side.jpg,Shirts / Polos,yes,1.498,2026-04-04 17:56:13
+user_1046,sample_testing_file/MEN-Sweaters-id_00037354-03_4_full.jpg,Sweaters,yes,2.507,2026-04-10 21:29:21
+user_1046,sample_testing_file/WOMEN-Graphic_Tees-id_00013474-06_7_additional.jpg,Graphic Tees,yes,3.823,2026-04-10 21:30:21
+user_1046,sample_testing_file/WOMEN-Skirts-id_00021418-08_4_full.jpg,Skirts,no,1.12,2026-04-10 21:32:22
+user_1046,sample_testing_file/MEN-Sweaters-id_00026686-11_3_back.jpg,Sweaters,yes,1.752,2026-04-10 21:34:00
+user_1046,sample_testing_file/MEN-Sweaters-id_00009546-08_4_full.jpg,Sweaters,no,4.58,2026-04-10 21:35:59
+user_1046,sample_testing_file/WOMEN-Graphic_Tees-id_00050329-08_4_full.jpg,Graphic Tees,yes,1.638,2026-04-10 21:39:28
+user_1047,sample_testing_file/WOMEN-Jackets_Coats-id_00031964-08_7_additional.jpg,Jackets / Coats,no,1.953,2026-04-03 11:07:23
+user_1047,sample_testing_file/WOMEN-Jackets_Coats-id_00075675-04_1_front.jpg,Jackets / Coats,no,1.655,2026-04-03 11:09:55
+user_1047,sample_testing_file/WOMEN-Graphic_Tees-id_00011004-11_4_full.jpg,Graphic Tees,yes,1.962,2026-04-03 11:10:34
+user_1047,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00052297-11_3_back.jpg,Hoodies / Sweatshirts,yes,2.253,2026-04-03 11:12:04
+user_1047,sample_testing_file/WOMEN-Dresses-id_00023820-01_3_back.jpg,Dresses,no,2.371,2026-04-03 11:12:29
+user_1047,sample_testing_file/MEN-Shirts_Polos-id_00036518-02_3_back.jpg,Shirts / Polos,no,1.389,2026-04-03 11:14:48
+user_1047,sample_testing_file/WOMEN-Shorts-id_00012197-05_2_side.jpg,Shorts,no,3.943,2026-04-03 11:18:04
+user_1047,sample_testing_file/WOMEN-Graphic_Tees-id_00067001-08_2_side.jpg,Graphic Tees,no,3.156,2026-04-07 19:28:33
+user_1047,sample_testing_file/MEN-Jackets_Vests-id_00018137-03_2_side.jpg,Jackets / Vests,no,1.254,2026-04-07 19:29:49
+user_1047,sample_testing_file/WOMEN-Dresses-id_00046567-04_3_back.jpg,Dresses,yes,2.08,2026-04-07 19:30:46
+user_1047,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00041360-02_7_additional.jpg,Hoodies / Sweatshirts,yes,1.929,2026-04-07 19:31:38
+user_1047,sample_testing_file/WOMEN-Jackets_Vests-id_00020053-07_2_side.jpg,Jackets / Vests,no,1.943,2026-04-07 19:34:01
+user_1047,sample_testing_file/WOMEN-Sweaters-id_00018290-12_1_front.jpg,Sweaters,no,1.662,2026-04-07 19:35:33
+user_1047,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00057200-10_7_additional.jpg,Hoodies / Sweatshirts,yes,2.035,2026-04-07 19:38:14
+user_1047,sample_testing_file/MEN-Jackets_Vests-id_00034336-03_4_full.jpg,Jackets / Vests,no,1.273,2026-04-07 19:40:11
+user_1048,sample_testing_file/WOMEN-Cardigans-id_00021466-05_1_front.jpg,Cardigans,yes,1.423,2026-04-05 13:04:39
+user_1048,sample_testing_file/MEN-Sweaters-id_00037354-03_4_full.jpg,Sweaters,yes,1.476,2026-04-05 13:07:56
+user_1048,sample_testing_file/WOMEN-Skirts-id_00066543-02_3_back.jpg,Skirts,yes,0.719,2026-04-05 13:10:30
+user_1048,sample_testing_file/MEN-Denim-id_00037389-07_7_additional.jpg,Denim,no,0.479,2026-04-05 13:12:40
+user_1048,sample_testing_file/WOMEN-Skirts-id_00017362-06_1_front.jpg,Skirts,no,2.994,2026-04-05 13:13:53
+user_1048,sample_testing_file/MEN-Tees_Tanks-id_00064252-02_4_full.jpg,Tees / Tanks,yes,1.109,2026-04-05 13:15:46
+user_1048,sample_testing_file/WOMEN-Skirts-id_00015907-08_2_side.jpg,Skirts,yes,0.863,2026-04-07 12:04:26
+user_1048,sample_testing_file/WOMEN-Denim-id_00020927-12_4_full.jpg,Denim,no,1.948,2026-04-07 12:05:48
+user_1048,sample_testing_file/WOMEN-Cardigans-id_00056334-03_1_front.jpg,Cardigans,yes,2.588,2026-04-07 12:07:09
+user_1048,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00009072-09_2_side.jpg,Hoodies / Sweatshirts,no,5.709,2026-04-07 12:08:17
+user_1048,sample_testing_file/WOMEN-Cardigans-id_00009603-09_2_side.jpg,Cardigans,no,1.771,2026-04-07 12:10:36
+user_1048,sample_testing_file/WOMEN-Cardigans-id_00021466-05_1_front.jpg,Cardigans,yes,0.995,2026-04-07 12:14:00
+user_1048,sample_testing_file/WOMEN-Denim-id_00025106-04_4_full.jpg,Denim,no,0.67,2026-04-09 20:19:55
+user_1048,sample_testing_file/WOMEN-Cardigans-id_00073564-04_7_additional.jpg,Cardigans,yes,1.044,2026-04-09 20:22:55
+user_1048,sample_testing_file/WOMEN-Cardigans-id_00034180-04_3_back.jpg,Cardigans,yes,0.54,2026-04-09 20:23:43
+user_1049,sample_testing_file/MEN-Shirts_Polos-id_00042246-04_1_front.jpg,Shirts / Polos,no,0.567,2026-04-02 20:40:40
+user_1049,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00059511-02_2_side.jpg,Hoodies / Sweatshirts,no,1.653,2026-04-02 20:43:43
+user_1049,sample_testing_file/WOMEN-Cardigans-id_00021466-05_1_front.jpg,Cardigans,no,2.779,2026-04-02 20:45:00
+user_1049,sample_testing_file/WOMEN-Cardigans-id_00044093-01_4_full.jpg,Cardigans,yes,0.74,2026-04-02 20:46:07
+user_1049,sample_testing_file/WOMEN-Denim-id_00050141-01_4_full.jpg,Denim,no,3.468,2026-04-02 20:46:35
+user_1049,sample_testing_file/WOMEN-Cardigans-id_00009603-09_2_side.jpg,Cardigans,yes,1.146,2026-04-02 20:48:58
+user_1049,sample_testing_file/WOMEN-Dresses-id_00073773-05_1_front.jpg,Dresses,yes,2.3,2026-04-02 20:51:15
+user_1049,sample_testing_file/WOMEN-Cardigans-id_00060947-08_4_full.jpg,Cardigans,yes,1.426,2026-04-08 12:05:02
+user_1049,sample_testing_file/MEN-Sweaters-id_00026686-11_3_back.jpg,Sweaters,no,5.203,2026-04-08 12:08:38
+user_1049,sample_testing_file/MEN-Shirts_Polos-id_00042246-04_1_front.jpg,Shirts / Polos,no,1.075,2026-04-08 12:11:34
+user_1049,sample_testing_file/MEN-Jackets_Vests-id_00030785-11_3_back.jpg,Jackets / Vests,no,1.668,2026-04-08 12:12:08
+user_1049,sample_testing_file/WOMEN-Graphic_Tees-id_00050329-08_4_full.jpg,Graphic Tees,yes,2.144,2026-04-08 12:15:20
+user_1049,sample_testing_file/MEN-Sweaters-id_00076623-07_7_additional.jpg,Sweaters,yes,4.06,2026-04-08 12:17:22
+user_1049,sample_testing_file/MEN-Shirts_Polos-id_00028747-03_7_additional.jpg,Shirts / Polos,no,0.511,2026-04-08 12:17:51
+user_1049,sample_testing_file/MEN-Tees_Tanks-id_00052582-05_1_front.jpg,Tees / Tanks,yes,3.973,2026-04-08 12:18:36
+user_1050,sample_testing_file/WOMEN-Jackets_Coats-id_00032952-04_1_front.jpg,Jackets / Coats,no,2.185,2026-04-04 21:05:19
+user_1050,sample_testing_file/MEN-Tees_Tanks-id_00029390-11_1_front.jpg,Tees / Tanks,yes,3.546,2026-04-04 21:05:57
+user_1050,sample_testing_file/WOMEN-Jackets_Coats-id_00014954-02_4_full.jpg,Jackets / Coats,no,1.653,2026-04-04 21:08:01
+user_1050,sample_testing_file/WOMEN-Shorts-id_00006176-02_2_side.jpg,Shorts,no,1.481,2026-04-04 21:10:34
+user_1050,sample_testing_file/WOMEN-Jackets_Coats-id_00015015-11_7_additional.jpg,Jackets / Coats,no,0.9,2026-04-04 21:11:47
+user_1050,sample_testing_file/WOMEN-Graphic_Tees-id_00073921-04_4_full.jpg,Graphic Tees,yes,1.676,2026-04-04 21:13:43
+user_1050,sample_testing_file/MEN-Shirts_Polos-id_00071122-08_4_full.jpg,Shirts / Polos,yes,1.238,2026-04-04 21:14:46
+user_1050,sample_testing_file/MEN-Tees_Tanks-id_00064252-02_4_full.jpg,Tees / Tanks,yes,4.093,2026-04-04 21:17:47
+user_1050,sample_testing_file/MEN-Sweaters-id_00009546-08_4_full.jpg,Sweaters,yes,1.507,2026-04-10 11:11:21
+user_1050,sample_testing_file/WOMEN-Graphic_Tees-id_00013474-06_7_additional.jpg,Graphic Tees,no,3.18,2026-04-10 11:14:12
+user_1050,sample_testing_file/WOMEN-Jackets_Coats-id_00027550-07_7_additional.jpg,Jackets / Coats,yes,2.549,2026-04-10 11:15:53
+user_1050,sample_testing_file/WOMEN-Shorts-id_00007456-09_1_front.jpg,Shorts,yes,0.91,2026-04-10 11:19:16
+user_1050,sample_testing_file/MEN-Shirts_Polos-id_00040136-11_7_additional.jpg,Shirts / Polos,yes,5.604,2026-04-10 11:22:50
+user_1050,sample_testing_file/WOMEN-Denim-id_00020927-12_4_full.jpg,Denim,no,2.367,2026-04-10 11:25:02
+user_1050,sample_testing_file/WOMEN-Skirts-id_00078505-06_4_full.jpg,Skirts,no,2.287,2026-04-10 11:27:52
+user_1051,sample_testing_file/WOMEN-Denim-id_00045509-09_4_full.jpg,Denim,yes,1.001,2026-04-01 15:09:44
+user_1051,sample_testing_file/MEN-Sweaters-id_00049696-11_2_side.jpg,Sweaters,yes,0.917,2026-04-01 15:11:18
+user_1051,sample_testing_file/WOMEN-Tees_Tanks-id_00031267-03_4_full.jpg,Tees / Tanks,no,1.402,2026-04-01 15:11:55
+user_1051,sample_testing_file/MEN-Tees_Tanks-id_00064252-02_4_full.jpg,Tees / Tanks,yes,3.026,2026-04-01 15:15:09
+user_1051,sample_testing_file/WOMEN-Jackets_Vests-id_00020053-07_2_side.jpg,Jackets / Vests,yes,2.127,2026-04-01 15:16:43
+user_1051,sample_testing_file/MEN-Sweaters-id_00009546-08_4_full.jpg,Sweaters,yes,2.316,2026-04-01 15:20:18
+user_1051,sample_testing_file/WOMEN-Graphic_Tees-id_00077398-07_1_front.jpg,Graphic Tees,no,3.924,2026-04-08 13:48:55
+user_1051,sample_testing_file/WOMEN-Jackets_Vests-id_00020380-04_3_back.jpg,Jackets / Vests,yes,1.665,2026-04-08 13:49:26
+user_1051,sample_testing_file/WOMEN-Dresses-id_00000283-07_3_back.jpg,Dresses,yes,4.136,2026-04-08 13:51:07
+user_1051,sample_testing_file/MEN-Tees_Tanks-id_00029390-11_1_front.jpg,Tees / Tanks,no,1.434,2026-04-08 13:53:05
+user_1051,sample_testing_file/MEN-Jackets_Vests-id_00030785-11_3_back.jpg,Jackets / Vests,yes,1.173,2026-04-08 13:54:19
+user_1051,sample_testing_file/WOMEN-Dresses-id_00046567-04_3_back.jpg,Dresses,no,2.039,2026-04-08 13:56:38
+user_1051,sample_testing_file/WOMEN-Dresses-id_00073773-05_1_front.jpg,Dresses,yes,1.388,2026-04-08 13:58:38
+user_1051,sample_testing_file/WOMEN-Sweaters-id_00019314-01_1_front.jpg,Sweaters,yes,0.872,2026-04-08 14:01:19
+user_1051,sample_testing_file/WOMEN-Tees_Tanks-id_00078194-07_3_back.jpg,Tees / Tanks,no,0.59,2026-04-08 14:04:14
+user_1052,sample_testing_file/WOMEN-Blouses_Shirts-id_00046439-07_4_full.jpg,Blouses / Shirts,yes,3.087,2026-04-04 15:39:02
+user_1052,sample_testing_file/MEN-Shirts_Polos-id_00023510-12_3_back.jpg,Shirts / Polos,yes,4.873,2026-04-04 15:41:13
+user_1052,sample_testing_file/WOMEN-Skirts-id_00066543-02_3_back.jpg,Skirts,no,5.049,2026-04-04 15:42:22
+user_1052,sample_testing_file/WOMEN-Blouses_Shirts-id_00035698-05_7_additional.jpg,Blouses / Shirts,yes,3.988,2026-04-04 15:43:08
+user_1052,sample_testing_file/MEN-Graphic_Tees-id_00020290-04_3_back.jpg,Graphic Tees,yes,1.463,2026-04-04 15:44:39
+user_1052,sample_testing_file/WOMEN-Cardigans-id_00040889-10_4_full.jpg,Cardigans,yes,1.006,2026-04-06 15:14:41
+user_1052,sample_testing_file/MEN-Shirts_Polos-id_00059471-01_3_back.jpg,Shirts / Polos,no,4.108,2026-04-06 15:17:02
+user_1052,sample_testing_file/MEN-Tees_Tanks-id_00064252-02_4_full.jpg,Tees / Tanks,no,2.003,2026-04-06 15:18:56
+user_1052,sample_testing_file/WOMEN-Cardigans-id_00068495-07_4_full.jpg,Cardigans,yes,1.45,2026-04-06 15:19:29
+user_1052,sample_testing_file/MEN-Graphic_Tees-id_00041146-11_1_front.jpg,Graphic Tees,yes,2.413,2026-04-06 15:19:49
+user_1052,sample_testing_file/WOMEN-Denim-id_00045509-09_4_full.jpg,Denim,no,2.361,2026-04-11 15:06:39
+user_1052,sample_testing_file/MEN-Denim-id_00044588-02_3_back.jpg,Denim,yes,2.706,2026-04-11 15:09:07
+user_1052,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00009072-09_2_side.jpg,Hoodies / Sweatshirts,yes,5.631,2026-04-11 15:11:57
+user_1052,sample_testing_file/WOMEN-Denim-id_00020927-12_4_full.jpg,Denim,no,2.248,2026-04-11 15:14:38
+user_1052,sample_testing_file/WOMEN-Jackets_Vests-id_00066163-07_7_additional.jpg,Jackets / Vests,yes,0.49,2026-04-11 15:16:14
+user_1053,sample_testing_file/WOMEN-Jackets_Vests-id_00066163-07_7_additional.jpg,Jackets / Vests,yes,0.639,2026-04-01 18:17:43
+user_1053,sample_testing_file/WOMEN-Shorts-id_00062403-11_4_full.jpg,Shorts,no,3.89,2026-04-01 18:19:38
+user_1053,sample_testing_file/WOMEN-Jackets_Coats-id_00032952-04_1_front.jpg,Jackets / Coats,yes,2.537,2026-04-01 18:20:54
+user_1053,sample_testing_file/MEN-Jackets_Vests-id_00063905-04_3_back.jpg,Jackets / Vests,yes,1.853,2026-04-01 18:23:46
+user_1053,sample_testing_file/WOMEN-Graphic_Tees-id_00020033-06_2_side.jpg,Graphic Tees,yes,1.966,2026-04-05 19:35:54
+user_1053,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00070540-08_4_full.jpg,Hoodies / Sweatshirts,yes,4.13,2026-04-05 19:38:26
+user_1053,sample_testing_file/MEN-Shirts_Polos-id_00027743-08_3_back.jpg,Shirts / Polos,no,2.319,2026-04-05 19:39:21
+user_1053,sample_testing_file/MEN-Shorts-id_00044658-03_1_front.jpg,Shorts,yes,2.32,2026-04-05 19:42:01
+user_1053,sample_testing_file/WOMEN-Sweaters-id_00019314-01_1_front.jpg,Sweaters,yes,2.501,2026-04-05 19:42:56
+user_1053,sample_testing_file/MEN-Graphic_Tees-id_00041146-11_1_front.jpg,Graphic Tees,yes,0.854,2026-04-05 19:44:59
+user_1053,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00057200-10_7_additional.jpg,Hoodies / Sweatshirts,no,1.644,2026-04-07 12:12:09
+user_1053,sample_testing_file/WOMEN-Graphic_Tees-id_00077398-07_1_front.jpg,Graphic Tees,yes,1.93,2026-04-07 12:14:59
+user_1053,sample_testing_file/WOMEN-Jackets_Coats-id_00014954-02_4_full.jpg,Jackets / Coats,yes,1.847,2026-04-07 12:17:19
+user_1053,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00035955-01_1_front.jpg,Hoodies / Sweatshirts,no,0.769,2026-04-07 12:18:24
+user_1053,sample_testing_file/WOMEN-Graphic_Tees-id_00003279-12_3_back.jpg,Graphic Tees,no,4.621,2026-04-07 12:19:39
+user_1054,sample_testing_file/WOMEN-Jackets_Coats-id_00032743-02_4_full.jpg,Jackets / Coats,yes,4.659,2026-04-08 17:45:35
+user_1054,sample_testing_file/WOMEN-Sweaters-id_00067890-08_1_front.jpg,Sweaters,no,1.219,2026-04-08 17:48:28
+user_1054,sample_testing_file/MEN-Jackets_Vests-id_00018137-03_2_side.jpg,Jackets / Vests,no,5.166,2026-04-08 17:51:56
+user_1054,sample_testing_file/WOMEN-Graphic_Tees-id_00055334-10_1_front.jpg,Graphic Tees,yes,2.228,2026-04-08 17:55:35
+user_1054,sample_testing_file/MEN-Sweaters-id_00026686-11_3_back.jpg,Sweaters,no,1.221,2026-04-08 17:56:03
+user_1054,sample_testing_file/MEN-Graphic_Tees-id_00041146-11_1_front.jpg,Graphic Tees,yes,1.806,2026-04-08 17:59:29
+user_1054,sample_testing_file/WOMEN-Graphic_Tees-id_00037197-09_7_additional.jpg,Graphic Tees,yes,1.105,2026-04-08 17:59:59
+user_1054,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00035955-01_1_front.jpg,Hoodies / Sweatshirts,yes,1.561,2026-04-10 14:29:57
+user_1054,sample_testing_file/WOMEN-Tees_Tanks-id_00031267-03_4_full.jpg,Tees / Tanks,yes,4.385,2026-04-10 14:30:51
+user_1054,sample_testing_file/WOMEN-Graphic_Tees-id_00035993-08_1_front.jpg,Graphic Tees,no,3.706,2026-04-10 14:31:37
+user_1054,sample_testing_file/WOMEN-Graphic_Tees-id_00013474-06_7_additional.jpg,Graphic Tees,yes,0.835,2026-04-10 14:32:29
+user_1054,sample_testing_file/WOMEN-Sweaters-id_00075915-12_7_additional.jpg,Sweaters,yes,1.562,2026-04-10 14:35:18
+user_1054,sample_testing_file/MEN-Jackets_Vests-id_00063905-04_3_back.jpg,Jackets / Vests,no,4.364,2026-04-10 14:36:58
+user_1054,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00048352-03_7_additional.jpg,Hoodies / Sweatshirts,yes,1.23,2026-04-10 14:37:47
+user_1054,sample_testing_file/WOMEN-Sweaters-id_00073148-07_7_additional.jpg,Sweaters,no,0.762,2026-04-10 14:40:19
+user_1055,sample_testing_file/MEN-Denim-id_00069617-09_7_additional.jpg,Denim,no,0.802,2026-04-01 16:20:25
+user_1055,sample_testing_file/WOMEN-Denim-id_00020927-12_4_full.jpg,Denim,no,0.944,2026-04-01 16:21:16
+user_1055,sample_testing_file/WOMEN-Graphic_Tees-id_00047740-07_1_front.jpg,Graphic Tees,no,0.729,2026-04-01 16:23:31
+user_1055,sample_testing_file/WOMEN-Jackets_Vests-id_00072545-09_3_back.jpg,Jackets / Vests,yes,1.4,2026-04-01 16:25:55
+user_1055,sample_testing_file/WOMEN-Blouses_Shirts-id_00046439-07_4_full.jpg,Blouses / Shirts,no,2.118,2026-04-01 16:28:46
+user_1055,sample_testing_file/MEN-Sweaters-id_00023520-05_1_front.jpg,Sweaters,yes,1.643,2026-04-01 16:31:44
+user_1055,sample_testing_file/MEN-Shirts_Polos-id_00058879-10_3_back.jpg,Shirts / Polos,yes,0.865,2026-04-01 16:32:16
+user_1055,sample_testing_file/WOMEN-Jackets_Coats-id_00075675-04_1_front.jpg,Jackets / Coats,no,2.388,2026-04-03 19:39:00
+user_1055,sample_testing_file/WOMEN-Graphic_Tees-id_00035993-08_1_front.jpg,Graphic Tees,no,4.269,2026-04-03 19:39:59
+user_1055,sample_testing_file/WOMEN-Denim-id_00006631-11_7_additional.jpg,Denim,yes,3.473,2026-04-03 19:42:43
+user_1055,sample_testing_file/WOMEN-Jackets_Coats-id_00015015-11_7_additional.jpg,Jackets / Coats,yes,2.236,2026-04-03 19:44:33
+user_1055,sample_testing_file/WOMEN-Denim-id_00004068-04_2_side.jpg,Denim,yes,1.488,2026-04-03 19:46:28
+user_1055,sample_testing_file/WOMEN-Jackets_Vests-id_00038753-09_2_side.jpg,Jackets / Vests,yes,1.34,2026-04-03 19:48:46
+user_1055,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00030736-05_3_back.jpg,Hoodies / Sweatshirts,yes,3.614,2026-04-03 19:49:57
+user_1055,sample_testing_file/MEN-Shirts_Polos-id_00018727-05_2_side.jpg,Shirts / Polos,no,4.212,2026-04-03 19:52:56
+user_1056,sample_testing_file/WOMEN-Jackets_Coats-id_00032952-04_1_front.jpg,Jackets / Coats,no,1.016,2026-04-08 21:41:22
+user_1056,sample_testing_file/MEN-Shirts_Polos-id_00058879-10_3_back.jpg,Shirts / Polos,yes,2.163,2026-04-08 21:42:29
+user_1056,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00041360-02_7_additional.jpg,Hoodies / Sweatshirts,yes,2.501,2026-04-08 21:45:55
+user_1056,sample_testing_file/WOMEN-Cardigans-id_00079906-12_1_front.jpg,Cardigans,yes,1.827,2026-04-08 21:47:38
+user_1056,sample_testing_file/WOMEN-Cardigans-id_00053226-09_1_front.jpg,Cardigans,yes,1.146,2026-04-09 21:19:26
+user_1056,sample_testing_file/WOMEN-Jackets_Vests-id_00066163-07_7_additional.jpg,Jackets / Vests,yes,2.007,2026-04-09 21:19:45
+user_1056,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00052297-11_3_back.jpg,Hoodies / Sweatshirts,no,2.076,2026-04-09 21:22:40
+user_1056,sample_testing_file/WOMEN-Blouses_Shirts-id_00023406-10_3_back.jpg,Blouses / Shirts,no,3.993,2026-04-09 21:25:50
+user_1056,sample_testing_file/WOMEN-Cardigans-id_00040889-10_4_full.jpg,Cardigans,no,3.133,2026-04-09 21:28:11
+user_1056,sample_testing_file/WOMEN-Sweaters-id_00073148-07_7_additional.jpg,Sweaters,yes,4.487,2026-04-09 21:29:54
+user_1056,sample_testing_file/WOMEN-Graphic_Tees-id_00050329-08_4_full.jpg,Graphic Tees,no,1.762,2026-04-10 18:20:42
+user_1056,sample_testing_file/WOMEN-Jackets_Vests-id_00066163-07_7_additional.jpg,Jackets / Vests,yes,0.771,2026-04-10 18:23:55
+user_1056,sample_testing_file/MEN-Shirts_Polos-id_00071122-08_4_full.jpg,Shirts / Polos,yes,2.261,2026-04-10 18:24:20
+user_1056,sample_testing_file/WOMEN-Skirts-id_00027761-09_2_side.jpg,Skirts,no,5.109,2026-04-10 18:27:04
+user_1056,sample_testing_file/WOMEN-Cardigans-id_00060947-08_4_full.jpg,Cardigans,yes,1.034,2026-04-10 18:30:34
+user_1057,sample_testing_file/WOMEN-Sweaters-id_00000943-02_1_front.jpg,Sweaters,yes,0.504,2026-04-02 15:51:11
+user_1057,sample_testing_file/MEN-Shirts_Polos-id_00078105-08_7_additional.jpg,Shirts / Polos,no,2.251,2026-04-02 15:53:32
+user_1057,sample_testing_file/WOMEN-Cardigans-id_00056334-03_1_front.jpg,Cardigans,yes,1.716,2026-04-02 15:56:57
+user_1057,sample_testing_file/MEN-Shirts_Polos-id_00003805-07_3_back.jpg,Shirts / Polos,no,0.709,2026-04-02 15:57:40
+user_1057,sample_testing_file/MEN-Shirts_Polos-id_00028044-02_4_full.jpg,Shirts / Polos,no,1.056,2026-04-03 21:03:13
+user_1057,sample_testing_file/WOMEN-Tees_Tanks-id_00055070-07_7_additional.jpg,Tees / Tanks,no,2.4,2026-04-03 21:03:42
+user_1057,sample_testing_file/MEN-Sweaters-id_00049696-11_2_side.jpg,Sweaters,yes,2.081,2026-04-03 21:04:11
+user_1057,sample_testing_file/WOMEN-Cardigans-id_00056334-03_1_front.jpg,Cardigans,no,1.009,2026-04-03 21:07:12
+user_1057,sample_testing_file/MEN-Shorts-id_00044658-03_1_front.jpg,Shorts,yes,1.036,2026-04-03 21:09:46
+user_1057,sample_testing_file/WOMEN-Sweaters-id_00018290-12_1_front.jpg,Sweaters,no,3.215,2026-04-03 21:10:44
+user_1057,sample_testing_file/WOMEN-Tees_Tanks-id_00030983-03_4_full.jpg,Tees / Tanks,yes,4.292,2026-04-05 11:14:16
+user_1057,sample_testing_file/WOMEN-Skirts-id_00078505-06_4_full.jpg,Skirts,yes,3.828,2026-04-05 11:15:46
+user_1057,sample_testing_file/WOMEN-Jackets_Vests-id_00005696-12_4_full.jpg,Jackets / Vests,yes,3.101,2026-04-05 11:17:30
+user_1057,sample_testing_file/WOMEN-Shorts-id_00062217-08_3_back.jpg,Shorts,yes,1.367,2026-04-05 11:20:40
+user_1057,sample_testing_file/WOMEN-Cardigans-id_00068495-07_4_full.jpg,Cardigans,no,2.081,2026-04-05 11:21:43
+user_1058,sample_testing_file/MEN-Shirts_Polos-id_00009962-10_2_side.jpg,Shirts / Polos,no,4.609,2026-04-03 11:44:55
+user_1058,sample_testing_file/WOMEN-Jackets_Vests-id_00070283-06_1_front.jpg,Jackets / Vests,yes,2.376,2026-04-03 11:47:13
+user_1058,sample_testing_file/WOMEN-Sweaters-id_00031636-12_4_full.jpg,Sweaters,no,2.239,2026-04-03 11:48:37
+user_1058,sample_testing_file/WOMEN-Sweaters-id_00019314-01_1_front.jpg,Sweaters,no,0.509,2026-04-03 11:50:19
+user_1058,sample_testing_file/WOMEN-Jackets_Coats-id_00032952-04_1_front.jpg,Jackets / Coats,yes,0.817,2026-04-03 11:52:38
+user_1058,sample_testing_file/WOMEN-Cardigans-id_00034180-04_3_back.jpg,Cardigans,yes,1.322,2026-04-03 11:56:12
+user_1058,sample_testing_file/MEN-Sweaters-id_00009546-08_4_full.jpg,Sweaters,no,0.588,2026-04-03 11:59:32
+user_1058,sample_testing_file/WOMEN-Denim-id_00050141-01_4_full.jpg,Denim,no,1.917,2026-04-03 12:01:07
+user_1058,sample_testing_file/WOMEN-Graphic_Tees-id_00067001-08_2_side.jpg,Graphic Tees,yes,2.438,2026-04-03 12:02:27
+user_1058,sample_testing_file/MEN-Sweaters-id_00009546-08_4_full.jpg,Sweaters,no,0.911,2026-04-10 21:38:37
+user_1058,sample_testing_file/MEN-Denim-id_00044609-05_7_additional.jpg,Denim,no,3.628,2026-04-10 21:41:44
+user_1058,sample_testing_file/MEN-Jackets_Vests-id_00063905-04_3_back.jpg,Jackets / Vests,yes,0.66,2026-04-10 21:44:06
+user_1058,sample_testing_file/WOMEN-Cardigans-id_00040889-10_4_full.jpg,Cardigans,yes,0.684,2026-04-10 21:46:17
+user_1058,sample_testing_file/WOMEN-Sweaters-id_00031636-12_4_full.jpg,Sweaters,no,1.708,2026-04-10 21:49:07
+user_1058,sample_testing_file/WOMEN-Cardigans-id_00034180-04_3_back.jpg,Cardigans,no,4.452,2026-04-10 21:49:40
+user_1059,sample_testing_file/WOMEN-Dresses-id_00073773-05_1_front.jpg,Dresses,no,3.646,2026-04-07 13:14:59
+user_1059,sample_testing_file/WOMEN-Sweaters-id_00000727-02_4_full.jpg,Sweaters,yes,2.99,2026-04-07 13:17:08
+user_1059,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00048352-03_7_additional.jpg,Hoodies / Sweatshirts,yes,3.772,2026-04-07 13:20:02
+user_1059,sample_testing_file/WOMEN-Denim-id_00025106-04_4_full.jpg,Denim,no,1.203,2026-04-07 13:20:35
+user_1059,sample_testing_file/WOMEN-Sweaters-id_00067890-08_1_front.jpg,Sweaters,no,1.0,2026-04-07 13:23:16
+user_1059,sample_testing_file/WOMEN-Dresses-id_00022783-09_1_front.jpg,Dresses,yes,1.134,2026-04-07 13:23:41
+user_1059,sample_testing_file/MEN-Shirts_Polos-id_00003805-07_3_back.jpg,Shirts / Polos,yes,1.409,2026-04-08 16:26:11
+user_1059,sample_testing_file/MEN-Denim-id_00069617-09_7_additional.jpg,Denim,no,1.755,2026-04-08 16:28:51
+user_1059,sample_testing_file/WOMEN-Denim-id_00020927-12_4_full.jpg,Denim,yes,0.484,2026-04-08 16:32:00
+user_1059,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00070540-08_4_full.jpg,Hoodies / Sweatshirts,yes,1.694,2026-04-08 16:35:22
+user_1059,sample_testing_file/WOMEN-Cardigans-id_00056334-03_1_front.jpg,Cardigans,no,5.257,2026-04-08 16:36:15
+user_1059,sample_testing_file/MEN-Shirts_Polos-id_00036518-02_3_back.jpg,Shirts / Polos,no,3.515,2026-04-10 21:39:46
+user_1059,sample_testing_file/WOMEN-Dresses-id_00077993-02_2_side.jpg,Dresses,yes,1.75,2026-04-10 21:41:59
+user_1059,sample_testing_file/WOMEN-Cardigans-id_00021466-05_1_front.jpg,Cardigans,yes,3.259,2026-04-10 21:44:44
+user_1059,sample_testing_file/WOMEN-Sweaters-id_00067890-08_1_front.jpg,Sweaters,no,0.524,2026-04-10 21:46:47
+user_1060,sample_testing_file/MEN-Denim-id_00044588-02_3_back.jpg,Denim,no,1.68,2026-04-05 17:33:58
+user_1060,sample_testing_file/WOMEN-Denim-id_00006631-11_7_additional.jpg,Denim,no,1.501,2026-04-05 17:37:05
+user_1060,sample_testing_file/WOMEN-Blouses_Shirts-id_00036435-08_3_back.jpg,Blouses / Shirts,no,3.126,2026-04-05 17:39:51
+user_1060,sample_testing_file/MEN-Graphic_Tees-id_00041146-11_1_front.jpg,Graphic Tees,no,3.627,2026-04-05 17:40:11
+user_1060,sample_testing_file/MEN-Jackets_Vests-id_00030785-11_3_back.jpg,Jackets / Vests,yes,0.526,2026-04-05 17:41:53
+user_1060,sample_testing_file/WOMEN-Cardigans-id_00079906-12_1_front.jpg,Cardigans,yes,2.055,2026-04-05 17:44:43
+user_1060,sample_testing_file/WOMEN-Skirts-id_00066543-02_3_back.jpg,Skirts,no,4.047,2026-04-05 17:47:42
+user_1060,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00009072-09_2_side.jpg,Hoodies / Sweatshirts,yes,0.615,2026-04-09 14:48:00
+user_1060,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00014323-04_2_side.jpg,Hoodies / Sweatshirts,yes,1.042,2026-04-09 14:51:38
+user_1060,sample_testing_file/WOMEN-Blouses_Shirts-id_00046439-07_4_full.jpg,Blouses / Shirts,yes,2.407,2026-04-09 14:53:01
+user_1060,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00072849-01_7_additional.jpg,Hoodies / Sweatshirts,yes,0.827,2026-04-09 14:56:28
+user_1060,sample_testing_file/WOMEN-Denim-id_00036348-09_4_full.jpg,Denim,no,1.478,2026-04-09 15:00:06
+user_1060,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00052297-11_3_back.jpg,Hoodies / Sweatshirts,no,3.344,2026-04-09 15:00:32
+user_1060,sample_testing_file/WOMEN-Cardigans-id_00079906-12_1_front.jpg,Cardigans,yes,3.534,2026-04-09 15:01:29
+user_1060,sample_testing_file/MEN-Graphic_Tees-id_00009039-09_3_back.jpg,Graphic Tees,no,1.775,2026-04-09 15:02:47
+user_1061,sample_testing_file/WOMEN-Dresses-id_00022783-09_1_front.jpg,Dresses,no,1.783,2026-04-07 14:32:07
+user_1061,sample_testing_file/WOMEN-Skirts-id_00078505-06_4_full.jpg,Skirts,no,2.917,2026-04-07 14:34:04
+user_1061,sample_testing_file/WOMEN-Blouses_Shirts-id_00078698-02_7_additional.jpg,Blouses / Shirts,no,1.066,2026-04-07 14:35:35
+user_1061,sample_testing_file/WOMEN-Jackets_Vests-id_00005696-12_4_full.jpg,Jackets / Vests,yes,3.41,2026-04-07 14:38:08
+user_1061,sample_testing_file/WOMEN-Blouses_Shirts-id_00002541-12_7_additional.jpg,Blouses / Shirts,no,1.722,2026-04-07 14:39:56
+user_1061,sample_testing_file/MEN-Graphic_Tees-id_00036266-01_1_front.jpg,Graphic Tees,no,2.119,2026-04-07 14:41:23
+user_1061,sample_testing_file/MEN-Tees_Tanks-id_00007493-01_7_additional.jpg,Tees / Tanks,yes,1.716,2026-04-07 14:44:10
+user_1061,sample_testing_file/MEN-Shirts_Polos-id_00009962-10_2_side.jpg,Shirts / Polos,no,1.618,2026-04-07 14:45:17
+user_1061,sample_testing_file/WOMEN-Graphic_Tees-id_00003279-12_3_back.jpg,Graphic Tees,no,1.243,2026-04-07 14:47:55
+user_1061,sample_testing_file/MEN-Graphic_Tees-id_00020290-04_3_back.jpg,Graphic Tees,yes,0.992,2026-04-08 11:34:09
+user_1061,sample_testing_file/WOMEN-Jackets_Coats-id_00042505-01_2_side.jpg,Jackets / Coats,yes,1.727,2026-04-08 11:34:35
+user_1061,sample_testing_file/WOMEN-Dresses-id_00072064-03_3_back.jpg,Dresses,no,0.684,2026-04-08 11:35:48
+user_1061,sample_testing_file/WOMEN-Jackets_Coats-id_00031964-08_7_additional.jpg,Jackets / Coats,no,1.865,2026-04-08 11:38:40
+user_1061,sample_testing_file/MEN-Shorts-id_00028017-07_1_front.jpg,Shorts,yes,4.068,2026-04-08 11:39:26
+user_1061,sample_testing_file/MEN-Shirts_Polos-id_00074669-04_7_additional.jpg,Shirts / Polos,no,4.23,2026-04-08 11:40:03
+user_1062,sample_testing_file/MEN-Shorts-id_00015861-04_2_side.jpg,Shorts,no,0.798,2026-04-01 12:28:55
+user_1062,sample_testing_file/WOMEN-Blouses_Shirts-id_00075575-04_3_back.jpg,Blouses / Shirts,yes,0.92,2026-04-01 12:31:18
+user_1062,sample_testing_file/WOMEN-Blouses_Shirts-id_00071512-01_3_back.jpg,Blouses / Shirts,yes,0.672,2026-04-01 12:34:20
+user_1062,sample_testing_file/WOMEN-Blouses_Shirts-id_00075244-05_4_full.jpg,Blouses / Shirts,yes,1.409,2026-04-01 12:34:56
+user_1062,sample_testing_file/WOMEN-Jackets_Coats-id_00031964-08_7_additional.jpg,Jackets / Coats,yes,0.531,2026-04-01 12:37:21
+user_1062,sample_testing_file/WOMEN-Jackets_Coats-id_00017602-05_1_front.jpg,Jackets / Coats,yes,1.558,2026-04-05 16:18:13
+user_1062,sample_testing_file/WOMEN-Sweaters-id_00060333-06_3_back.jpg,Sweaters,yes,4.412,2026-04-05 16:21:48
+user_1062,sample_testing_file/WOMEN-Blouses_Shirts-id_00002758-10_7_additional.jpg,Blouses / Shirts,yes,2.501,2026-04-05 16:25:27
+user_1062,sample_testing_file/WOMEN-Sweaters-id_00000727-02_4_full.jpg,Sweaters,no,5.757,2026-04-05 16:29:04
+user_1062,sample_testing_file/MEN-Shirts_Polos-id_00031030-03_2_side.jpg,Shirts / Polos,yes,5.785,2026-04-05 16:30:47
+user_1062,sample_testing_file/MEN-Tees_Tanks-id_00007493-01_7_additional.jpg,Tees / Tanks,no,1.346,2026-04-10 20:06:17
+user_1062,sample_testing_file/WOMEN-Dresses-id_00072064-03_3_back.jpg,Dresses,yes,0.535,2026-04-10 20:09:51
+user_1062,sample_testing_file/WOMEN-Cardigans-id_00034180-04_3_back.jpg,Cardigans,no,5.272,2026-04-10 20:11:47
+user_1062,sample_testing_file/WOMEN-Jackets_Vests-id_00038753-09_2_side.jpg,Jackets / Vests,yes,3.927,2026-04-10 20:14:46
+user_1062,sample_testing_file/WOMEN-Jackets_Coats-id_00075675-04_1_front.jpg,Jackets / Coats,yes,1.997,2026-04-10 20:18:12
+user_1063,sample_testing_file/WOMEN-Graphic_Tees-id_00013474-06_7_additional.jpg,Graphic Tees,no,2.024,2026-04-01 15:04:31
+user_1063,sample_testing_file/WOMEN-Jackets_Coats-id_00055724-02_7_additional.jpg,Jackets / Coats,no,5.159,2026-04-01 15:07:39
+user_1063,sample_testing_file/WOMEN-Blouses_Shirts-id_00046439-07_4_full.jpg,Blouses / Shirts,yes,1.407,2026-04-01 15:08:35
+user_1063,sample_testing_file/WOMEN-Cardigans-id_00073564-04_7_additional.jpg,Cardigans,yes,5.382,2026-04-01 15:09:29
+user_1063,sample_testing_file/MEN-Shirts_Polos-id_00009962-10_2_side.jpg,Shirts / Polos,yes,0.82,2026-04-01 15:09:58
+user_1063,sample_testing_file/MEN-Shirts_Polos-id_00027743-08_3_back.jpg,Shirts / Polos,yes,1.721,2026-04-08 10:21:02
+user_1063,sample_testing_file/MEN-Shirts_Polos-id_00009962-10_2_side.jpg,Shirts / Polos,no,1.994,2026-04-08 10:21:47
+user_1063,sample_testing_file/WOMEN-Shorts-id_00075632-11_1_front.jpg,Shorts,no,3.857,2026-04-08 10:22:56
+user_1063,sample_testing_file/WOMEN-Shorts-id_00012197-05_2_side.jpg,Shorts,yes,0.745,2026-04-08 10:24:56
+user_1063,sample_testing_file/WOMEN-Graphic_Tees-id_00037197-09_7_additional.jpg,Graphic Tees,no,0.573,2026-04-08 10:26:08
+user_1063,sample_testing_file/MEN-Shirts_Polos-id_00023510-12_3_back.jpg,Shirts / Polos,yes,1.245,2026-04-08 10:27:36
+user_1063,sample_testing_file/MEN-Denim-id_00044588-02_3_back.jpg,Denim,yes,5.022,2026-04-10 12:29:34
+user_1063,sample_testing_file/MEN-Shirts_Polos-id_00059471-01_3_back.jpg,Shirts / Polos,yes,1.497,2026-04-10 12:32:28
+user_1063,sample_testing_file/MEN-Shirts_Polos-id_00028747-03_7_additional.jpg,Shirts / Polos,yes,1.727,2026-04-10 12:32:47
+user_1063,sample_testing_file/WOMEN-Shorts-id_00075632-11_1_front.jpg,Shorts,no,2.914,2026-04-10 12:34:17
+user_1064,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00079841-11_2_side.jpg,Hoodies / Sweatshirts,no,4.691,2026-04-01 19:12:36
+user_1064,sample_testing_file/MEN-Sweaters-id_00049696-11_2_side.jpg,Sweaters,yes,0.703,2026-04-01 19:14:23
+user_1064,sample_testing_file/MEN-Shirts_Polos-id_00071122-08_4_full.jpg,Shirts / Polos,no,1.934,2026-04-01 19:16:56
+user_1064,sample_testing_file/WOMEN-Graphic_Tees-id_00047740-07_1_front.jpg,Graphic Tees,no,4.063,2026-04-01 19:19:32
+user_1064,sample_testing_file/MEN-Sweaters-id_00076623-07_7_additional.jpg,Sweaters,no,3.667,2026-04-01 19:21:00
+user_1064,sample_testing_file/WOMEN-Blouses_Shirts-id_00049798-02_3_back.jpg,Blouses / Shirts,yes,2.557,2026-04-03 17:31:41
+user_1064,sample_testing_file/WOMEN-Dresses-id_00000283-07_3_back.jpg,Dresses,yes,2.364,2026-04-03 17:32:52
+user_1064,sample_testing_file/MEN-Sweaters-id_00023520-05_1_front.jpg,Sweaters,yes,1.605,2026-04-03 17:35:06
+user_1064,sample_testing_file/MEN-Shirts_Polos-id_00036518-02_3_back.jpg,Shirts / Polos,no,0.588,2026-04-03 17:36:04
+user_1064,sample_testing_file/WOMEN-Graphic_Tees-id_00013474-06_7_additional.jpg,Graphic Tees,yes,4.152,2026-04-10 13:47:25
+user_1064,sample_testing_file/MEN-Sweaters-id_00076623-07_7_additional.jpg,Sweaters,yes,0.661,2026-04-10 13:49:06
+user_1064,sample_testing_file/WOMEN-Sweaters-id_00074848-10_4_full.jpg,Sweaters,yes,0.924,2026-04-10 13:52:32
+user_1064,sample_testing_file/WOMEN-Jackets_Vests-id_00005696-12_4_full.jpg,Jackets / Vests,no,1.439,2026-04-10 13:54:50
+user_1064,sample_testing_file/WOMEN-Blouses_Shirts-id_00071512-01_3_back.jpg,Blouses / Shirts,yes,3.034,2026-04-10 13:57:44
+user_1064,sample_testing_file/MEN-Graphic_Tees-id_00020290-04_3_back.jpg,Graphic Tees,yes,1.349,2026-04-10 13:58:51
+user_1065,sample_testing_file/MEN-Graphic_Tees-id_00020290-04_3_back.jpg,Graphic Tees,no,3.519,2026-04-04 19:12:00
+user_1065,sample_testing_file/WOMEN-Dresses-id_00073773-05_1_front.jpg,Dresses,yes,2.591,2026-04-04 19:13:16
+user_1065,sample_testing_file/WOMEN-Shorts-id_00012197-05_2_side.jpg,Shorts,yes,4.423,2026-04-04 19:16:05
+user_1065,sample_testing_file/WOMEN-Cardigans-id_00009603-09_2_side.jpg,Cardigans,no,1.58,2026-04-04 19:19:31
+user_1065,sample_testing_file/WOMEN-Blouses_Shirts-id_00078698-02_7_additional.jpg,Blouses / Shirts,yes,2.512,2026-04-04 19:22:20
+user_1065,sample_testing_file/WOMEN-Blouses_Shirts-id_00049798-02_3_back.jpg,Blouses / Shirts,no,1.219,2026-04-05 10:03:36
+user_1065,sample_testing_file/WOMEN-Cardigans-id_00051646-10_7_additional.jpg,Cardigans,no,0.612,2026-04-05 10:06:52
+user_1065,sample_testing_file/WOMEN-Jackets_Coats-id_00032952-04_1_front.jpg,Jackets / Coats,no,1.678,2026-04-05 10:10:22
+user_1065,sample_testing_file/WOMEN-Jackets_Coats-id_00042505-01_2_side.jpg,Jackets / Coats,yes,1.888,2026-04-05 10:11:55
+user_1065,sample_testing_file/WOMEN-Jackets_Vests-id_00020380-04_3_back.jpg,Jackets / Vests,no,3.065,2026-04-06 12:46:43
+user_1065,sample_testing_file/WOMEN-Blouses_Shirts-id_00075575-04_3_back.jpg,Blouses / Shirts,no,2.15,2026-04-06 12:47:36
+user_1065,sample_testing_file/WOMEN-Graphic_Tees-id_00003279-12_3_back.jpg,Graphic Tees,no,1.061,2026-04-06 12:50:34
+user_1065,sample_testing_file/WOMEN-Dresses-id_00046567-04_3_back.jpg,Dresses,yes,2.069,2026-04-06 12:53:48
+user_1065,sample_testing_file/WOMEN-Cardigans-id_00040889-10_4_full.jpg,Cardigans,no,0.854,2026-04-06 12:57:04
+user_1065,sample_testing_file/WOMEN-Dresses-id_00023820-01_3_back.jpg,Dresses,yes,0.568,2026-04-06 13:00:17
+user_1066,sample_testing_file/MEN-Shorts-id_00077140-07_3_back.jpg,Shorts,yes,5.704,2026-04-03 20:36:09
+user_1066,sample_testing_file/WOMEN-Sweaters-id_00031636-12_4_full.jpg,Sweaters,yes,5.49,2026-04-03 20:37:28
+user_1066,sample_testing_file/WOMEN-Skirts-id_00015907-08_2_side.jpg,Skirts,no,1.903,2026-04-03 20:40:14
+user_1066,sample_testing_file/WOMEN-Blouses_Shirts-id_00035698-05_7_additional.jpg,Blouses / Shirts,yes,1.359,2026-04-03 20:41:29
+user_1066,sample_testing_file/WOMEN-Tees_Tanks-id_00078194-07_3_back.jpg,Tees / Tanks,yes,1.528,2026-04-03 20:42:00
+user_1066,sample_testing_file/WOMEN-Cardigans-id_00051646-10_7_additional.jpg,Cardigans,no,3.418,2026-04-03 20:42:49
+user_1066,sample_testing_file/WOMEN-Denim-id_00029220-01_2_side.jpg,Denim,no,5.521,2026-04-03 20:44:21
+user_1066,sample_testing_file/MEN-Shirts_Polos-id_00027743-08_3_back.jpg,Shirts / Polos,yes,1.29,2026-04-03 20:44:55
+user_1066,sample_testing_file/MEN-Shirts_Polos-id_00028747-03_7_additional.jpg,Shirts / Polos,yes,1.517,2026-04-06 12:18:30
+user_1066,sample_testing_file/MEN-Jackets_Vests-id_00063905-04_3_back.jpg,Jackets / Vests,yes,2.824,2026-04-06 12:19:40
+user_1066,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00052297-11_3_back.jpg,Hoodies / Sweatshirts,yes,2.843,2026-04-06 12:22:52
+user_1066,sample_testing_file/MEN-Sweaters-id_00037354-03_4_full.jpg,Sweaters,yes,0.812,2026-04-06 12:26:18
+user_1066,sample_testing_file/WOMEN-Graphic_Tees-id_00013474-06_7_additional.jpg,Graphic Tees,no,1.253,2026-04-06 12:27:35
+user_1066,sample_testing_file/WOMEN-Dresses-id_00053546-08_7_additional.jpg,Dresses,yes,3.726,2026-04-06 12:29:20
+user_1066,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00048352-03_7_additional.jpg,Hoodies / Sweatshirts,yes,2.251,2026-04-06 12:32:36
+user_1067,sample_testing_file/MEN-Graphic_Tees-id_00020290-04_3_back.jpg,Graphic Tees,no,1.52,2026-04-05 10:10:00
+user_1067,sample_testing_file/WOMEN-Jackets_Coats-id_00032743-02_4_full.jpg,Jackets / Coats,no,3.694,2026-04-05 10:12:35
+user_1067,sample_testing_file/WOMEN-Dresses-id_00077993-02_2_side.jpg,Dresses,no,0.53,2026-04-05 10:15:43
+user_1067,sample_testing_file/WOMEN-Cardigans-id_00044093-01_4_full.jpg,Cardigans,yes,1.641,2026-04-05 10:17:22
+user_1067,sample_testing_file/MEN-Jackets_Vests-id_00018137-03_2_side.jpg,Jackets / Vests,yes,1.729,2026-04-05 10:20:03
+user_1067,sample_testing_file/MEN-Shorts-id_00028017-07_1_front.jpg,Shorts,no,1.32,2026-04-05 10:22:15
+user_1067,sample_testing_file/WOMEN-Denim-id_00004068-04_2_side.jpg,Denim,yes,2.488,2026-04-05 10:22:39
+user_1067,sample_testing_file/WOMEN-Jackets_Coats-id_00055724-02_7_additional.jpg,Jackets / Coats,yes,1.541,2026-04-05 10:24:18
+user_1067,sample_testing_file/WOMEN-Dresses-id_00073773-05_1_front.jpg,Dresses,yes,4.112,2026-04-05 10:27:21
+user_1067,sample_testing_file/WOMEN-Cardigans-id_00044093-01_4_full.jpg,Cardigans,yes,1.273,2026-04-06 19:43:20
+user_1067,sample_testing_file/WOMEN-Dresses-id_00000283-07_3_back.jpg,Dresses,no,0.678,2026-04-06 19:45:40
+user_1067,sample_testing_file/MEN-Denim-id_00037389-07_7_additional.jpg,Denim,yes,0.649,2026-04-06 19:46:04
+user_1067,sample_testing_file/MEN-Sweaters-id_00051877-03_3_back.jpg,Sweaters,no,1.833,2026-04-06 19:46:36
+user_1067,sample_testing_file/WOMEN-Denim-id_00020927-12_4_full.jpg,Denim,yes,2.276,2026-04-06 19:50:10
+user_1067,sample_testing_file/WOMEN-Graphic_Tees-id_00020033-06_2_side.jpg,Graphic Tees,no,2.712,2026-04-06 19:53:21
+user_1068,sample_testing_file/WOMEN-Jackets_Vests-id_00020053-07_2_side.jpg,Jackets / Vests,no,1.515,2026-04-06 15:01:00
+user_1068,sample_testing_file/MEN-Tees_Tanks-id_00039140-07_4_full.jpg,Tees / Tanks,yes,3.631,2026-04-06 15:04:24
+user_1068,sample_testing_file/WOMEN-Cardigans-id_00040889-10_4_full.jpg,Cardigans,yes,1.341,2026-04-06 15:05:55
+user_1068,sample_testing_file/MEN-Shirts_Polos-id_00059471-01_3_back.jpg,Shirts / Polos,yes,3.121,2026-04-06 15:08:43
+user_1068,sample_testing_file/WOMEN-Tees_Tanks-id_00028658-04_7_additional.jpg,Tees / Tanks,yes,3.013,2026-04-06 15:11:15
+user_1068,sample_testing_file/WOMEN-Denim-id_00006631-11_7_additional.jpg,Denim,yes,3.535,2026-04-07 16:05:46
+user_1068,sample_testing_file/MEN-Denim-id_00044588-02_3_back.jpg,Denim,yes,4.945,2026-04-07 16:09:05
+user_1068,sample_testing_file/WOMEN-Jackets_Coats-id_00075675-04_1_front.jpg,Jackets / Coats,no,2.24,2026-04-07 16:10:37
+user_1068,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00035955-01_1_front.jpg,Hoodies / Sweatshirts,yes,0.933,2026-04-07 16:13:24
+user_1068,sample_testing_file/MEN-Tees_Tanks-id_00029390-11_1_front.jpg,Tees / Tanks,no,0.692,2026-04-11 10:09:55
+user_1068,sample_testing_file/WOMEN-Graphic_Tees-id_00013474-06_7_additional.jpg,Graphic Tees,no,2.218,2026-04-11 10:13:03
+user_1068,sample_testing_file/WOMEN-Cardigans-id_00010746-07_7_additional.jpg,Cardigans,yes,1.51,2026-04-11 10:16:06
+user_1068,sample_testing_file/WOMEN-Skirts-id_00069330-01_7_additional.jpg,Skirts,no,3.584,2026-04-11 10:16:41
+user_1068,sample_testing_file/WOMEN-Blouses_Shirts-id_00023406-10_3_back.jpg,Blouses / Shirts,no,4.873,2026-04-11 10:18:05
+user_1068,sample_testing_file/WOMEN-Skirts-id_00063994-04_3_back.jpg,Skirts,yes,2.024,2026-04-11 10:19:58
+user_1069,sample_testing_file/WOMEN-Dresses-id_00046567-04_3_back.jpg,Dresses,yes,2.098,2026-04-05 20:22:41
+user_1069,sample_testing_file/WOMEN-Cardigans-id_00010746-07_7_additional.jpg,Cardigans,no,2.151,2026-04-05 20:23:45
+user_1069,sample_testing_file/MEN-Sweaters-id_00049696-11_2_side.jpg,Sweaters,no,1.792,2026-04-05 20:26:58
+user_1069,sample_testing_file/MEN-Shorts-id_00009509-01_4_full.jpg,Shorts,no,0.766,2026-04-05 20:27:40
+user_1069,sample_testing_file/WOMEN-Shorts-id_00007456-09_1_front.jpg,Shorts,no,1.531,2026-04-06 18:19:32
+user_1069,sample_testing_file/WOMEN-Jackets_Vests-id_00070283-06_1_front.jpg,Jackets / Vests,no,4.062,2026-04-06 18:20:45
+user_1069,sample_testing_file/WOMEN-Shorts-id_00012197-05_2_side.jpg,Shorts,no,5.015,2026-04-06 18:23:26
+user_1069,sample_testing_file/WOMEN-Blouses_Shirts-id_00078698-02_7_additional.jpg,Blouses / Shirts,no,2.828,2026-04-06 18:26:46
+user_1069,sample_testing_file/MEN-Sweaters-id_00023520-05_1_front.jpg,Sweaters,no,1.798,2026-04-07 11:08:20
+user_1069,sample_testing_file/WOMEN-Sweaters-id_00034817-03_1_front.jpg,Sweaters,yes,2.292,2026-04-07 11:09:13
+user_1069,sample_testing_file/WOMEN-Dresses-id_00072064-03_3_back.jpg,Dresses,yes,2.292,2026-04-07 11:12:32
+user_1069,sample_testing_file/MEN-Shorts-id_00028017-07_1_front.jpg,Shorts,yes,1.364,2026-04-07 11:13:26
+user_1069,sample_testing_file/WOMEN-Dresses-id_00000283-07_3_back.jpg,Dresses,yes,2.116,2026-04-07 11:14:04
+user_1069,sample_testing_file/WOMEN-Jackets_Vests-id_00038753-09_2_side.jpg,Jackets / Vests,yes,2.155,2026-04-07 11:17:35
+user_1069,sample_testing_file/MEN-Shirts_Polos-id_00036518-02_3_back.jpg,Shirts / Polos,yes,1.99,2026-04-07 11:20:04
+user_1070,sample_testing_file/WOMEN-Jackets_Coats-id_00014954-02_4_full.jpg,Jackets / Coats,yes,1.046,2026-04-04 12:42:43
+user_1070,sample_testing_file/WOMEN-Jackets_Coats-id_00015015-11_7_additional.jpg,Jackets / Coats,no,4.011,2026-04-04 12:45:29
+user_1070,sample_testing_file/WOMEN-Graphic_Tees-id_00035993-08_1_front.jpg,Graphic Tees,yes,2.212,2026-04-04 12:48:23
+user_1070,sample_testing_file/WOMEN-Jackets_Coats-id_00032743-02_4_full.jpg,Jackets / Coats,yes,2.523,2026-04-04 12:51:56
+user_1070,sample_testing_file/WOMEN-Tees_Tanks-id_00055070-07_7_additional.jpg,Tees / Tanks,no,1.864,2026-04-04 12:52:57
+user_1070,sample_testing_file/MEN-Tees_Tanks-id_00064252-02_4_full.jpg,Tees / Tanks,no,1.811,2026-04-04 12:54:09
+user_1070,sample_testing_file/WOMEN-Jackets_Coats-id_00042505-01_2_side.jpg,Jackets / Coats,yes,1.213,2026-04-04 12:55:14
+user_1070,sample_testing_file/WOMEN-Jackets_Coats-id_00042505-01_2_side.jpg,Jackets / Coats,yes,1.126,2026-04-10 16:28:05
+user_1070,sample_testing_file/WOMEN-Jackets_Coats-id_00015015-11_7_additional.jpg,Jackets / Coats,yes,1.227,2026-04-10 16:30:22
+user_1070,sample_testing_file/WOMEN-Jackets_Vests-id_00005696-12_4_full.jpg,Jackets / Vests,yes,3.218,2026-04-10 16:31:53
+user_1070,sample_testing_file/WOMEN-Graphic_Tees-id_00011004-11_4_full.jpg,Graphic Tees,yes,1.927,2026-04-10 16:33:49
+user_1070,sample_testing_file/WOMEN-Jackets_Coats-id_00027550-07_7_additional.jpg,Jackets / Coats,yes,2.289,2026-04-10 16:36:00
+user_1070,sample_testing_file/WOMEN-Blouses_Shirts-id_00075575-04_3_back.jpg,Blouses / Shirts,yes,2.366,2026-04-10 16:37:06
+user_1070,sample_testing_file/MEN-Tees_Tanks-id_00000222-09_7_additional.jpg,Tees / Tanks,no,1.223,2026-04-10 16:37:27
+user_1070,sample_testing_file/MEN-Shirts_Polos-id_00018727-05_2_side.jpg,Shirts / Polos,yes,2.714,2026-04-10 16:39:58
+user_1071,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00072849-01_7_additional.jpg,Hoodies / Sweatshirts,yes,1.984,2026-04-04 16:08:27
+user_1071,sample_testing_file/WOMEN-Denim-id_00045509-09_4_full.jpg,Denim,yes,4.1,2026-04-04 16:11:13
+user_1071,sample_testing_file/WOMEN-Blouses_Shirts-id_00075575-04_3_back.jpg,Blouses / Shirts,no,1.948,2026-04-04 16:13:14
+user_1071,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00041360-02_7_additional.jpg,Hoodies / Sweatshirts,yes,1.801,2026-04-04 16:13:59
+user_1071,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00079841-11_2_side.jpg,Hoodies / Sweatshirts,no,2.993,2026-04-04 16:14:51
+user_1071,sample_testing_file/MEN-Shirts_Polos-id_00031030-03_2_side.jpg,Shirts / Polos,no,1.088,2026-04-04 16:15:15
+user_1071,sample_testing_file/WOMEN-Tees_Tanks-id_00074365-02_1_front.jpg,Tees / Tanks,no,4.072,2026-04-04 16:16:50
+user_1071,sample_testing_file/WOMEN-Blouses_Shirts-id_00075244-05_4_full.jpg,Blouses / Shirts,no,1.022,2026-04-04 16:19:21
+user_1071,sample_testing_file/WOMEN-Cardigans-id_00073564-04_7_additional.jpg,Cardigans,no,0.861,2026-04-10 17:32:08
+user_1071,sample_testing_file/MEN-Shirts_Polos-id_00018727-05_2_side.jpg,Shirts / Polos,no,1.063,2026-04-10 17:34:16
+user_1071,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00079841-11_2_side.jpg,Hoodies / Sweatshirts,yes,1.647,2026-04-10 17:36:10
+user_1071,sample_testing_file/WOMEN-Dresses-id_00000283-07_3_back.jpg,Dresses,yes,0.739,2026-04-10 17:39:47
+user_1071,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00052297-11_3_back.jpg,Hoodies / Sweatshirts,yes,1.505,2026-04-10 17:43:08
+user_1071,sample_testing_file/WOMEN-Shorts-id_00075632-11_1_front.jpg,Shorts,yes,5.057,2026-04-10 17:45:47
+user_1071,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00075457-07_4_full.jpg,Hoodies / Sweatshirts,yes,2.537,2026-04-10 17:48:14
+user_1072,sample_testing_file/MEN-Tees_Tanks-id_00007493-01_7_additional.jpg,Tees / Tanks,no,1.285,2026-04-06 21:38:09
+user_1072,sample_testing_file/WOMEN-Jackets_Coats-id_00075675-04_1_front.jpg,Jackets / Coats,yes,0.982,2026-04-06 21:39:58
+user_1072,sample_testing_file/MEN-Denim-id_00044588-02_3_back.jpg,Denim,no,1.436,2026-04-06 21:43:01
+user_1072,sample_testing_file/WOMEN-Jackets_Coats-id_00005230-06_2_side.jpg,Jackets / Coats,yes,1.151,2026-04-06 21:44:37
+user_1072,sample_testing_file/WOMEN-Cardigans-id_00056334-03_1_front.jpg,Cardigans,no,5.297,2026-04-06 21:46:52
+user_1072,sample_testing_file/WOMEN-Denim-id_00025106-04_4_full.jpg,Denim,yes,2.569,2026-04-06 21:48:18
+user_1072,sample_testing_file/WOMEN-Cardigans-id_00034180-04_3_back.jpg,Cardigans,no,4.822,2026-04-06 21:50:12
+user_1072,sample_testing_file/WOMEN-Jackets_Coats-id_00032952-04_1_front.jpg,Jackets / Coats,no,3.603,2026-04-11 11:45:16
+user_1072,sample_testing_file/MEN-Sweaters-id_00037354-03_4_full.jpg,Sweaters,no,1.729,2026-04-11 11:46:16
+user_1072,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00041360-02_7_additional.jpg,Hoodies / Sweatshirts,no,2.108,2026-04-11 11:49:16
+user_1072,sample_testing_file/WOMEN-Jackets_Coats-id_00075675-04_1_front.jpg,Jackets / Coats,yes,1.683,2026-04-11 11:50:28
+user_1072,sample_testing_file/MEN-Shirts_Polos-id_00018727-05_2_side.jpg,Shirts / Polos,no,3.649,2026-04-11 11:51:43
+user_1072,sample_testing_file/WOMEN-Jackets_Coats-id_00015015-11_7_additional.jpg,Jackets / Coats,yes,1.592,2026-04-11 11:54:32
+user_1072,sample_testing_file/MEN-Denim-id_00044588-02_3_back.jpg,Denim,yes,1.099,2026-04-11 11:56:39
+user_1072,sample_testing_file/MEN-Jackets_Vests-id_00018137-03_2_side.jpg,Jackets / Vests,yes,1.315,2026-04-11 11:58:13
+user_1073,sample_testing_file/WOMEN-Jackets_Coats-id_00032952-04_1_front.jpg,Jackets / Coats,no,5.467,2026-04-04 14:41:45
+user_1073,sample_testing_file/WOMEN-Sweaters-id_00000727-02_4_full.jpg,Sweaters,yes,3.059,2026-04-04 14:45:09
+user_1073,sample_testing_file/WOMEN-Skirts-id_00073520-01_1_front.jpg,Skirts,no,2.677,2026-04-04 14:46:28
+user_1073,sample_testing_file/WOMEN-Denim-id_00027660-05_1_front.jpg,Denim,yes,4.901,2026-04-04 14:47:02
+user_1073,sample_testing_file/WOMEN-Skirts-id_00017362-06_1_front.jpg,Skirts,yes,0.694,2026-04-04 14:50:05
+user_1073,sample_testing_file/WOMEN-Graphic_Tees-id_00047740-07_1_front.jpg,Graphic Tees,yes,1.654,2026-04-04 14:51:12
+user_1073,sample_testing_file/WOMEN-Skirts-id_00049616-02_7_additional.jpg,Skirts,yes,1.036,2026-04-04 14:53:21
+user_1073,sample_testing_file/WOMEN-Graphic_Tees-id_00013474-06_7_additional.jpg,Graphic Tees,yes,0.828,2026-04-04 14:53:46
+user_1073,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00030736-05_3_back.jpg,Hoodies / Sweatshirts,yes,1.46,2026-04-04 14:54:14
+user_1073,sample_testing_file/MEN-Tees_Tanks-id_00000222-09_7_additional.jpg,Tees / Tanks,yes,3.248,2026-04-08 11:21:17
+user_1073,sample_testing_file/WOMEN-Skirts-id_00078505-06_4_full.jpg,Skirts,yes,1.678,2026-04-08 11:21:58
+user_1073,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00075457-07_4_full.jpg,Hoodies / Sweatshirts,no,1.582,2026-04-08 11:24:24
+user_1073,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00014323-04_2_side.jpg,Hoodies / Sweatshirts,no,0.626,2026-04-08 11:28:00
+user_1073,sample_testing_file/WOMEN-Graphic_Tees-id_00047740-07_1_front.jpg,Graphic Tees,yes,1.706,2026-04-08 11:30:51
+user_1073,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00035955-01_1_front.jpg,Hoodies / Sweatshirts,no,1.275,2026-04-08 11:32:48
+user_1074,sample_testing_file/WOMEN-Dresses-id_00022783-09_1_front.jpg,Dresses,yes,1.918,2026-04-01 18:25:04
+user_1074,sample_testing_file/MEN-Shirts_Polos-id_00028747-03_7_additional.jpg,Shirts / Polos,no,1.846,2026-04-01 18:26:33
+user_1074,sample_testing_file/WOMEN-Blouses_Shirts-id_00036435-08_3_back.jpg,Blouses / Shirts,no,3.584,2026-04-01 18:28:09
+user_1074,sample_testing_file/MEN-Denim-id_00032528-05_2_side.jpg,Denim,yes,2.662,2026-04-01 18:28:40
+user_1074,sample_testing_file/WOMEN-Jackets_Vests-id_00070283-06_1_front.jpg,Jackets / Vests,yes,3.287,2026-04-01 18:31:41
+user_1074,sample_testing_file/WOMEN-Dresses-id_00023820-01_3_back.jpg,Dresses,no,4.505,2026-04-08 18:16:42
+user_1074,sample_testing_file/WOMEN-Dresses-id_00077993-02_2_side.jpg,Dresses,yes,2.298,2026-04-08 18:18:17
+user_1074,sample_testing_file/MEN-Shirts_Polos-id_00027743-08_3_back.jpg,Shirts / Polos,no,2.034,2026-04-08 18:19:16
+user_1074,sample_testing_file/WOMEN-Blouses_Shirts-id_00036435-08_3_back.jpg,Blouses / Shirts,yes,0.622,2026-04-08 18:22:18
+user_1074,sample_testing_file/WOMEN-Jackets_Vests-id_00066163-07_7_additional.jpg,Jackets / Vests,no,2.257,2026-04-08 18:25:55
+user_1074,sample_testing_file/MEN-Shirts_Polos-id_00018727-05_2_side.jpg,Shirts / Polos,yes,3.326,2026-04-10 15:46:43
+user_1074,sample_testing_file/WOMEN-Blouses_Shirts-id_00002541-12_7_additional.jpg,Blouses / Shirts,yes,2.199,2026-04-10 15:49:10
+user_1074,sample_testing_file/WOMEN-Blouses_Shirts-id_00049798-02_3_back.jpg,Blouses / Shirts,yes,1.829,2026-04-10 15:52:36
+user_1074,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00014323-04_2_side.jpg,Hoodies / Sweatshirts,yes,1.72,2026-04-10 15:53:41
+user_1074,sample_testing_file/WOMEN-Dresses-id_00072064-03_3_back.jpg,Dresses,yes,0.987,2026-04-10 15:55:17
+user_1075,sample_testing_file/MEN-Shirts_Polos-id_00059471-01_3_back.jpg,Shirts / Polos,no,1.167,2026-04-03 20:38:32
+user_1075,sample_testing_file/WOMEN-Jackets_Vests-id_00072545-09_3_back.jpg,Jackets / Vests,yes,1.951,2026-04-03 20:40:30
+user_1075,sample_testing_file/WOMEN-Jackets_Vests-id_00036472-07_3_back.jpg,Jackets / Vests,no,0.896,2026-04-03 20:40:53
+user_1075,sample_testing_file/MEN-Shirts_Polos-id_00074669-04_7_additional.jpg,Shirts / Polos,no,2.111,2026-04-03 20:41:33
+user_1075,sample_testing_file/MEN-Graphic_Tees-id_00041146-11_1_front.jpg,Graphic Tees,yes,0.771,2026-04-03 20:42:03
+user_1075,sample_testing_file/WOMEN-Graphic_Tees-id_00067001-08_2_side.jpg,Graphic Tees,yes,2.428,2026-04-05 15:11:03
+user_1075,sample_testing_file/WOMEN-Jackets_Vests-id_00066163-07_7_additional.jpg,Jackets / Vests,no,1.841,2026-04-05 15:13:17
+user_1075,sample_testing_file/WOMEN-Jackets_Vests-id_00072545-09_3_back.jpg,Jackets / Vests,yes,2.135,2026-04-05 15:14:23
+user_1075,sample_testing_file/MEN-Graphic_Tees-id_00041146-11_1_front.jpg,Graphic Tees,no,3.36,2026-04-05 15:16:47
+user_1075,sample_testing_file/MEN-Shirts_Polos-id_00059471-01_3_back.jpg,Shirts / Polos,no,1.247,2026-04-05 15:18:17
+user_1075,sample_testing_file/WOMEN-Cardigans-id_00009603-09_2_side.jpg,Cardigans,yes,1.42,2026-04-05 15:19:12
+user_1075,sample_testing_file/WOMEN-Skirts-id_00021418-08_4_full.jpg,Skirts,yes,1.379,2026-04-11 13:24:40
+user_1075,sample_testing_file/WOMEN-Jackets_Vests-id_00070283-06_1_front.jpg,Jackets / Vests,no,1.841,2026-04-11 13:26:20
+user_1075,sample_testing_file/WOMEN-Graphic_Tees-id_00035993-08_1_front.jpg,Graphic Tees,yes,0.655,2026-04-11 13:29:39
+user_1075,sample_testing_file/WOMEN-Cardigans-id_00034180-04_3_back.jpg,Cardigans,yes,1.212,2026-04-11 13:30:12
+user_1076,sample_testing_file/WOMEN-Tees_Tanks-id_00055070-07_7_additional.jpg,Tees / Tanks,yes,1.179,2026-04-03 18:03:08
+user_1076,sample_testing_file/MEN-Tees_Tanks-id_00007493-01_7_additional.jpg,Tees / Tanks,yes,1.381,2026-04-03 18:05:25
+user_1076,sample_testing_file/WOMEN-Jackets_Coats-id_00075675-04_1_front.jpg,Jackets / Coats,no,2.997,2026-04-03 18:06:49
+user_1076,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00035955-01_1_front.jpg,Hoodies / Sweatshirts,no,2.21,2026-04-03 18:08:18
+user_1076,sample_testing_file/MEN-Shirts_Polos-id_00042246-04_1_front.jpg,Shirts / Polos,no,3.337,2026-04-03 18:09:43
+user_1076,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00048352-03_7_additional.jpg,Hoodies / Sweatshirts,yes,2.911,2026-04-06 16:11:27
+user_1076,sample_testing_file/MEN-Shirts_Polos-id_00031030-03_2_side.jpg,Shirts / Polos,yes,1.458,2026-04-06 16:14:33
+user_1076,sample_testing_file/WOMEN-Jackets_Coats-id_00027550-07_7_additional.jpg,Jackets / Coats,yes,1.968,2026-04-06 16:15:49
+user_1076,sample_testing_file/WOMEN-Tees_Tanks-id_00055070-07_7_additional.jpg,Tees / Tanks,yes,1.217,2026-04-06 16:17:58
+user_1076,sample_testing_file/WOMEN-Denim-id_00050141-01_4_full.jpg,Denim,no,5.014,2026-04-06 16:21:17
+user_1076,sample_testing_file/WOMEN-Tees_Tanks-id_00030983-03_4_full.jpg,Tees / Tanks,yes,0.812,2026-04-11 12:07:47
+user_1076,sample_testing_file/WOMEN-Graphic_Tees-id_00035993-08_1_front.jpg,Graphic Tees,yes,2.998,2026-04-11 12:10:15
+user_1076,sample_testing_file/WOMEN-Graphic_Tees-id_00003279-12_3_back.jpg,Graphic Tees,no,1.563,2026-04-11 12:13:02
+user_1076,sample_testing_file/MEN-Graphic_Tees-id_00020290-04_3_back.jpg,Graphic Tees,yes,3.263,2026-04-11 12:15:06
+user_1076,sample_testing_file/WOMEN-Jackets_Coats-id_00032952-04_1_front.jpg,Jackets / Coats,no,1.639,2026-04-11 12:16:48
+user_1077,sample_testing_file/WOMEN-Skirts-id_00032915-01_1_front.jpg,Skirts,no,4.046,2026-04-08 17:41:15
+user_1077,sample_testing_file/WOMEN-Cardigans-id_00034180-04_3_back.jpg,Cardigans,yes,0.555,2026-04-08 17:43:28
+user_1077,sample_testing_file/WOMEN-Jackets_Vests-id_00005696-12_4_full.jpg,Jackets / Vests,yes,1.626,2026-04-08 17:46:30
+user_1077,sample_testing_file/WOMEN-Cardigans-id_00040889-10_4_full.jpg,Cardigans,yes,0.966,2026-04-08 17:49:22
+user_1077,sample_testing_file/MEN-Sweaters-id_00076623-07_7_additional.jpg,Sweaters,no,0.856,2026-04-08 17:52:57
+user_1077,sample_testing_file/WOMEN-Sweaters-id_00060333-06_3_back.jpg,Sweaters,no,2.311,2026-04-08 17:54:54
+user_1077,sample_testing_file/WOMEN-Cardigans-id_00068495-07_4_full.jpg,Cardigans,no,3.849,2026-04-08 17:55:51
+user_1077,sample_testing_file/WOMEN-Sweaters-id_00004118-06_1_front.jpg,Sweaters,no,0.637,2026-04-08 17:57:28
+user_1077,sample_testing_file/WOMEN-Shorts-id_00062217-08_3_back.jpg,Shorts,yes,2.679,2026-04-08 17:59:20
+user_1077,sample_testing_file/WOMEN-Cardigans-id_00040889-10_4_full.jpg,Cardigans,no,3.41,2026-04-11 14:37:25
+user_1077,sample_testing_file/MEN-Shirts_Polos-id_00028747-03_7_additional.jpg,Shirts / Polos,yes,2.443,2026-04-11 14:39:34
+user_1077,sample_testing_file/MEN-Shirts_Polos-id_00042246-04_1_front.jpg,Shirts / Polos,no,1.491,2026-04-11 14:41:50
+user_1077,sample_testing_file/WOMEN-Jackets_Coats-id_00031964-08_7_additional.jpg,Jackets / Coats,no,2.183,2026-04-11 14:44:14
+user_1077,sample_testing_file/MEN-Jackets_Vests-id_00063905-04_3_back.jpg,Jackets / Vests,yes,2.566,2026-04-11 14:46:23
+user_1077,sample_testing_file/MEN-Tees_Tanks-id_00007493-01_7_additional.jpg,Tees / Tanks,no,1.026,2026-04-11 14:49:36
+user_1078,sample_testing_file/MEN-Tees_Tanks-id_00007493-01_7_additional.jpg,Tees / Tanks,no,0.609,2026-04-02 17:43:42
+user_1078,sample_testing_file/WOMEN-Blouses_Shirts-id_00075244-05_4_full.jpg,Blouses / Shirts,yes,0.836,2026-04-02 17:46:08
+user_1078,sample_testing_file/WOMEN-Graphic_Tees-id_00077398-07_1_front.jpg,Graphic Tees,no,2.16,2026-04-02 17:47:12
+user_1078,sample_testing_file/WOMEN-Skirts-id_00073520-01_1_front.jpg,Skirts,yes,1.417,2026-04-02 17:48:46
+user_1078,sample_testing_file/WOMEN-Skirts-id_00078505-06_4_full.jpg,Skirts,yes,0.618,2026-04-02 17:50:11
+user_1078,sample_testing_file/WOMEN-Skirts-id_00021418-08_4_full.jpg,Skirts,yes,0.489,2026-04-02 17:53:03
+user_1078,sample_testing_file/WOMEN-Blouses_Shirts-id_00002758-10_7_additional.jpg,Blouses / Shirts,yes,1.439,2026-04-02 17:55:02
+user_1078,sample_testing_file/WOMEN-Graphic_Tees-id_00011004-11_4_full.jpg,Graphic Tees,no,1.399,2026-04-02 17:57:03
+user_1078,sample_testing_file/WOMEN-Graphic_Tees-id_00035993-08_1_front.jpg,Graphic Tees,no,1.764,2026-04-02 17:59:59
+user_1078,sample_testing_file/WOMEN-Skirts-id_00066543-02_3_back.jpg,Skirts,yes,0.86,2026-04-07 21:44:36
+user_1078,sample_testing_file/WOMEN-Sweaters-id_00004118-06_1_front.jpg,Sweaters,no,1.767,2026-04-07 21:44:58
+user_1078,sample_testing_file/WOMEN-Skirts-id_00036501-11_4_full.jpg,Skirts,yes,1.796,2026-04-07 21:48:02
+user_1078,sample_testing_file/MEN-Shirts_Polos-id_00018727-05_2_side.jpg,Shirts / Polos,yes,3.063,2026-04-07 21:51:42
+user_1078,sample_testing_file/WOMEN-Skirts-id_00021418-08_4_full.jpg,Skirts,yes,0.778,2026-04-07 21:54:01
+user_1078,sample_testing_file/WOMEN-Skirts-id_00015907-08_2_side.jpg,Skirts,yes,2.299,2026-04-07 21:57:18
+user_1079,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00041360-02_7_additional.jpg,Hoodies / Sweatshirts,no,1.876,2026-04-01 20:46:13
+user_1079,sample_testing_file/WOMEN-Jackets_Coats-id_00031964-08_7_additional.jpg,Jackets / Coats,yes,1.721,2026-04-01 20:47:45
+user_1079,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00066470-05_4_full.jpg,Hoodies / Sweatshirts,no,0.568,2026-04-01 20:50:39
+user_1079,sample_testing_file/WOMEN-Jackets_Coats-id_00027550-07_7_additional.jpg,Jackets / Coats,yes,1.026,2026-04-01 20:51:01
+user_1079,sample_testing_file/WOMEN-Jackets_Coats-id_00055724-02_7_additional.jpg,Jackets / Coats,yes,1.789,2026-04-01 20:54:04
+user_1079,sample_testing_file/WOMEN-Sweaters-id_00000727-02_4_full.jpg,Sweaters,yes,0.797,2026-04-01 20:57:07
+user_1079,sample_testing_file/WOMEN-Jackets_Coats-id_00032743-02_4_full.jpg,Jackets / Coats,yes,1.541,2026-04-01 21:00:30
+user_1079,sample_testing_file/WOMEN-Skirts-id_00017362-06_1_front.jpg,Skirts,yes,3.775,2026-04-01 21:03:18
+user_1079,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00041360-02_7_additional.jpg,Hoodies / Sweatshirts,no,2.322,2026-04-02 21:42:57
+user_1079,sample_testing_file/WOMEN-Cardigans-id_00056334-03_1_front.jpg,Cardigans,no,4.779,2026-04-02 21:46:07
+user_1079,sample_testing_file/WOMEN-Dresses-id_00077993-02_2_side.jpg,Dresses,no,1.14,2026-04-02 21:47:06
+user_1079,sample_testing_file/WOMEN-Sweaters-id_00075915-12_7_additional.jpg,Sweaters,yes,1.508,2026-04-02 21:49:27
+user_1079,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00066470-05_4_full.jpg,Hoodies / Sweatshirts,no,0.858,2026-04-02 21:51:31
+user_1079,sample_testing_file/WOMEN-Skirts-id_00069330-01_7_additional.jpg,Skirts,yes,2.335,2026-04-02 21:52:01
+user_1079,sample_testing_file/WOMEN-Sweaters-id_00034817-03_1_front.jpg,Sweaters,yes,0.587,2026-04-02 21:52:59
+user_1080,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00057200-10_7_additional.jpg,Hoodies / Sweatshirts,yes,3.775,2026-04-05 15:50:11
+user_1080,sample_testing_file/MEN-Shirts_Polos-id_00018727-05_2_side.jpg,Shirts / Polos,no,5.426,2026-04-05 15:52:40
+user_1080,sample_testing_file/WOMEN-Dresses-id_00072064-03_3_back.jpg,Dresses,yes,3.567,2026-04-05 15:54:50
+user_1080,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00052297-11_3_back.jpg,Hoodies / Sweatshirts,yes,1.422,2026-04-05 15:57:44
+user_1080,sample_testing_file/WOMEN-Sweaters-id_00000943-02_1_front.jpg,Sweaters,no,4.48,2026-04-05 15:58:28
+user_1080,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00035955-01_1_front.jpg,Hoodies / Sweatshirts,yes,2.745,2026-04-05 15:59:26
+user_1080,sample_testing_file/WOMEN-Blouses_Shirts-id_00023406-10_3_back.jpg,Blouses / Shirts,yes,0.746,2026-04-05 16:00:09
+user_1080,sample_testing_file/WOMEN-Cardigans-id_00060947-08_4_full.jpg,Cardigans,yes,0.464,2026-04-05 16:01:18
+user_1080,sample_testing_file/WOMEN-Cardigans-id_00021466-05_1_front.jpg,Cardigans,yes,1.022,2026-04-05 16:03:37
+user_1080,sample_testing_file/WOMEN-Denim-id_00006631-11_7_additional.jpg,Denim,yes,4.543,2026-04-06 21:49:09
+user_1080,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00052297-11_3_back.jpg,Hoodies / Sweatshirts,yes,2.499,2026-04-06 21:51:14
+user_1080,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00035955-01_1_front.jpg,Hoodies / Sweatshirts,yes,2.349,2026-04-06 21:53:16
+user_1080,sample_testing_file/WOMEN-Sweaters-id_00018290-12_1_front.jpg,Sweaters,yes,1.562,2026-04-06 21:53:41
+user_1080,sample_testing_file/WOMEN-Blouses_Shirts-id_00071512-01_3_back.jpg,Blouses / Shirts,yes,2.111,2026-04-06 21:54:16
+user_1080,sample_testing_file/WOMEN-Blouses_Shirts-id_00036435-08_3_back.jpg,Blouses / Shirts,yes,1.829,2026-04-06 21:56:25
+user_1081,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00070540-08_4_full.jpg,Hoodies / Sweatshirts,yes,1.585,2026-04-05 21:48:38
+user_1081,sample_testing_file/MEN-Denim-id_00032528-05_2_side.jpg,Denim,no,2.181,2026-04-05 21:49:33
+user_1081,sample_testing_file/WOMEN-Denim-id_00004068-04_2_side.jpg,Denim,no,1.123,2026-04-05 21:52:30
+user_1081,sample_testing_file/WOMEN-Sweaters-id_00031636-12_4_full.jpg,Sweaters,yes,2.238,2026-04-05 21:56:08
+user_1081,sample_testing_file/WOMEN-Blouses_Shirts-id_00035698-05_7_additional.jpg,Blouses / Shirts,no,4.474,2026-04-05 21:56:35
+user_1081,sample_testing_file/WOMEN-Graphic_Tees-id_00037197-09_7_additional.jpg,Graphic Tees,yes,1.571,2026-04-09 12:34:12
+user_1081,sample_testing_file/WOMEN-Cardigans-id_00073564-04_7_additional.jpg,Cardigans,yes,4.763,2026-04-09 12:37:43
+user_1081,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00072849-01_7_additional.jpg,Hoodies / Sweatshirts,yes,2.012,2026-04-09 12:40:32
+user_1081,sample_testing_file/WOMEN-Graphic_Tees-id_00077398-07_1_front.jpg,Graphic Tees,no,2.135,2026-04-09 12:42:59
+user_1081,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00079841-11_2_side.jpg,Hoodies / Sweatshirts,yes,2.474,2026-04-09 12:45:26
+user_1081,sample_testing_file/WOMEN-Graphic_Tees-id_00013474-06_7_additional.jpg,Graphic Tees,no,4.099,2026-04-11 17:20:43
+user_1081,sample_testing_file/WOMEN-Cardigans-id_00068495-07_4_full.jpg,Cardigans,no,4.094,2026-04-11 17:23:29
+user_1081,sample_testing_file/MEN-Graphic_Tees-id_00036266-01_1_front.jpg,Graphic Tees,yes,2.137,2026-04-11 17:26:19
+user_1081,sample_testing_file/WOMEN-Shorts-id_00006176-02_2_side.jpg,Shorts,no,3.35,2026-04-11 17:29:40
+user_1081,sample_testing_file/WOMEN-Graphic_Tees-id_00035993-08_1_front.jpg,Graphic Tees,yes,2.219,2026-04-11 17:31:01
+user_1082,sample_testing_file/MEN-Shorts-id_00044658-03_1_front.jpg,Shorts,yes,1.566,2026-04-01 12:31:01
+user_1082,sample_testing_file/WOMEN-Cardigans-id_00021466-05_1_front.jpg,Cardigans,no,1.276,2026-04-01 12:33:00
+user_1082,sample_testing_file/MEN-Tees_Tanks-id_00000222-09_7_additional.jpg,Tees / Tanks,no,2.826,2026-04-01 12:35:10
+user_1082,sample_testing_file/WOMEN-Dresses-id_00072064-03_3_back.jpg,Dresses,yes,1.434,2026-04-01 12:36:09
+user_1082,sample_testing_file/WOMEN-Jackets_Coats-id_00027550-07_7_additional.jpg,Jackets / Coats,yes,1.784,2026-04-01 12:39:27
+user_1082,sample_testing_file/WOMEN-Blouses_Shirts-id_00002758-10_7_additional.jpg,Blouses / Shirts,no,2.53,2026-04-01 12:41:46
+user_1082,sample_testing_file/WOMEN-Shorts-id_00012197-05_2_side.jpg,Shorts,yes,0.537,2026-04-07 11:39:40
+user_1082,sample_testing_file/MEN-Shorts-id_00028017-07_1_front.jpg,Shorts,no,2.292,2026-04-07 11:40:37
+user_1082,sample_testing_file/WOMEN-Dresses-id_00072064-03_3_back.jpg,Dresses,yes,1.718,2026-04-07 11:42:59
+user_1082,sample_testing_file/MEN-Denim-id_00032528-05_2_side.jpg,Denim,yes,1.925,2026-04-07 11:43:29
+user_1082,sample_testing_file/MEN-Shirts_Polos-id_00018727-05_2_side.jpg,Shirts / Polos,no,1.045,2026-04-07 11:46:56
+user_1082,sample_testing_file/WOMEN-Blouses_Shirts-id_00002541-12_7_additional.jpg,Blouses / Shirts,yes,1.423,2026-04-07 11:47:25
+user_1082,sample_testing_file/WOMEN-Cardigans-id_00051646-10_7_additional.jpg,Cardigans,yes,3.718,2026-04-07 11:49:09
+user_1082,sample_testing_file/WOMEN-Cardigans-id_00021466-05_1_front.jpg,Cardigans,no,1.935,2026-04-07 11:50:00
+user_1082,sample_testing_file/MEN-Shorts-id_00004279-04_3_back.jpg,Shorts,yes,0.642,2026-04-07 11:53:08
+user_1083,sample_testing_file/WOMEN-Dresses-id_00073773-05_1_front.jpg,Dresses,yes,3.99,2026-04-02 12:45:57
+user_1083,sample_testing_file/WOMEN-Skirts-id_00036501-11_4_full.jpg,Skirts,no,3.463,2026-04-02 12:48:59
+user_1083,sample_testing_file/MEN-Shirts_Polos-id_00028044-02_4_full.jpg,Shirts / Polos,yes,2.064,2026-04-02 12:52:30
+user_1083,sample_testing_file/WOMEN-Graphic_Tees-id_00055334-10_1_front.jpg,Graphic Tees,no,1.487,2026-04-02 12:54:56
+user_1083,sample_testing_file/MEN-Sweaters-id_00053355-04_1_front.jpg,Sweaters,yes,1.967,2026-04-02 12:55:18
+user_1083,sample_testing_file/WOMEN-Denim-id_00036348-09_4_full.jpg,Denim,yes,1.314,2026-04-02 12:58:04
+user_1083,sample_testing_file/WOMEN-Jackets_Vests-id_00020380-04_3_back.jpg,Jackets / Vests,yes,1.621,2026-04-02 12:58:33
+user_1083,sample_testing_file/MEN-Graphic_Tees-id_00036266-01_1_front.jpg,Graphic Tees,no,0.627,2026-04-02 12:58:57
+user_1083,sample_testing_file/WOMEN-Blouses_Shirts-id_00035698-05_7_additional.jpg,Blouses / Shirts,yes,2.003,2026-04-02 12:59:40
+user_1083,sample_testing_file/WOMEN-Sweaters-id_00000943-02_1_front.jpg,Sweaters,yes,2.516,2026-04-05 11:10:39
+user_1083,sample_testing_file/MEN-Sweaters-id_00027870-11_4_full.jpg,Sweaters,yes,0.662,2026-04-05 11:11:43
+user_1083,sample_testing_file/MEN-Shirts_Polos-id_00031030-03_2_side.jpg,Shirts / Polos,yes,2.474,2026-04-05 11:12:37
+user_1083,sample_testing_file/WOMEN-Sweaters-id_00075915-12_7_additional.jpg,Sweaters,yes,1.71,2026-04-05 11:13:25
+user_1083,sample_testing_file/WOMEN-Skirts-id_00063994-04_3_back.jpg,Skirts,yes,1.287,2026-04-05 11:15:49
+user_1083,sample_testing_file/MEN-Shirts_Polos-id_00027743-08_3_back.jpg,Shirts / Polos,yes,1.491,2026-04-05 11:16:22
+user_1084,sample_testing_file/WOMEN-Tees_Tanks-id_00055070-07_7_additional.jpg,Tees / Tanks,yes,2.133,2026-04-03 14:37:14
+user_1084,sample_testing_file/WOMEN-Tees_Tanks-id_00047577-05_2_side.jpg,Tees / Tanks,no,3.135,2026-04-03 14:38:08
+user_1084,sample_testing_file/MEN-Shirts_Polos-id_00071122-08_4_full.jpg,Shirts / Polos,no,0.452,2026-04-03 14:40:14
+user_1084,sample_testing_file/MEN-Shirts_Polos-id_00027743-08_3_back.jpg,Shirts / Polos,no,2.346,2026-04-03 14:42:30
+user_1084,sample_testing_file/MEN-Sweaters-id_00049696-11_2_side.jpg,Sweaters,yes,0.989,2026-04-03 14:42:48
+user_1084,sample_testing_file/MEN-Sweaters-id_00026686-11_3_back.jpg,Sweaters,no,1.966,2026-04-03 14:46:00
+user_1084,sample_testing_file/WOMEN-Tees_Tanks-id_00074365-02_1_front.jpg,Tees / Tanks,yes,1.661,2026-04-03 14:48:28
+user_1084,sample_testing_file/WOMEN-Graphic_Tees-id_00055334-10_1_front.jpg,Graphic Tees,yes,2.597,2026-04-09 14:06:29
+user_1084,sample_testing_file/WOMEN-Graphic_Tees-id_00037197-09_7_additional.jpg,Graphic Tees,no,2.346,2026-04-09 14:08:37
+user_1084,sample_testing_file/MEN-Shirts_Polos-id_00027743-08_3_back.jpg,Shirts / Polos,no,1.918,2026-04-09 14:11:49
+user_1084,sample_testing_file/MEN-Tees_Tanks-id_00029390-11_1_front.jpg,Tees / Tanks,no,2.43,2026-04-09 14:14:02
+user_1084,sample_testing_file/MEN-Shirts_Polos-id_00031030-03_2_side.jpg,Shirts / Polos,no,1.799,2026-04-09 14:16:17
+user_1084,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00048352-03_7_additional.jpg,Hoodies / Sweatshirts,no,2.208,2026-04-09 14:19:20
+user_1084,sample_testing_file/WOMEN-Sweaters-id_00000727-02_4_full.jpg,Sweaters,no,3.732,2026-04-09 14:22:30
+user_1084,sample_testing_file/MEN-Tees_Tanks-id_00052582-05_1_front.jpg,Tees / Tanks,no,3.537,2026-04-09 14:26:03
+user_1085,sample_testing_file/MEN-Denim-id_00044609-05_7_additional.jpg,Denim,yes,1.662,2026-04-07 15:25:24
+user_1085,sample_testing_file/MEN-Denim-id_00069617-09_7_additional.jpg,Denim,no,1.899,2026-04-07 15:27:16
+user_1085,sample_testing_file/WOMEN-Skirts-id_00063994-04_3_back.jpg,Skirts,yes,0.643,2026-04-07 15:30:48
+user_1085,sample_testing_file/WOMEN-Shorts-id_00062403-11_4_full.jpg,Shorts,no,1.895,2026-04-07 15:33:43
+user_1085,sample_testing_file/WOMEN-Denim-id_00020927-12_4_full.jpg,Denim,no,2.214,2026-04-07 15:36:07
+user_1085,sample_testing_file/WOMEN-Graphic_Tees-id_00003279-12_3_back.jpg,Graphic Tees,yes,4.888,2026-04-07 15:39:25
+user_1085,sample_testing_file/WOMEN-Tees_Tanks-id_00074365-02_1_front.jpg,Tees / Tanks,yes,1.512,2026-04-07 15:41:24
+user_1085,sample_testing_file/MEN-Tees_Tanks-id_00064252-02_4_full.jpg,Tees / Tanks,yes,1.917,2026-04-07 15:44:03
+user_1085,sample_testing_file/WOMEN-Tees_Tanks-id_00037931-02_2_side.jpg,Tees / Tanks,yes,2.457,2026-04-10 19:12:01
+user_1085,sample_testing_file/WOMEN-Denim-id_00025106-04_4_full.jpg,Denim,yes,1.856,2026-04-10 19:13:17
+user_1085,sample_testing_file/MEN-Tees_Tanks-id_00029390-11_1_front.jpg,Tees / Tanks,yes,1.771,2026-04-10 19:16:28
+user_1085,sample_testing_file/WOMEN-Jackets_Vests-id_00070283-06_1_front.jpg,Jackets / Vests,yes,2.878,2026-04-10 19:19:40
+user_1085,sample_testing_file/WOMEN-Denim-id_00020927-12_4_full.jpg,Denim,yes,2.237,2026-04-10 19:22:50
+user_1085,sample_testing_file/WOMEN-Skirts-id_00063994-04_3_back.jpg,Skirts,yes,1.515,2026-04-10 19:24:52
+user_1085,sample_testing_file/WOMEN-Cardigans-id_00079906-12_1_front.jpg,Cardigans,no,0.992,2026-04-10 19:27:22
+user_1086,sample_testing_file/WOMEN-Shorts-id_00006176-02_2_side.jpg,Shorts,no,1.909,2026-04-02 10:48:18
+user_1086,sample_testing_file/WOMEN-Skirts-id_00027761-09_2_side.jpg,Skirts,yes,1.379,2026-04-02 10:50:00
+user_1086,sample_testing_file/WOMEN-Graphic_Tees-id_00011004-11_4_full.jpg,Graphic Tees,no,4.987,2026-04-02 10:50:24
+user_1086,sample_testing_file/MEN-Jackets_Vests-id_00034336-03_4_full.jpg,Jackets / Vests,no,4.197,2026-04-02 10:51:45
+user_1086,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00014323-04_2_side.jpg,Hoodies / Sweatshirts,no,4.656,2026-04-02 10:53:28
+user_1086,sample_testing_file/MEN-Shorts-id_00015861-04_2_side.jpg,Shorts,yes,1.695,2026-04-02 10:56:24
+user_1086,sample_testing_file/WOMEN-Cardigans-id_00073564-04_7_additional.jpg,Cardigans,no,2.186,2026-04-02 10:57:03
+user_1086,sample_testing_file/MEN-Shorts-id_00028017-07_1_front.jpg,Shorts,yes,2.175,2026-04-02 11:00:18
+user_1086,sample_testing_file/WOMEN-Skirts-id_00078505-06_4_full.jpg,Skirts,yes,1.652,2026-04-10 10:20:39
+user_1086,sample_testing_file/WOMEN-Tees_Tanks-id_00078194-07_3_back.jpg,Tees / Tanks,no,1.916,2026-04-10 10:22:12
+user_1086,sample_testing_file/WOMEN-Cardigans-id_00079906-12_1_front.jpg,Cardigans,no,0.471,2026-04-10 10:23:29
+user_1086,sample_testing_file/WOMEN-Denim-id_00029220-01_2_side.jpg,Denim,no,3.858,2026-04-10 10:25:25
+user_1086,sample_testing_file/MEN-Shirts_Polos-id_00009962-10_2_side.jpg,Shirts / Polos,no,3.016,2026-04-10 10:27:09
+user_1086,sample_testing_file/MEN-Sweaters-id_00076623-07_7_additional.jpg,Sweaters,yes,3.735,2026-04-10 10:28:51
+user_1086,sample_testing_file/WOMEN-Dresses-id_00022783-09_1_front.jpg,Dresses,yes,3.623,2026-04-10 10:29:26
+user_1087,sample_testing_file/MEN-Shorts-id_00004279-04_3_back.jpg,Shorts,yes,1.119,2026-04-01 10:09:16
+user_1087,sample_testing_file/MEN-Denim-id_00044588-02_3_back.jpg,Denim,no,1.626,2026-04-01 10:11:52
+user_1087,sample_testing_file/MEN-Shirts_Polos-id_00058879-10_3_back.jpg,Shirts / Polos,yes,1.864,2026-04-01 10:13:24
+user_1087,sample_testing_file/WOMEN-Shorts-id_00062403-11_4_full.jpg,Shorts,no,3.214,2026-04-01 10:14:19
+user_1087,sample_testing_file/MEN-Shorts-id_00009509-01_4_full.jpg,Shorts,no,3.506,2026-04-01 10:14:50
+user_1087,sample_testing_file/MEN-Denim-id_00032528-05_2_side.jpg,Denim,no,1.378,2026-04-01 10:15:59
+user_1087,sample_testing_file/WOMEN-Graphic_Tees-id_00035993-08_1_front.jpg,Graphic Tees,no,2.111,2026-04-01 10:19:14
+user_1087,sample_testing_file/MEN-Shorts-id_00028017-07_1_front.jpg,Shorts,yes,2.334,2026-04-03 19:22:18
+user_1087,sample_testing_file/WOMEN-Sweaters-id_00018290-12_1_front.jpg,Sweaters,no,4.235,2026-04-03 19:22:46
+user_1087,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00014323-04_2_side.jpg,Hoodies / Sweatshirts,no,4.619,2026-04-03 19:25:03
+user_1087,sample_testing_file/WOMEN-Denim-id_00050141-01_4_full.jpg,Denim,no,0.809,2026-04-03 19:26:45
+user_1087,sample_testing_file/MEN-Shirts_Polos-id_00028747-03_7_additional.jpg,Shirts / Polos,yes,1.643,2026-04-03 19:27:04
+user_1087,sample_testing_file/MEN-Jackets_Vests-id_00034336-03_4_full.jpg,Jackets / Vests,yes,2.412,2026-04-03 19:27:58
+user_1087,sample_testing_file/WOMEN-Jackets_Vests-id_00020380-04_3_back.jpg,Jackets / Vests,yes,1.061,2026-04-03 19:29:48
+user_1087,sample_testing_file/WOMEN-Denim-id_00004068-04_2_side.jpg,Denim,no,2.103,2026-04-03 19:31:02
+user_1088,sample_testing_file/WOMEN-Sweaters-id_00004118-06_1_front.jpg,Sweaters,yes,0.966,2026-04-03 20:51:23
+user_1088,sample_testing_file/WOMEN-Cardigans-id_00079906-12_1_front.jpg,Cardigans,no,4.775,2026-04-03 20:53:16
+user_1088,sample_testing_file/WOMEN-Jackets_Coats-id_00032952-04_1_front.jpg,Jackets / Coats,no,0.732,2026-04-03 20:56:13
+user_1088,sample_testing_file/WOMEN-Tees_Tanks-id_00047577-05_2_side.jpg,Tees / Tanks,no,1.804,2026-04-03 20:57:04
+user_1088,sample_testing_file/WOMEN-Dresses-id_00046567-04_3_back.jpg,Dresses,yes,1.713,2026-04-07 15:39:27
+user_1088,sample_testing_file/WOMEN-Sweaters-id_00000943-02_1_front.jpg,Sweaters,yes,0.565,2026-04-07 15:42:02
+user_1088,sample_testing_file/WOMEN-Tees_Tanks-id_00055070-07_7_additional.jpg,Tees / Tanks,yes,3.869,2026-04-07 15:43:31
+user_1088,sample_testing_file/WOMEN-Jackets_Coats-id_00027550-07_7_additional.jpg,Jackets / Coats,yes,3.083,2026-04-07 15:44:42
+user_1088,sample_testing_file/WOMEN-Jackets_Coats-id_00014954-02_4_full.jpg,Jackets / Coats,no,1.422,2026-04-11 12:33:32
+user_1088,sample_testing_file/WOMEN-Dresses-id_00023820-01_3_back.jpg,Dresses,yes,1.943,2026-04-11 12:35:48
+user_1088,sample_testing_file/WOMEN-Jackets_Coats-id_00027550-07_7_additional.jpg,Jackets / Coats,no,1.232,2026-04-11 12:39:09
+user_1088,sample_testing_file/WOMEN-Denim-id_00020927-12_4_full.jpg,Denim,yes,5.264,2026-04-11 12:42:49
+user_1088,sample_testing_file/WOMEN-Jackets_Coats-id_00005230-06_2_side.jpg,Jackets / Coats,no,1.279,2026-04-11 12:45:02
+user_1088,sample_testing_file/WOMEN-Cardigans-id_00079906-12_1_front.jpg,Cardigans,no,1.998,2026-04-11 12:46:56
+user_1088,sample_testing_file/MEN-Sweaters-id_00027870-11_4_full.jpg,Sweaters,yes,1.565,2026-04-11 12:47:35
+user_1089,sample_testing_file/WOMEN-Tees_Tanks-id_00074365-02_1_front.jpg,Tees / Tanks,yes,1.021,2026-04-07 15:31:57
+user_1089,sample_testing_file/WOMEN-Tees_Tanks-id_00037931-02_2_side.jpg,Tees / Tanks,yes,1.529,2026-04-07 15:32:34
+user_1089,sample_testing_file/MEN-Shirts_Polos-id_00040136-11_7_additional.jpg,Shirts / Polos,yes,1.861,2026-04-07 15:35:11
+user_1089,sample_testing_file/WOMEN-Cardigans-id_00073564-04_7_additional.jpg,Cardigans,yes,1.168,2026-04-07 15:35:59
+user_1089,sample_testing_file/WOMEN-Tees_Tanks-id_00078194-07_3_back.jpg,Tees / Tanks,yes,2.102,2026-04-07 15:39:09
+user_1089,sample_testing_file/WOMEN-Graphic_Tees-id_00073921-04_4_full.jpg,Graphic Tees,no,1.893,2026-04-08 14:13:43
+user_1089,sample_testing_file/WOMEN-Cardigans-id_00034180-04_3_back.jpg,Cardigans,yes,1.195,2026-04-08 14:15:07
+user_1089,sample_testing_file/WOMEN-Graphic_Tees-id_00011004-11_4_full.jpg,Graphic Tees,no,1.728,2026-04-08 14:17:08
+user_1089,sample_testing_file/WOMEN-Sweaters-id_00031636-12_4_full.jpg,Sweaters,no,5.114,2026-04-08 14:19:26
+user_1089,sample_testing_file/WOMEN-Cardigans-id_00044093-01_4_full.jpg,Cardigans,yes,0.953,2026-04-08 14:20:42
+user_1089,sample_testing_file/WOMEN-Hoodies_Sweatshirts-id_00041360-02_7_additional.jpg,Hoodies / Sweatshirts,yes,4.739,2026-04-10 19:51:43
+user_1089,sample_testing_file/WOMEN-Skirts-id_00032915-01_1_front.jpg,Skirts,yes,3.324,2026-04-10 19:53:21
+user_1089,sample_testing_file/MEN-Tees_Tanks-id_00039140-07_4_full.jpg,Tees / Tanks,yes,0.749,2026-04-10 19:54:32
+user_1089,sample_testing_file/WOMEN-Cardigans-id_00044093-01_4_full.jpg,Cardigans,yes,2.192,2026-04-10 19:55:22
+user_1089,sample_testing_file/MEN-Tees_Tanks-id_00000222-09_7_additional.jpg,Tees / Tanks,yes,2.068,2026-04-10 19:57:10
+user_1090,sample_testing_file/WOMEN-Skirts-id_00032915-01_1_front.jpg,Skirts,no,1.741,2026-04-06 20:39:56
+user_1090,sample_testing_file/WOMEN-Tees_Tanks-id_00055070-07_7_additional.jpg,Tees / Tanks,yes,0.684,2026-04-06 20:41:54
+user_1090,sample_testing_file/WOMEN-Denim-id_00045509-09_4_full.jpg,Denim,yes,1.57,2026-04-06 20:44:37
+user_1090,sample_testing_file/MEN-Hoodies_Sweatshirts-id_00009072-09_2_side.jpg,Hoodies / Sweatshirts,yes,4.214,2026-04-06 20:45:21
+user_1090,sample_testing_file/WOMEN-Cardigans-id_00009603-09_2_side.jpg,Cardigans,yes,2.52,2026-04-06 20:47:44
+user_1090,sample_testing_file/WOMEN-Cardigans-id_00053226-09_1_front.jpg,Cardigans,yes,0.6,2026-04-06 20:49:14
+user_1090,sample_testing_file/WOMEN-Tees_Tanks-id_00028658-04_7_additional.jpg,Tees / Tanks,yes,2.298,2026-04-06 20:49:46
+user_1090,sample_testing_file/WOMEN-Cardigans-id_00051646-10_7_additional.jpg,Cardigans,yes,0.598,2026-04-10 16:25:37
+user_1090,sample_testing_file/MEN-Jackets_Vests-id_00034336-03_4_full.jpg,Jackets / Vests,yes,2.208,2026-04-10 16:26:47
+user_1090,sample_testing_file/MEN-Shirts_Polos-id_00071122-08_4_full.jpg,Shirts / Polos,no,2.283,2026-04-10 16:29:55
+user_1090,sample_testing_file/MEN-Graphic_Tees-id_00009039-09_3_back.jpg,Graphic Tees,yes,1.729,2026-04-10 16:31:04
+user_1090,sample_testing_file/WOMEN-Jackets_Vests-id_00036472-07_3_back.jpg,Jackets / Vests,yes,0.981,2026-04-10 16:31:58
+user_1090,sample_testing_file/MEN-Denim-id_00069617-09_7_additional.jpg,Denim,no,1.573,2026-04-10 16:33:40
+user_1090,sample_testing_file/MEN-Tees_Tanks-id_00064252-02_4_full.jpg,Tees / Tanks,yes,2.262,2026-04-10 16:37:06
+user_1090,sample_testing_file/WOMEN-Cardigans-id_00034180-04_3_back.jpg,Cardigans,yes,0.836,2026-04-10 16:40:46
+user_1091,sample_testing_file/WOMEN-Dresses-id_00000283-07_3_back.jpg,Dresses,yes,2.493,2026-04-03 20:35:20
+user_1091,sample_testing_file/MEN-Jackets_Vests-id_00034336-03_4_full.jpg,Jackets / Vests,yes,1.237,2026-04-03 20:38:53
+user_1091,sample_testing_file/WOMEN-Blouses_Shirts-id_00078698-02_7_additional.jpg,Blouses / Shirts,no,0.943,2026-04-03 20:42:27
+user_1091,sample_testing_file/WOMEN-Graphic_Tees-id_00077398-07_1_front.jpg,Graphic Tees,yes,1.943,2026-04-03 20:44:54
+user_1091,sample_testing_file/WOMEN-Skirts-id_00069330-01_7_additional.jpg,Skirts,no,5.064,2026-04-03 20:48:23
+user_1091,sample_testing_file/MEN-Graphic_Tees-id_00036266-01_1_front.jpg,Graphic Tees,yes,2.422,2026-04-03 20:50:22
+user_1091,sample_testing_file/WOMEN-Tees_Tanks-id_00037931-02_2_side.jpg,Tees / Tanks,yes,4.051,2026-04-04 15:43:36
+user_1091,sample_testing_file/WOMEN-Blouses_Shirts-id_00002758-10_7_additional.jpg,Blouses / Shirts,no,0.994,2026-04-04 15:46:56
+user_1091,sample_testing_file/WOMEN-Graphic_Tees-id_00077398-07_1_front.jpg,Graphic Tees,yes,0.831,2026-04-04 15:47:55
+user_1091,sample_testing_file/MEN-Denim-id_00032528-05_2_side.jpg,Denim,yes,4.124,2026-04-04 15:48:44
+user_1091,sample_testing_file/WOMEN-Shorts-id_00012900-01_4_full.jpg,Shorts,yes,0.524,2026-04-05 10:43:46
+user_1091,sample_testing_file/WOMEN-Tees_Tanks-id_00078194-07_3_back.jpg,Tees / Tanks,no,4.966,2026-04-05 10:46:56
+user_1091,sample_testing_file/WOMEN-Jackets_Coats-id_00031964-08_7_additional.jpg,Jackets / Coats,no,1.224,2026-04-05 10:49:27
+user_1091,sample_testing_file/MEN-Shirts_Polos-id_00018727-05_2_side.jpg,Shirts / Polos,yes,0.555,2026-04-05 10:52:41
+user_1091,sample_testing_file/WOMEN-Dresses-id_00077993-02_2_side.jpg,Dresses,no,0.915,2026-04-05 10:54:35
+user_1092,sample_testing_file/MEN-Shirts_Polos-id_00031030-03_2_side.jpg,Shirts / Polos,yes,2.204,2026-04-02 11:43:16
+user_1092,sample_testing_file/MEN-Shorts-id_00015861-04_2_side.jpg,Shorts,no,5.465,2026-04-02 11:44:56
+user_1092,sample_testing_file/MEN-Denim-id_00044588-02_3_back.jpg,Denim,no,0.656,2026-04-02 11:46:55
+user_1092,sample_testing_file/MEN-Shirts_Polos-id_00074669-04_7_additional.jpg,Shirts / Polos,yes,0.476,2026-04-02 11:48:35
+user_1092,sample_testing_file/WOMEN-Dresses-id_00000283-07_3_back.jpg,Dresses,no,2.582,2026-04-04 13:29:38
+user_1092,sample_testing_file/WOMEN-Blouses_Shirts-id_00023406-10_3_back.jpg,Blouses / Shirts,no,1.618,2026-04-04 13:30:13
+user_1092,sample_testing_file/WOMEN-Blouses_Shirts-id_00078698-02_7_additional.jpg,Blouses / Shirts,no,2.32,2026-04-04 13:30:57
+user_1092,sample_testing_file/WOMEN-Tees_Tanks-id_00055070-07_7_additional.jpg,Tees / Tanks,yes,1.907,2026-04-04 13:33:48
+user_1092,sample_testing_file/MEN-Shorts-id_00009509-01_4_full.jpg,Shorts,yes,4.585,2026-04-04 13:37:23
+user_1092,sample_testing_file/MEN-Shirts_Polos-id_00042246-04_1_front.jpg,Shirts / Polos,yes,0.595,2026-04-04 13:40:37
+user_1092,sample_testing_file/WOMEN-Tees_Tanks-id_00078194-07_3_back.jpg,Tees / Tanks,yes,0.95,2026-04-11 10:39:55
+user_1092,sample_testing_file/WOMEN-Denim-id_00020927-12_4_full.jpg,Denim,no,1.652,2026-04-11 10:42:43
+user_1092,sample_testing_file/MEN-Tees_Tanks-id_00029390-11_1_front.jpg,Tees / Tanks,yes,0.974,2026-04-11 10:43:32
+user_1092,sample_testing_file/MEN-Tees_Tanks-id_00007493-01_7_additional.jpg,Tees / Tanks,yes,0.884,2026-04-11 10:44:10
+user_1092,sample_testing_file/MEN-Shirts_Polos-id_00058879-10_3_back.jpg,Shirts / Polos,yes,2.009,2026-04-11 10:46:04
+user_1093,sample_testing_file/MEN-Jackets_Vests-id_00030785-11_3_back.jpg,Jackets / Vests,yes,0.566,2026-04-05 10:16:00
+user_1093,sample_testing_file/MEN-Shirts_Polos-id_00046113-12_4_full.jpg,Shirts / Polos,no,1.853,2026-04-05 10:19:08
+user_1093,sample_testing_file/MEN-Shirts_Polos-id_00028044-02_4_full.jpg,Shirts / Polos,no,1.313,2026-04-05 10:22:01
+user_1093,sample_testing_file/WOMEN-Dresses-id_00053546-08_7_additional.jpg,Dresses,yes,0.864,2026-04-05 10:22:20
+user_1093,sample_testing_file/MEN-Shorts-id_00015861-04_2_side.jpg,Shorts,no,0.789,2026-04-05 10:25:20
+user_1093,sample_testing_file/WOMEN-Shorts-id_00012900-01_4_full.jpg,Shorts,no,0.602,2026-04-05 10:27:58
+user_1093,sample_testing_file/WOMEN-Skirts-id_00078505-06_4_full.jpg,Skirts,no,1.949,2026-04-05 10:31:21
+user_1093,sample_testing_file/MEN-Tees_Tanks-id_00007493-01_7_additional.jpg,Tees / Tanks,yes,2.986,2026-04-05 10:32:24
+user_1093,sample_testing_file/WOMEN-Dresses-id_00022783-09_1_front.jpg,Dresses,yes,2.541,2026-04-05 10:35:24
+user_1093,sample_testing_file/WOMEN-Dresses-id_00053546-08_7_additional.jpg,Dresses,yes,1.382,2026-04-11 16:25:00
+user_1093,sample_testing_file/MEN-Shirts_Polos-id_00046113-12_4_full.jpg,Shirts / Polos,no,1.936,2026-04-11 16:25:57
+user_1093,sample_testing_file/MEN-Shirts_Polos-id_00040136-11_7_additional.jpg,Shirts / Polos,yes,2.171,2026-04-11 16:28:04
+user_1093,sample_testing_file/WOMEN-Jackets_Vests-id_00070283-06_1_front.jpg,Jackets / Vests,yes,1.447,2026-04-11 16:30:39
+user_1093,sample_testing_file/WOMEN-Dresses-id_00022783-09_1_front.jpg,Dresses,yes,0.744,2026-04-11 16:32:53
+user_1093,sample_testing_file/WOMEN-Dresses-id_00073773-05_1_front.jpg,Dresses,yes,0.478,2026-04-11 16:35:11
